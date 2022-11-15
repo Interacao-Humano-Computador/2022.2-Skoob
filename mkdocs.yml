@@ -17,3 +17,6 @@ theme:
 
 nav:
   - Início: index.md
+  - Planejamento:
+    - Reuniões: planning/reunioes.md
+    - Metodologia: planning/metodologia.md
