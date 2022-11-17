@@ -1,4 +1,16 @@
 # Início
+<p align="center">
+    <img src="./assets/CAPES_logo.png" width="500">
+</p>
+<br>
+
+---
+
+# Sobre
+
+Este repositório destina-se a documentação dos artefatos designados ao desenvolvimento do projeto final da disciplina de Interação humano-computador, ministrado pelo professor André Barros de Sales, na Universidade de Brasília - Gama. Que tem como objetivo analisar o site do [CAPES](https://www.gov.br/capes/pt-br), empregando conceitos assimilados ao longo da disciplina e apresentando aprimoramentos na usabilidade.
+
+---
 
 ## Contribuidores
 

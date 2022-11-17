@@ -1,7 +1,7 @@
-site_name: Grupo 1
+site_name: CAPES
 
-repo_name: '2022.2-Grupo1'
-repo_url: 'https://github.com/Interacao-Humano-Computador/2022.2-Grupo1'
+repo_name: '2022.2-CAPES'
+repo_url: 'https://github.com/Interacao-Humano-Computador/2022.2-CAPES'
 
 copyright: 'Copyright &copy; 2022 Grupo 1'
 
@@ -9,8 +9,10 @@ theme:
   name: material
   language: 'pt'
   palette:
-    primary: deep purple
-    accent: orange
+    primary: light blue
+    accent: green
+  features:
+    - navigation.tabs
   font:
     text: 'Montserrat'
     code: 'sans-serif'
