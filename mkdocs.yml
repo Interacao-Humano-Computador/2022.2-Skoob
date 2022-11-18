@@ -1,28 +1,29 @@
-site_name: CAPES
+site_name: Skoob
 
-repo_name: '2022.2-CAPES'
-repo_url: 'https://github.com/Interacao-Humano-Computador/2022.2-CAPES'
+repo_name: "2022.2-Skoob"
+repo_url: "https://github.com/Interacao-Humano-Computador/2022.2-Skoob"
 
-copyright: 'Copyright &copy; 2022 Grupo 1'
+copyright: "Copyright &copy; 2022 Grupo 1"
 
 theme:
   name: material
-  language: 'pt'
+  language: "pt"
   palette:
     primary: light blue
-    accent: green
+    accent: white
   features:
     - navigation.tabs
   font:
-    text: 'Montserrat'
-    code: 'sans-serif'
-
+    text: "Montserrat"
+    code: "sans-serif"
+  logo: assets/logo.png
+  favicon: assets/logo.png
 nav:
   - Início: index.md
   - Planejamento:
-    - Reuniões: planejamento/reunioes.md
-    - Ferramentas: planejamento/ferramentas.md
-    - Metodologia: planejamento/metodologia.md
+      - Reuniões: planejamento/reunioes.md
+      - Ferramentas: planejamento/ferramentas.md
+      - Metodologia: planejamento/metodologia.md
   - Atas das Reuniões:
-    - Reunião 1 - 15/11/2022: atas-das-reunioes/reuniao1.md
-    - Reunião 2 - 17/11/2022: atas-das-reunioes/reuniao2.md
+      - Reunião 1 - 15/11/2022: atas-das-reunioes/reuniao1.md
+      - Reunião 2 - 17/11/2022: atas-das-reunioes/reuniao2.md
