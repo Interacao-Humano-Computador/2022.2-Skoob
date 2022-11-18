@@ -29,11 +29,13 @@ Caso seja nescessário usar co-authored, será utilizado normalmente sem nenhuma
 ## Política de revisão
 Para que nenhum arquivo fique com alguma informação faltando ou errada, foi definido que a cada nova modificação feita nos arquivos, será escolhido pelo autor um outro membro da equipe para executar a revisão e apontar os pontos que precisarão serem modificados caso nescessário. Se tornando obrigatório a requisição de um revisador desde a sprint 1 onde foi acordado tal exigência.
 
-## Bibliografia
-- Site metodologias ágeis - www.metodologiaagil.com
+## Referências
+> Site metodologias ágeis - <a href="https://www.metodologiaagil.com">www.metodologiaagil.com</a>
 
 </br>
 
+## Histórico de versão
 | Versão | Data | Descrição  | Autor        | Revisor |
 | :-----: | :----: | :----------: | :------------: | :--------: |
 | 0.1 | 15/11/2022 | Criado arquivo sobre metodologias | Wildemberg Sales | João Pedro Alves |
+| 0.2 | 18/11/2022 | Ajustado links e títulos | Wildemberg Sales | João Pedro Alves |
