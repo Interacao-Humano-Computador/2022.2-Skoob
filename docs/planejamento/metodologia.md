@@ -10,7 +10,7 @@ O Scrum é um framework para desenvolvimento ágil tanto de software como de out
 ### Fluxo do Scrum
 
 ![scrum Fluxo](./assets/scrumFluxo.png)
-Fluxo do scrum - retirado do site [metodologias ágeis](metodologiaagil.com/scrum)
+<figcaption align="center">Figura 1: Fluxo do Scrum (Fonte: <a href="https://metodologiaagil.com/scrum/" target="_blanck">Metodologias Ágeis e Scrum</a>, 2022)</figcaption>
 
 </br>
 
