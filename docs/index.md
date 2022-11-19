@@ -3,6 +3,8 @@
 <p align="center">
     <img src="./assets/inicio.png" width="500">
 </p>
+<figcaption>Imagem 1: Apresentação do Aplicativo GrassHopper  </figcaption>
+
 <br>
 
 ---
