@@ -21,35 +21,17 @@ A avaliação por Percurso cognitivo para este site constatou que o site possuia
 ### 1.2 CAPES
 A CAPES é conhecida pelo sistema de avaliação dos cursos de mestrado e doutorado. A avaliação serve de instrumento para a comunidade universitária na busca de um padrão de excelência acadêmica para os mestrados e doutorados nacionais.
 
-A avaliação heurística realizada neste site apresentou problemas relacionados a compatibilidade do sistema com o mundo real, flexibilidade e eficiência de uso, estética e design. A maior parte dos problemas encontrados não possui alto grau de severidade, as maiores oportunidades de melhoria estão todas relacionadas à estética e disposição das informações ao longo do site. 
+A avaliação heurística realizada neste site apresentou problemas relacionados a compatibilidade do sistema com o mundo real, flexibilidade e eficiência de uso, estética e design. A maior parte dos problemas encontrados foram em acesssar recursos do sistema e a dificuldade de navegação.
 
-### 1.3 SAE
-O Projeto SAE é originário de pesquisas envolvendo professores e estudantes de três instituições brasileiras
-de ensino superior (UCB, UFRGS e PUC-RS), que objetiva empregar recursos tecnológicos adequados a
-uma metodologia educacional coerente ao ensino-aprendizagem almejado, consistindo num projeto,
-naturalmente, multidisciplinar (Educação, Psicologia e Informática).
+### 1.3 Prefeitura de Blumenau
+Blumenau é um município do estado de Santa Catarina, O site é o portal de informaçõe gerais para fornecer dados da cidade.
 
-Os principais módulos componentes do SAE são:
-- Banco de Questões (BDQ)
-- Projeto de monitoria estudantil (PMon)
-- Acadêmico (Maior)
-- Sistema tutor inteligente
-- Módulo de interface animada
-- Acompanhamento real
-- Cooperação
-- Apoio à decisão
-- Conteúdo
+A avaliação foi proposta com o objetivo de esclarecer
+possíveis dificuldades de usabilidade que os usuários encontram ao navegar no site, acessibilidade,responsividade, assim como a clareza e disposição das informações.
 
-O escopo de avaliação deste site se restringe à área de Questões, que possui 6 módulos:
-- Questões
-- Listas
-- Histórico
-- Testes
-- Correções
+Após análise das heurísticas, foi identificado que parte dos problemas da página se referem à estética, design minimalista, consistência e padrões. O fator mais impactante é o de Acessibililidade, e, apesar de ser governamental e público, não apresenta ferramentas de acessibilidade
 
-Após análise das heurísticas, foi identificado que a maior parte dos problemas da página se referem à estética e design, reconhecimento ao invés de lembrança e status do sistema. O fator mais impactante é o de design, que deixa a desejar e dificulta o aprendizado do usuário quanto à lógica do site, assim como a ausência de rastreabilidade de rotas, dificultado que o usuário se localize sobre os passos que foram feitos até atingir o objetivo final.
-
-### 1.4 BCE - Biblioteca Central da UnB
+### 1.4 Skoob
 A Universidade de Brasília foi a primeira universidade brasileira a implantar o conceito de Biblioteca Central Universitária, opondo-se ao antieconômico sistema de pequenas bibliotecas dispersas em Departamentos, Faculdades e Institutos. (NASSER, HIGINO, 2007).
 
 A Biblioteca Central tem o objetivo de atender aos diversos segmentos da Univeridade de Brasília em suas necessidades de documentação e informação nas áreas do conhecimento específico de sua atuação, contribuindo para a qualidade da eduação, da pesquisa e da extensão. (NASSER, HIGINO, 2007).
