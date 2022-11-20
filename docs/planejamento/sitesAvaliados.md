@@ -1,7 +1,4 @@
-# Análise de sites 
-
-# não terminado
-
+# Análise de sites
 
 ## 1. Contexto
 Antes de definir um site para desenvolver o projeto de IHC, algumas páginas da internet foram selecionadas a fim de verificar em quais aspectos o projeto poderia atuar para propor melhorias. Para cada site escolhido, a verificação foi feita através de avaliações, heurísticas e por meio de entrevista, cujas conclusões foram as demostradas a seguir.
@@ -32,25 +29,14 @@ possíveis dificuldades de usabilidade que os usuários encontram ao navegar no 
 Após análise das heurísticas, foi identificado que parte dos problemas da página se referem à estética, design minimalista, consistência e padrões. O fator mais impactante é o de Acessibililidade, e, apesar de ser governamental e público, não apresenta ferramentas de acessibilidade
 
 ### 1.4 Skoob
-A Universidade de Brasília foi a primeira universidade brasileira a implantar o conceito de Biblioteca Central Universitária, opondo-se ao antieconômico sistema de pequenas bibliotecas dispersas em Departamentos, Faculdades e Institutos. (NASSER, HIGINO, 2007).
+Skoob é uma rede social colaborativa brasileira para leitores, lançada em janeiro de 2009 pelo desenvolvedor Lindenberg Moreira. O site tornou-se um ponto de encontro para leitores e novos escritores, que trocam sugestões de leitura e organizam reuniões em livrarias
 
-A Biblioteca Central tem o objetivo de atender aos diversos segmentos da Univeridade de Brasília em suas necessidades de documentação e informação nas áreas do conhecimento específico de sua atuação, contribuindo para a qualidade da eduação, da pesquisa e da extensão. (NASSER, HIGINO, 2007).
 
-Seu acervo conta com mais de um milhão de volumes e disponível em mais de 16.000 m² de área construída e tem frequência média diária superior a 2500 pessoas, contando com uma diversidade de produtos e serviços que são oferecidos. (NASSER, HIGINO, 2007).
-
-O escopo dessa avaliação são os serviços de suporte ao empréstimo de livros oferecidos pelo ​ site da BCE​. Esses serviços são:
-- Localização de obras do acervo
-- Agendamento de empréstimos
-- Renovação do prazo de devolução
-
-A avaliação por meio de entrevistas para este site permitiu a identificação de oportunidades de melhoria em 4 aspectos de usabilidade - Projeto estético e minimalista, Prevenção de erros, flexibilidade e eficiência, consistência e padrões. Os problemas identificados revelam que houve dificuldade de acesso e de localização de obras​ tanto no sistema quanto no acervo físico, fatores esses que contribuem para que o site seja subutilizado. 
+A medotologia utilizada na avaliação do site, foi a avaliação heuristíca, que permitiu a identificação de oportunidades de melhoria em 4 aspectos de usabilidade - Projeto estético e minimalista, Prevenção de erros, flexibilidade e eficiência, consistência e padrões. Os problemas identificados revelam que houve dificuldade de acesso e de localização de obras​ tanto no sistema quanto no acervo físico, fatores esses que contribuem para que o site seja subutilizado.
 
 ## 2. Conclusão
-Segundo os critérios propostos nas 10 (dez) heurísticas de Nielsen (2000) e utilizadas nas avaliações feitas, todos os sites apresentaram oportunidades de melhoria em vários aspectos de usabilidade. Entretanto, algumas barreiras foram encontradas principalmente em relação às informações de usuários.
 
-O site da BCE permite que todos os participantes do grupo, devido ao vínculo com a instituição, tenham acesso aos serviços incluídos no escopo de avaliação. Também conta com dissertações em seu acevo que traz dados sobre número de empréstimos online, faixa etária de usuários e áreas do conhecimento mais procuradas.
-
-Portanto, o site da Biblioteca Central da UnB foi o escolhido para o projeto da disciplina de Interação Humano-Computador devido a maior quantidade de dados como ponto de partida, e com intuito de propor melhorias para nossa instituição de ensino.
+O site da Skoob, por possuir um design ineficiente, foi o mais interessante pois abri espaço para diversas melhorias de usabilidae e portanto foi o escolhido para o projeto da disciplina de Interação Humano-Computador devido a maior oportunidade de melhoria.
 
 
 
