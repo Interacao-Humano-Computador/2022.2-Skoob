@@ -1,4 +1,4 @@
-# Análise de sites
+# Análise de sites - Não Terminado
 
 ## 1. Contexto
 Antes de definir um site para desenvolver o projeto de IHC, algumas páginas da internet foram selecionadas a fim de verificar em quais aspectos o projeto poderia atuar para propor melhorias. Para cada site escolhido, a verificação foi feita através de avaliações, heurísticas e por meio de entrevista, cujas conclusões foram as demostradas a seguir.
