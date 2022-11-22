@@ -5,7 +5,7 @@
 <p align="justify">&emsp;&emsp;O cronograma é uma ferramenta que tem como objetivo organizar as atividades, os recursos e os prazos de um projeto de forma visual, neste caso, em tabelas. Os cronogramas a seguir foram construídos a partir das datas e prazos disponibilizados no cronograma do semestre letivo (2022.2) da disciplina.</p>
 
 ## Cronograma geral
-<figcaption align="center">Tabela 1 - Cronograma geral da equipe para todas as entregas.</figcaption>
+<figcaption align="center">Tabela 1 - Cronograma geral da equipe.</figcaption>
 
 | Etapa |                   Título                    |                                                                                                                                   Descrição                                                                                                                                    | Entrega | Apresentação |
 | :---: | :-----------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----: | :----------: |
@@ -23,6 +23,8 @@
 
 ### Etapa 1 - Planejamento
 
+<figcaption align="center">Tabela 2 - Cronograma da equipe para a etapa 1.</figcaption>
+
 |                  Tarefa                   |      Autor       | Entrega |           Revisor           | Revisão | Início da Realização | Fim da Realização |
 | :---------------------------------------: | :--------------: | :-----: | :-------------------------: | :-----: | :------------------: | :---------------: |
 |              Criação da Wiki              |   Lucas Lopes    |  11/11  |         Lucas Lopes         |  11/11  |        10/11         |       10/11       |
@@ -34,9 +36,11 @@
 |        Processo de Design adotado         |    João Pedro    |  19/11  |         Caio Vitor          |  21/11  |        06/11         |        ---        |
 |          Atas das Reuniões 1 e 2          |   Lucas Lopes    |  19/11  |         Caio Vitor          |  21/11  |        15/11         |       17/11       |
 
-<figcaption align="center">Tabela 2: Atividades específicas referentes à etapa 1.</figcaption>
+<figcaption align="center">Fonte: Hellen Fernanda</figcaption>
 
 ### Etapa 2 - Perfil do Usuário
+
+<figcaption align="center">Tabela 3 - Cronograma da equipe para a etapa 2.</figcaption>
 
 |                     Tarefa                      |      Autor       | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
 | :---------------------------------------------: | :--------------: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
@@ -44,9 +48,11 @@
 | Aspectos Éticos de Pesquisas Envolvendo Pessoas | Hellen, Philipe  |  07/12  |  Will   |  06/12  |          -           |         -         |
 |          Personas e Análise de tarefas          |   Will, Lucas    |  07/12  |  Caio   |  06/12  |          -           |         -         |
 
-<figcaption align="center">Tabela 3: Atividades específicas referentes à etapa 2.</figcaption>
+<figcaption align="center">Fonte: Hellen Fernanda</figcaption>
 
 ### Etapa 3 - Princípios Gerais do Projeto
+
+<figcaption align="center">Tabela 4 - Cronograma da equipe para a etapa 3.</figcaption>
 
 |                    Tarefa                    |        Autor        | Entrega |  Revisor   | Revisão | Início da Realização | Fim da Realização |
 | :------------------------------------------: | :-----------------: | :-----: | :--------: | :-----: | :------------------: | :---------------: |
@@ -55,9 +61,11 @@
 |                Guia de Estilo                |        Lucas        |  12/12  | João Pedro |  11/12  |          -           |         -         |
 | características da plataforma para o projeto |    Will, Hellen     |  12/12  |    Caio    |  11/12  |          -           |         -         |
 
-<figcaption align="center">Tabela 4: Atividades específicas referentes à etapa 3.</figcaption>
+<figcaption align="center">Fonte: Hellen Fernanda</figcaption>
 
 ### Etapa 4 - Planejamento da Avaliação do Storyboard
+
+<figcaption align="center">Tabela 5 - Cronograma da equipe para a etapa 4.</figcaption>
 
 |                                  Tarefa                                   |      Autor       | Entrega |  Revisor   | Revisão | Início da Realização | Fim da Realização |
 | :-----------------------------------------------------------------------: | :--------------: | :-----: | :--------: | :-----: | :------------------: | :---------------: |
@@ -66,9 +74,11 @@
 |              Planejamento da Avaliação do Análise de tarefas              |   Lucas, Will    |  14/12  |   Hellen   |  13/12  |          -           |         -         |
 | Planejamento do relato dos resultados da avaliação do Análise de tarefas. |      Hellen      |  14/12  | João Pedro |  13/12  |          -           |         -         |
 
-<figcaption align="center">Tabela 5: Atividades específicas referentes à etapa 4.</figcaption>
+<figcaption align="center">Fonte: Hellen Fernanda</figcaption>
 
 ### Etapa 5 - Relato dos resultados
+
+<figcaption align="center">Tabela 6 - Cronograma da equipe para a etapa 5.</figcaption>
 
 |                                  Tarefa                                  |    Autor     | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
 | :----------------------------------------------------------------------: | :----------: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
@@ -77,17 +87,21 @@
 |             Planejamento da Avaliação do Protótipo de Papel              |   Philipe    |  02/01  | Hellen  |  01/01  |          -           |         -         |
 | Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Lucas, Will  |  02/01  |  Caio   |  01/01  |          -           |         -         |
 
-<figcaption align="center">Tabela 6: Atividades específicas referentes à etapa 5.</figcaption>
+<figcaption align="center">Fonte: Hellen Fernanda</figcaption>
 
 ### Etapa 6 - Verificação dos Artefatos
+
+<figcaption align="center">Tabela 7 - Cronograma da equipe para a etapa 6.</figcaption>
 
 |          Tarefa           |        Autor         | Entrega |  Revisor   | Revisão | Início da Realização | Fim da Realização |
 | :-----------------------: | :------------------: | :-----: | :--------: | :-----: | :------------------: | :---------------: |
 | Verificação dos artefatos | Todos os integrantes |  18/01  | João Pedro |  17/01  |          -           |         -         |
 
-<figcaption align="center">Tabela 7: Atividades específicas referentes à etapa 6.</figcaption>
+<figcaption align="center">Fonte: Hellen Fernanda</figcaption>
 
 ### Etapa 7 - Relato dos resultados do Protótipo de Papel
+
+<figcaption align="center">Tabela 8 - Cronograma da equipe para a etapa 7.</figcaption>
 
 |                                       Tarefa                                       |      Autor       | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
 | :--------------------------------------------------------------------------------: | :--------------: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
@@ -95,23 +109,27 @@
 |             Planejamento da Avaliação do protótipo de alta fidelidade              | Caio, João Pedro |  11/01  |  Will   |  10/01  |          -           |         -         |
 | Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade |  Hellen, Lucas   |  11/01  | Phelipe |  10/01  |          -           |         -         |
 
-<figcaption align="center">Tabela 8: Atividades específicas referentes à etapa 7.</figcaption>
+<figcaption align="center">Fonte: Hellen Fernanda</figcaption>
 
 ### Etapa 8 - Relato dos Resultados
+
+<figcaption align="center">Tabela 9 - Cronograma da equipe para a etapa 8.</figcaption>
 
 |         Tarefa         |        Autor         | Entrega |    Revisor    | Revisão | Início da Realização | Fim da Realização |
 | :--------------------: | :------------------: | :-----: | :-----------: | :-----: | :------------------: | :---------------: |
 | Relatos dos resultados | Todos os integrantes |  25/01  | Will, Philipe |  24/01  |          -           |         -         |
 
-<figcaption align="center">Tabela 9: Atividades específicas referentes à etapa 8.</figcaption>
+<figcaption align="center">Fonte: Hellen Fernanda</figcaption>
 
 ### Etapa 9 - Apresentação do Projeto Final
+
+<figcaption align="center">Tabela 10 - Cronograma da equipe para a etapa 9.</figcaption>
 
 |            Tarefa            |        Autor         | Entrega |       Revisor        | Revisão | Início da Realização | Fim da Realização |
 | :--------------------------: | :------------------: | :-----: | :------------------: | :-----: | :------------------: | :---------------: |
 | Apresentação do projeto fina | Todos os integrantes |  01/02  | Todos os integrantes |  30/01  |          -           |         -         |
 
-<figcaption align="center">Tabela 9: Atividades específicas referentes à etapa 9.</figcaption>
+<figcaption align="center">Fonte: Hellen Fernanda</figcaption>
 
 ## Histórico de versão
 
