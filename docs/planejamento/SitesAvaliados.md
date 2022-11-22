@@ -45,7 +45,7 @@ O site da Skoob, por possuir um design ineficiente, foi o mais interessante pois
 
 ## 2.1 Avaliações
 - <strong>CAPES</strong>
-- [Planejamento da avaliação](/planejamento/SitesAvaliados/ProjetoParteIndividualPlanejAvaliçãoWildembergSales.pdf) <strong>--></strong> [Avaliação](/planejamento/SitesAvaliados/ProjetoParteIndividualMetodoeAvaliçãoWildembergSales.pdf)
+- [Planejamento da avaliação](2022.2-Skoob/planejamento/SitesAvaliados/ProjetoParteIndividualPlanejAvaliçãoWildembergSales.pdf) <strong>--></strong> [Avaliação](/planejamento/SitesAvaliados/ProjetoParteIndividualMetodoeAvaliçãoWildembergSales.pdf)
 - <strong>Prefeitura de Alvorada do Norte</strong>
 - [Planejamento da avaliação](/planejamento/SitesAvaliados/ProjetoParteIndividualPlanejAvaliçãoCaioVitorCarneiroDeOliveir-1.pdf) <strong>--></strong> [Avaliação](/planejamento/SitesAvaliados/ProjetoParteIndividualMetodoeAvaliçãoCaioVitorCarneirodeOliveira.pdf)
 - <strong>Prefeitura de Blumenau</strong>
