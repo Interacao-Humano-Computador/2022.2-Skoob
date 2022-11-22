@@ -95,7 +95,7 @@ Deborah Mayhew (1999) propôs um ciclo de vida que tem uma visão holística, es
 <p align="center">
 <img src="https://interacao-humano-computador.github.io/2020.2-Vjudge/assets/cicloDeVida/ciclo_mayhew.png">
 <figcaption align='center'>
-    <b>Figura 1: Etapas definidas para o ciclo de vida de Mayhew.</b>
+    <b>Figura 2: Etapas definidas para o ciclo de vida de Mayhew.</b>
     <br>
 </figcaption>
 </p>
