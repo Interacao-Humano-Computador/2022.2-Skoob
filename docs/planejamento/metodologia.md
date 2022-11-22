@@ -3,14 +3,14 @@
 ## Introdução
 Visando aprimorar a agilidade da equipe, e utilizar de técnicas que são conhecidas pelo grupo, foi definido que iremos utilizar metodologias ágeis, especificamente o Scrum.
 </br>
-O Scrum é um framework para desenvolvimento ágil tanto de software como de outras áreas. Derivado do manifesto ágil, se tornou o principal a ser utilzado para a organização e gerencia de grandes projetos, visando sempre a otimização do time, e entregas rápidas e contínuas de releases.
+O Scrum é um framework para desenvolvimento ágil tanto de software como de outras áreas. Derivado do manifesto ágil, se tornou o principal a ser utilzado para a organização e gerencia de grandes projetos, visando sempre a otimização do time, e entregas rápidas e contínuas de releases, assim como mostrado na <i>Figura 1</i>.
 
 </br>
 
 ### Fluxo do Scrum
 
-![scrum Fluxo](./assets/scrumFluxo.png)
-<figcaption align="center">Figura 1: Fluxo do Scrum (Fonte: <a href="https://metodologiaagil.com/scrum/" target="_blanck">Metodologias Ágeis e Scrum</a>, 2022)</figcaption>
+![scrum Fluxo](./assets/scrum.png)
+<figcaption align="center">Figura 1: Fluxo do Scrum (Fonte: <a href="https://ezdevs.com.br/scrum-na-pratica-entendendo-o-fluxo/" target="_blanck">ezdevs.com.br/</a>, 2022)</figcaption>
 
 </br>
 
@@ -39,3 +39,4 @@ Para que nenhum arquivo fique com alguma informação faltando ou errada, foi de
 | :-----: | :----: | :----------: | :------------: | :--------: |
 | 0.1 | 15/11/2022 | Criado arquivo sobre metodologias | Wildemberg Sales | João Pedro Alves |
 | 0.2 | 18/11/2022 | Ajustado links e títulos | Wildemberg Sales | João Pedro Alves |
+| 0.3 | 22/11/2022 | Ajustado figura 1 | Wildemberg Sales | João Pedro Alves |
