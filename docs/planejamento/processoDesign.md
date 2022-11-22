@@ -53,6 +53,7 @@ instalação desdobrando-se em estágios de identificação de requisitos, proje
 avaliação e construção de protótipos.
 </p>
 
+<figcaption align="center">Tabela 1 - Dez Princípios de Usabilidade de Nielsen.</figcaption>
 |                               Princípio                               |                                                                               Definição                                                                               |
 | :-------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                          Conhecer o usuário                           |                     Fase básica e essencial de análise das tarefas e objetivos, para identificação das características individuais dos usuários.                      |
@@ -66,7 +67,9 @@ avaliação e construção de protótipos.
 |                       Aplicar testes empíricos                        |                               Elaborar uma série de testes das telas com os usuários para listagem de erros e melhorias de usabilidade.                               |
 |                      Realizar o Design iterativo                      | Realização de novas versões da interface, através de um processo iterativo de design, baseado nos problemas de usabilidade e nas observações identificadas na fase 9. |
 
-<center><figcaptiongit>Tabela 1: Dez Princípios de Usabilidade de Nielsen.</figcaption></center>
+
+<figcaption align="center">Fonte: Nielsen, 1990.</figcaption>
+
 
 ### 3.3 Design baseado em Cenários
 
