@@ -11,7 +11,7 @@
 
 ## Sobre a disciplina
 
-<p align="justify">&emsp;&emsp;Este repositório destina-se a documentação dos artefatos designados ao desenvolvimento do projeto final da disciplina de Interação humano-computador, ministrado pelo professor André Barros de Sales, na Universidade de Brasília - Gama. Que tem como objetivo analisar o site [Skoob](https://www.skoob.com.br/), empregando conceitos assimilados ao longo da disciplina e apresentando aprimoramentos na usabilidade.</p>
+<p align="justify">&emsp;&emsp;Este repositório destina-se a documentação dos artefatos designados ao desenvolvimento do projeto final da disciplina de Interação humano-computador, ministrado pelo professor André Barros de Sales, na Universidade de Brasília - Gama. Que tem como objetivo analisar o site <a href="https://www.skoob.com.br/">Skoob</a>, empregando conceitos assimilados ao longo da disciplina e apresentando aprimoramentos na usabilidade.</p>
 
 ---
 
