@@ -122,5 +122,4 @@ Dentre os modelos que foram apresentados nesta pagina, o que mais se adequea par
 
 | Versão | Data       | Descrição                                           | Autor        | Revisor |
 | :------: | :----------: | :---------------------------------------------------: | :------------: | :--------:|
-| 0.1    | 22/11/2022 | Criação da processo de design | João Pedro Alves Machado | Caio Vitor Carneiro de Oliveira
- |
+| 0.1    | 22/11/2022 | Criação da processo de design | João Pedro Alves Machado | Caio Vitor Carneiro de Oliveira|
