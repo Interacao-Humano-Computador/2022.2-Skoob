@@ -42,7 +42,7 @@ A medotologia utilizada na avaliação do site, foi a avaliação heuristíca, q
 ## 2. Conclusão
 
 O Escolhido foi o site da Skoob, por possuir um design ineficiente, foi o mais interessante pois abri espaço para diversas melhorias de usabilidae e portanto foi o escolhido para o projeto da disciplina de Interação Humano-Computador devido a maior oportunidade de melhoria.
-Vamos atuar nas melhorias de Visibilidade do Status do sistema,Correspondência entre o sistema e o mundo real, Controle e liberdade para o usuário, Consistência e padronização, Prevenção de erros, Estética e design minimalista , Ajuda e documentação
+Vamos atuar nas melhorias de Visibilidade do Status do sistema,Correspondência entre o sistema e o mundo real, Controle e liberdade para o usuário, Consistência e padronização, Prevenção de erros, Estética e design minimalista ,
 
 ## 2.1 Avaliações
 - <strong>CAPES</strong>
@@ -54,7 +54,7 @@ Vamos atuar nas melhorias de Visibilidade do Status do sistema,Correspondência 
 - <strong>Metro do DF</strong>
 - [Planejamento da avaliação](SitesAvaliados/ProjetoParteIndividualPlanejAvaliçãoJoaoPedroAlvesMachado.pdf) <strong>--></strong> [Avaliação](SitesAvaliados/PlojetoParteIndividualMetodoeAvaliçãoJoaoPedroAlvesMachado.pdf)
 - <strong>Skoob</strong>
-- [Planejamento da avaliação]() <strong>--></strong> [Avaliação](SitesAvaliados/ProjetoParteIndividualMetodoeAvaliçãoHellenFernanda.pdf)
+- [Planejamento da avaliação](SitesAvaliados/ProjetoParteIndividualPlanejAvaliçãoHellenFernanda.pdf) <strong>--></strong> [Avaliação](SitesAvaliados/PlojetoParteIndividualMetodoeAvaliçãoHellenFernanda.pdf)
 
 ### Histórico de Versão
 | Versão | Data | Descrição  | Autor        | Revisor |
