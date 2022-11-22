@@ -66,7 +66,7 @@ avaliação e construção de protótipos.
 |                       Aplicar testes empíricos                        |                               Elaborar uma série de testes das telas com os usuários para listagem de erros e melhorias de usabilidade.                               |
 |                      Realizar o Design iterativo                      | Realização de novas versões da interface, através de um processo iterativo de design, baseado nos problemas de usabilidade e nas observações identificadas na fase 9. |
 
-<center><figcaption>Tabela 1: Dez Princípios de Usabilidade de Nielsen.</figcaption></center>
+<center><figcaptiongit>Tabela 1: Dez Princípios de Usabilidade de Nielsen.</figcaption></center>
 
 ### 3.3 Design baseado em Cenários
 
@@ -108,3 +108,11 @@ Dentre os modelos que foram apresentados nesta pagina, o que mais se adequea par
 
 
 > BARBOSA, Simone; DINIZ, Bruno. **Interação Humano - Computador**, Editora Elsevier, Rio de Janeiro, 2010.
+
+
+## Histórico de versão
+
+| Versão | Data       | Descrição                                           | Autor        | Revisor |
+| :------: | :----------: | :---------------------------------------------------: | :------------: | :--------:|
+| 0.1    | 22/11/2022 | Criação da processo de design | João Pedro Alves Machado | Caio Vitor Carneiro de Oliveira
+ |
