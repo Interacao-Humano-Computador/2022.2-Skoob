@@ -5,8 +5,7 @@
 <p style="text-align: justify;"> Para a execução no projeto, foram necessárias a utilização de ferramentas para ajudar na produtividade e, assim, melhorar a entrega do projeto.
 </p>
 
-
-**Tabela 1**. Ferramentas utilizadas no projeto.
+<figcaption align="center">Tabela 1 -  Ferramentas utilizadas no projeto</figcaption>
 
 | | Ferramenta | Finalidade |
 | :------: | :----------: | :---------------------------------------------------: |
@@ -24,7 +23,7 @@
 |<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.1-Millenium-Papelaria/15adf26be163cb9b95a5d6cbaee79fc034a506ab/docs/images/ferramentas/vscode.svg" height= 90 width=90> | Visual Studio Code | Edição dos artefatos |
 
 
-<center> <figcaption>Fonte: João Pedro Alves</figcaption> </center>
+<figcaption align="center">Fonte: João Pedro Alves</figcaption>
 
 ## Histórico de versão
 

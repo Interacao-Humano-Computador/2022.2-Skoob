@@ -1,16 +1,20 @@
 # Reuniões
 
 ## Introdução
-Estudamos os horários dos integrantes da equipe através de um mapa de calor, para termos uma noção de como organizariamos as atividades do grupo, e qual seria os melhores horários para as reuniões.
-A seguir temos uma imagem de como ficou nosso mapa de calor:
+<p align="justify">&emsp;&emsp;Estudamos os horários dos integrantes da equipe através de um mapa de calor, para termos uma noção de como organizariamos as atividades do grupo, e qual seria os melhores horários para as reuniões.
+A seguir temos uma imagem de como ficou nosso mapa de calor:</p>
+
+
+
+<figcaption align="center">Tabela 1 -  Mapa de calor da equipe</figcaption>
 
 ![](./assets/heatmap.png)
-<figcaption align="center">Imagem 1 - Mapa de calor(Heatmap)</figcaption>
+<figcaption align="center">Fonte: Wildemberg Sales</figcaption>
 
 
 </br>
 
-Logo, através do estudo deste mapa, a equipe então definiu que os melhores horários para reunião seria nas terças e quintas no horário entre 20h as 22h, optando para sempre que possível realizá-las através do Microsoft Teams, onde gravamos e documentamos tais reuniões.
+<p align="justify">&emsp;&emsp;Logo, através do estudo deste mapa, a equipe então definiu que os melhores horários para reunião seria nas terças e quintas no horário entre 20h as 22h, optando para sempre que possível realizá-las através do Microsoft Teams, onde gravamos e documentamos tais reuniões.</p>
 
 ## Histórico de versão
 | Versão | Data | Descrição  | Autor        | Revisor |
