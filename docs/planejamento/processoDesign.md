@@ -35,7 +35,7 @@ do processo pode acontecer em qualquer uma das demais atividades.
 <img src="https://user-images.githubusercontent.com/83254747/153682509-9995b21b-8411-4751-a890-af37b8d136e7.png">
 <figcaption align='center'>
     <b>Figura 1: Atividades básicas proposta pelo ciclo de vida em estrela.</b>
-    <br><small>Fonte: Barbosa e Silva(2010)</small>
+    <br>
 </figcaption>
 </p>
 
@@ -96,7 +96,7 @@ Deborah Mayhew (1999) propôs um ciclo de vida que tem uma visão holística, es
 <img src="https://interacao-humano-computador.github.io/2020.2-Vjudge/assets/cicloDeVida/ciclo_mayhew.png">
 <figcaption align='center'>
     <b>Figura 1: Etapas definidas para o ciclo de vida de Mayhew.</b>
-    <br><small>Fonte: Barbosa e Silva(2010)</small>
+    <br>
 </figcaption>
 </p>
 
