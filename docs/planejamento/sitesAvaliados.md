@@ -56,7 +56,7 @@ O site da Skoob, por possuir um design ineficiente, foi o mais interessante pois
 - [Planejamento da avaliação]() <strong>--></strong> [Avaliação](/planejamento/SitesAvaliados/ProjetoParteIndividualMetodoeAvaliçãoHellenFernanda.pdf)
 
 ### Histórico de Versão
-| Data       | Versão | Descrição            | Autor             | Inspecionador|
+| Versão | Data | Descrição  | Autor        | Revisor |
 |:----------:|:------:|:--------------------:|:-----------------:|:-----------------:|
 | 17.11.2022 | 0.1 | Documentação da escolha do site para o projeto | Caio Vitor |alguém|
 
