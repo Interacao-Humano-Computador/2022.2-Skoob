@@ -37,74 +37,88 @@ O cronograma é uma ferramenta que tem como objetivo organizar as atividades, os
 
 ### Etapa 2 - Perfil do Usuário
 
-| Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
-| :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
-|  XXXX  | XXXX  |  XXXX   |  XXXX   |  XXXX   |         XXXX         |       XXXX        |
+|                     Tarefa                      |      Autor       | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
+| :---------------------------------------------: | :--------------: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
+|                Perfil do usuário                | Caio, João Pedro |  07/12  | Philipe |  06/12  |          -           |         -         |
+| Aspectos Éticos de Pesquisas Envolvendo Pessoas | Hellen, Phelipe  |  07/12  |  Will   |  06/12  |          -           |         -         |
+|          Personas e Análise de tarefas          |   Will, Lucas    |  07/12  |  Caio   |  06/12  |          -           |         -         |
 
 <figcaption align="center">Tabela 3: Atividades específicas referentes à etapa 2.</figcaption>
 
 ### Etapa 3 - Princípios Gerais do Projeto
 
-| Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
-| :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
-|  XXXX  | XXXX  |  XXXX   |  XXXX   |  XXXX   |         XXXX         |       XXXX        |
+|                    Tarefa                    |        Autor        | Entrega |  Revisor   | Revisão | Início da Realização | Fim da Realização |
+| :------------------------------------------: | :-----------------: | :-----: | :--------: | :-----: | :------------------: | :---------------: |
+|         Princípios Gerais de Projeto         |        Caio         |  12/12  |   Hellen   |  11/12  |          -           |         -         |
+|             Metas de usabilidade             | João Pedro, Phelipe |  12/12  |   Lucas    |  11/12  |          -           |         -         |
+|                Guia de Estilo                |        Lucas        |  12/12  | João Pedro |  11/12  |          -           |         -         |
+| características da plataforma para o projeto |    Will, Hellen     |  12/12  |    Caio    |  11/12  |          -           |         -         |
 
 <figcaption align="center">Tabela 4: Atividades específicas referentes à etapa 3.</figcaption>
 
 ### Etapa 4 - Planejamento da Avaliação do Storyboard
 
-| Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
-| :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
-|  XXXX  | XXXX  |  XXXX   |  XXXX   |  XXXX   |         XXXX         |       XXXX        |
+|                                  Tarefa                                   |      Autor       | Entrega |  Revisor   | Revisão | Início da Realização | Fim da Realização |
+| :-----------------------------------------------------------------------: | :--------------: | :-----: | :--------: | :-----: | :------------------: | :---------------: |
+|                  Planejamento da Avaliação do Storyboard                  | João Pedro, Caio |  14/12  |   Lucas    |  13/12  |          -           |         -         |
+|     Planejamento do relato dos resultados da avaliação do Storyboard      |     Phelipe      |  14/12  |    Will    |  13/12  |          -           |         -         |
+|              Planejamento da Avaliação do Análise de tarefas              |   Lucas, Will    |  14/12  |   Hellen   |  13/12  |          -           |         -         |
+| Planejamento do relato dos resultados da avaliação do Análise de tarefas. |      Hellen      |  14/12  | João Pedro |  13/12  |          -           |         -         |
 
 <figcaption align="center">Tabela 5: Atividades específicas referentes à etapa 4.</figcaption>
 
 ### Etapa 5 - Relato dos resultados
 
-| Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
-| :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
-|  XXXX  | XXXX  |  XXXX   |  XXXX   |  XXXX   |         XXXX         |       XXXX        |
+|                                  Tarefa                                  |    Autor     | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
+| :----------------------------------------------------------------------: | :----------: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
+|                   Relato dos resultados do Story Board                   | Hellen, Caio |  02/01  |  Will   |  01/01  |          -           |         -         |
+|                            Análise de tarefas                            |  João Pedro  |  02/01  | Phelipe |  01/01  |          -           |         -         |
+|             Planejamento da Avaliação do Protótipo de Papel              |   Phelipe    |  02/01  | Hellen  |  01/01  |          -           |         -         |
+| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Lucas, Will  |  02/01  |  Caio   |  01/01  |          -           |         -         |
 
 <figcaption align="center">Tabela 6: Atividades específicas referentes à etapa 5.</figcaption>
 
 ### Etapa 6 - Verificação dos Artefatos
 
-| Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
-| :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
-|  XXXX  | XXXX  |  XXXX   |  XXXX   |  XXXX   |         XXXX         |       XXXX        |
+|          Tarefa           |        Autor         | Entrega |  Revisor   | Revisão | Início da Realização | Fim da Realização |
+| :-----------------------: | :------------------: | :-----: | :--------: | :-----: | :------------------: | :---------------: |
+| Verificação dos artefatos | Todos os integrantes |  18/01  | João Pedro |  17/01  |          -           |         -         |
 
 <figcaption align="center">Tabela 7: Atividades específicas referentes à etapa 6.</figcaption>
 
 ### Etapa 7 - Relato dos resultados do Protótipo de Papel
 
-| Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
-| :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
-|  XXXX  | XXXX  |  XXXX   |  XXXX   |  XXXX   |         XXXX         |       XXXX        |
+|                                       Tarefa                                       |      Autor       | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
+| :--------------------------------------------------------------------------------: | :--------------: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
+|                    Relato dos resultados do Protótipo de Papel                     |  Phelipe, Will   |  11/01  | Hellen  |  10/01  |          -           |         -         |
+|             Planejamento da Avaliação do protótipo de alta fidelidade              | Caio, João Pedro |  11/01  |  Will   |  10/01  |          -           |         -         |
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade |  Hellen, Lucas   |  11/01  | Phelipe |  10/01  |          -           |         -         |
 
 <figcaption align="center">Tabela 8: Atividades específicas referentes à etapa 7.</figcaption>
 
 ### Etapa 8 - Relato dos Resultados
 
-| Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
-| :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
-|  XXXX  | XXXX  |  XXXX   |  XXXX   |  XXXX   |         XXXX         |       XXXX        |
+|         Tarefa         |        Autor         | Entrega |    Revisor    | Revisão | Início da Realização | Fim da Realização |
+| :--------------------: | :------------------: | :-----: | :-----------: | :-----: | :------------------: | :---------------: |
+| Relatos dos resultados | Todos os integrantes |  25/01  | Will, Phelipe |  24/01  |          -           |         -         |
 
 <figcaption align="center">Tabela 9: Atividades específicas referentes à etapa 8.</figcaption>
 
 ### Etapa 9 - Apresentação do Projeto Final
 
-| Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
-| :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
-|  XXXX  | XXXX  |  XXXX   |  XXXX   |  XXXX   |         XXXX         |       XXXX        |
+|            Tarefa            |        Autor         | Entrega |       Revisor        | Revisão | Início da Realização | Fim da Realização |
+| :--------------------------: | :------------------: | :-----: | :------------------: | :-----: | :------------------: | :---------------: |
+| Apresentação do projeto fina | Todos os integrantes |  01/02  | Todos os integrantes |  30/01  |          -           |         -         |
 
 <figcaption align="center">Tabela 9: Atividades específicas referentes à etapa 9.</figcaption>
 
 ## Histórico de versão
 
-| Versão |    Data    |             Descrição             |      Autor      |   Revisor   |
-| :----: | :--------: | :-------------------------------: | :-------------: | :---------: |
-|  0.1   | 18/11/2022 | Criação dos cronogramas iniciais  | Hellen Fernanda | Lucas Lopes |
-|  0.2   | 20/11/2022 | Finalização do cronograma inicial | Hellen Fernanda | Caio Vitor  |
+| Versão |    Data    |                 Descrição                  |      Autor      |   Revisor   |
+| :----: | :--------: | :----------------------------------------: | :-------------: | :---------: |
+|  0.1   | 18/11/2022 |      Criação dos cronogramas iniciais      | Hellen Fernanda | Lucas Lopes |
+|  0.2   | 20/11/2022 |     Finalização do cronograma inicial      | Hellen Fernanda | Caio Vitor  |
+|  0.3   | 22/11/2022 | Finalização do cronograma de todo semestre | Hellen Fernanda | Caio Vitor  |
 
 ## Referências
 
