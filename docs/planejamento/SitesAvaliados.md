@@ -45,15 +45,15 @@ O site da Skoob, por possuir um design ineficiente, foi o mais interessante pois
 
 ## 2.1 Avaliações
 - <strong>CAPES</strong>
-- [Planejamento da avaliação](2022.2-Skoob/planejamento/SitesAvaliados/ProjetoParteIndividualPlanejAvaliçãoWildembergSales.pdf) <strong>--></strong> [Avaliação](/planejamento/SitesAvaliados/ProjetoParteIndividualMetodoeAvaliçãoWildembergSales.pdf)
+- [Planejamento da avaliação](SitesAvaliados/ProjetoParteIndividualPlanejAvaliçãoWildembergSales.pdf) <strong>--></strong> [Avaliação](SitesAvaliados/ProjetoParteIndividualMetodoeAvaliçãoWildembergSales.pdf)
 - <strong>Prefeitura de Alvorada do Norte</strong>
-- [Planejamento da avaliação](/planejamento/SitesAvaliados/ProjetoParteIndividualPlanejAvaliçãoCaioVitorCarneiroDeOliveir-1.pdf) <strong>--></strong> [Avaliação](/planejamento/SitesAvaliados/ProjetoParteIndividualMetodoeAvaliçãoCaioVitorCarneirodeOliveira.pdf)
+- [Planejamento da avaliação](SitesAvaliados/ProjetoParteIndividualPlanejAvaliçãoCaioVitorCarneiroDeOliveir-1.pdf) <strong>--></strong> [Avaliação](SitesAvaliados/ProjetoParteIndividualMetodoeAvaliçãoCaioVitorCarneirodeOliveira.pdf)
 - <strong>Prefeitura de Blumenau</strong>
-- [Planejamento da avaliação](/planejamento/SitesAvaliados/ProjetoParteIndividualPlanejAvaliçãoLucasLopesRocha.pdf) <strong>--></strong> [Avaliação](/planejamento/SitesAvaliados/PlojetoParteIndividualMetodoeAvaliçãoLucasLopesRocha.pdf)
+- [Planejamento da avaliação](SitesAvaliados/ProjetoParteIndividualPlanejAvaliçãoLucasLopesRocha.pdf) <strong>--></strong> [Avaliação](SitesAvaliados/PlojetoParteIndividualMetodoeAvaliçãoLucasLopesRocha.pdf)
 - <strong>Metro do DF</strong>
-- [Planejamento da avaliação](/planejamento/SitesAvaliados/ProjetoParteIndividualPlanejAvaliçãoJoaoPedroAlvesMachado.pdf) <strong>--></strong> [Avaliação](/planejamento/SitesAvaliados/PlojetoParteIndividualMetodoeAvaliçãoJoaoPedroAlvesMachado.pdf)
+- [Planejamento da avaliação](SitesAvaliados/ProjetoParteIndividualPlanejAvaliçãoJoaoPedroAlvesMachado.pdf) <strong>--></strong> [Avaliação](SitesAvaliados/PlojetoParteIndividualMetodoeAvaliçãoJoaoPedroAlvesMachado.pdf)
 - <strong>Skoob</strong>
-- [Planejamento da avaliação]() <strong>--></strong> [Avaliação](/planejamento/SitesAvaliados/ProjetoParteIndividualMetodoeAvaliçãoHellenFernanda.pdf)
+- [Planejamento da avaliação]() <strong>--></strong> [Avaliação](SitesAvaliados/ProjetoParteIndividualMetodoeAvaliçãoHellenFernanda.pdf)
 
 ### Histórico de Versão
 | Versão | Data | Descrição  | Autor        | Revisor |
