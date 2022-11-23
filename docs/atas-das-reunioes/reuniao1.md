@@ -14,10 +14,13 @@ A reunião foi iniciada às 14:55 e finalizada às 15:30.
 
 
 ## Objetivos
-Definir site do projeto, definir padrões utilizados no processo, orientar participantes sobre como utilizar a Wiki e dividir as tarefas entre os integrantes.
+Definir site do projeto, definir padrões utilizados no processo, orientar participantes sobre como utilizar a Wiki e dividir as tarefas entre os integrantes. Os dados da Tabela 1 mostram o que cada membro da equipe desenvolveu nesta etapa do projeto.
 
 
 ## Tarefas
+
+<figcaption align="center">Tabela 1 - Atividades a serem desenvolvidas.</figcaption>
+
 | Tarefa | Responsável |
 | ---- | ---- |
 | Criação da página inicial | Philipe de Sousa
@@ -27,8 +30,8 @@ Definir site do projeto, definir padrões utilizados no processo, orientar parti
 | Ferramentas do projeto | João Pedro
 | Processo de Design adotado | João Pedro
 | Ata da reunião (incluindo gravação postada no Youtube) | Lucas Lopes
-<figcaption align="center">Tabela 1: Atividades a serem desenvolvidas.</figcaption>
 
+<figcaption align="center">Fonte: Lucas Lopes.</figcaption>
 
 ## Conclusão
 Foi acordado um possível site a ser utilizado e enviado à monitora para que seja avaliado por ela. Além disso, foi definido uma segunda opção de site. Os padrões de desenvolvimento dos documentos foram discutidos e os integrantes foram orientados a como utilizar e postar os documentos na Wiki. Por fim, as atividades para a primeira entrega foram traçadas e divididas entre o grupo.
@@ -40,5 +43,5 @@ Foi acordado um possível site a ser utilizado e enviado à monitora para que se
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 0.1 | 15/11/2022 | Criação da ata de reunião | Lucas Lopes | - |
-| 0.2 | 16/11/2022 | Adição da gravação | Lucas Lopes | - |
+| 0.1 | 15/11/2022 | Criação da ata de reunião | Lucas Lopes | Caio Vitor |
+| 0.2 | 16/11/2022 | Adição da gravação | Lucas Lopes | Caio Vitor |

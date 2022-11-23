@@ -16,10 +16,13 @@ A reunião foi iniciada às 20:05 e finalizada às 21:00.
 
 
 ## Objetivos
-Debater e definir sobre as duas opções de site. Revisar e debater as tarefas já desenvolvidas. Melhorar e dar ideias de padronização das páginas, legendas, referências e histórico de versão. Definir data limite das entregas e data de gravação da apresentação. Definir e documentar os revisores de cada atividade, bem como as datas de revisão. Esclarecer possíveis dúvidas.
+Debater e definir sobre as duas opções de site. Revisar e debater as tarefas já desenvolvidas. Melhorar e dar ideias de padronização das páginas, legendas, referências e histórico de versão. Definir data limite das entregas e data de gravação da apresentação. Definir e documentar os revisores de cada atividade, bem como as datas de revisão. Esclarecer possíveis dúvidas. Os dados da Tabela 1 mostram o que cada membro da equipe desenvolveu nesta etapa do projeto e qual foi o integrante da equipe que revisou.
 
 
 ## Tarefas
+
+<figcaption align="center">Tabela 1 - Atividades da semana e respectivos revisores.</figcaption>
+
 | Tarefa | Responsável | Revisor | Data de Revisão |
 | ---- | ---- | ---- | ---- |
 | Criação da página inicial | Philipe de Sousa | Lucas Lopes | 21/11 |
@@ -29,8 +32,9 @@ Debater e definir sobre as duas opções de site. Revisar e debater as tarefas j
 | Ferramentas do projeto | João Pedro | Wildemberg Sales | 21/11 |
 | Processo de Design adotado | João Pedro | Caio Vitor | 21/11 |
 | Atas das reuniões 1 e 2 | Lucas Lopes | Caio Vitor | 21/11 |
-<figcaption align="center">Tabela 1: Atividades da semana e respectivos revisores.</figcaption>
 
+
+<figcaption align="center">Fonte: Lucas Lopes.</figcaption>
 
 ## Conclusão
 Após debate das opções de site selecionados previamente, foi definido que nosso projeto abordará sobre o Skoob. As atividades que já foram desenvolvidas receberam feedback breves e serão melhor revisadas pelos revisores de cada tarefa, que foram acordados nesta reunião. As datas de entrega, revisão e de gravação da apresentação também foram determinados. Algumas questões de padrão de documentação foram levantadas e serão seguidas por todos os integrantes.
@@ -41,4 +45,4 @@ Após debate das opções de site selecionados previamente, foi definido que nos
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 0.1 | 17/11/2022 | Criação da ata de reunião | Lucas Lopes | - |
+| 0.1 | 17/11/2022 | Criação da ata de reunião | Lucas Lopes | Caio Vitor |
