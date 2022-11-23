@@ -28,16 +28,16 @@ HARTSON, 1993). É um modelo centrado na avaliação, sugerindo que o sistema
 seja avaliado após cada etapa de atividade concluída do processo (PREECE et al,
 2005). Para Rocha e Baranauskas (2003) as atividades do modelo estrela são
 semelhantes às atividades do modelo cascata, porém a avaliação é central e o início
-do processo pode acontecer em qualquer uma das demais atividades.
+do processo pode acontecer em qualquer uma das demais atividades.(Figura 1).
 </p>
+
+<figcaption align="center">Figura 1 - Atividades básicas proposta pelo ciclo de vida em estrela.</figcaption>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/83254747/153682509-9995b21b-8411-4751-a890-af37b8d136e7.png">
-<figcaption align='center'>
-    <b>Figura 1: Atividades básicas proposta pelo ciclo de vida em estrela.</b>
-    <br>
-</figcaption>
 </p>
+
+<figcaption align="center">Fonte: Barbosa, 2010</figcaption>
 
 ### 3.2 Engenharia de Usabilidade de Nielsen
 
@@ -50,7 +50,7 @@ quatro fases que incluem o pré-design, o design inicial, desenvolvimento iterat
 pós-design. Para Mayhew (1999) apud Preece (2005), a Engenharia de Usabilidade
 compreende três fases: análise de requisitos, projeto/teste/desenvolvimento e
 instalação desdobrando-se em estágios de identificação de requisitos, projeto,
-avaliação e construção de protótipos.
+avaliação e construção de protótipos. A seguir temos a <i>Tabela 1</i> com os dez princípios de usabilidade Nielsen.
 </p>
 
 <figcaption align="center">Tabela 1 - Dez Princípios de Usabilidade de Nielsen.</figcaption>
@@ -86,7 +86,7 @@ Tem objetivo de descrever a sequência de ações do usuário durante a execuç�
 ### 3.4 Engenharia de Usabilidade de Mayhew
 
 <p align="justify">
-Deborah Mayhew (1999) propôs um ciclo de vida que tem uma visão holística, esse processo de design reúne e organiza diferentes atividades propostas na área de IHC para orientar o trabalho do designer em direção a uma boa solução interativa.
+Deborah Mayhew (1999) propôs um ciclo de vida que tem uma visão holística, esse processo de design reúne e organiza diferentes atividades propostas na área de IHC para orientar o trabalho do designer em direção a uma boa solução interativa (Figura 2).
  </p>
  - Análise de requisitos:  <p align="justify"> são definidas as metas de usabilidade com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e princípios gerais de design de IHC. Nesse processo, as metas de usabilidade costumam ser representadas em “guias de estilos” para auxiliar sua verificação durante as demais atividades do processo.</p>
  
@@ -95,10 +95,12 @@ Deborah Mayhew (1999) propôs um ciclo de vida que tem uma visão holística, es
 
 - Instalação:<p align="justify"> Coleta de opiniões dos usuários após um tempo de uso. Sendo úteis para melhorar o sistema em versões futuras. </p>
 
+<figcaption align="center">Figura 2 - Etapas definidas para o ciclo de vida de Mayhew.</figcaption>
+
 <p align="center">
 <img src="https://interacao-humano-computador.github.io/2020.2-Vjudge/assets/cicloDeVida/ciclo_mayhew.png">
 <figcaption align='center'>
-    <b>Figura 2: Etapas definidas para o ciclo de vida de Mayhew.</b>
+    Fonte: Retirado de: BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador"
     <br>
 </figcaption>
 </p>

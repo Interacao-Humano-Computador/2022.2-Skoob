@@ -22,4 +22,4 @@ Esta página é destinada à apresentação da Etapa 1 do projeto de Interação
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 0.1 | 23/11/2022 | Criação da página | Lucas Lopes | - |
+| 0.1 | 23/11/2022 | Criação da página | Lucas Lopes | Philipe |

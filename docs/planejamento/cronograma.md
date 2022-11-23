@@ -33,7 +33,7 @@
 |                Cronograma                 | Hellen Fernanda  |  19/11  |         Lucas Lopes         |  21/11  |        15/11         |       16/11       |
 | Lista de sites avaliados e site escolhido |    Caio Vitor    |  19/11  |      Phelipe de Souza       |  21/11  |        21/11         |       17/11       |
 |          Ferramentas do Projeto           |    João Pedro    |  19/11  |      Wildemberg Sales       |  21/11  |        21/11         |       15/11       |
-|        Processo de Design adotado         |    João Pedro    |  19/11  |         Caio Vitor          |  21/11  |        06/11         |        ---        |
+|        Processo de Design adotado         |    João Pedro    |  19/11  |         Caio Vitor          |  21/11  |        06/11         |        15/11        |
 |          Atas das Reuniões 1 e 2          |   Lucas Lopes    |  19/11  |         Caio Vitor          |  21/11  |        15/11         |       17/11       |
 
 <figcaption align="center">Fonte: Hellen Fernanda</figcaption>

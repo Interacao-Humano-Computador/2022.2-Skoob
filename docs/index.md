@@ -1,9 +1,10 @@
 # Início
 
+<center> <figcaption>Figura 1: Apresentação do site Skoob  </figcaption> </center>
 <p align="center">
     <img src="./assets/inicio.png" width="500">
 </p>
-<center> <figcaption>figura 1: Apresentação do site Skoob  </figcaption> </center>
+<center> <figcaption>Fonte: Skoob, 2022  </figcaption> </center>
 
 <br>
 

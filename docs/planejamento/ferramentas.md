@@ -2,7 +2,7 @@
 
 ## 1. Utilização
 
-<p style="text-align: justify;"> Para a execução no projeto, foram necessárias a utilização de ferramentas para ajudar na produtividade e, assim, melhorar a entrega do projeto.
+<p style="text-align: justify;"> Para a execução no projeto, foram necessárias a utilização de ferramentas para ajudar na produtividade e, assim, melhorar a entrega do projeto. A seguir temos a <i>Tabela 1</i> que ilustra as ferramentas que a equipe irá utilizar.
 </p>
 
 <figcaption align="center">Tabela 1 -  Ferramentas utilizadas no projeto</figcaption>
