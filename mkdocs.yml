@@ -22,11 +22,13 @@ nav:
   - Início: index.md
   - Planejamento:
       - Reuniões: planejamento/reunioes.md
+      - Metodologia: planejamento/metodologia.md
       - Ferramentas: planejamento/ferramentas.md
       - Processo Design: planejamento/processoDesign.md
-      - Metodologia: planejamento/metodologia.md
       - Cronograma: planejamento/cronograma.md
       - Lista de Sites Avaliados: planejamento/SitesAvaliados.md
   - Atas das Reuniões:
       - Reunião 1 - 15/11/2022: atas-das-reunioes/reuniao1.md
       - Reunião 2 - 17/11/2022: atas-das-reunioes/reuniao2.md
+  - Apresentações:
+    - Etapa 1 - 23/11: apresentacoes/etapa1.md
