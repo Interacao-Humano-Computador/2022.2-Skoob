@@ -59,7 +59,7 @@ Vamos atuar nas melhorias de Visibilidade do Status do sistema,Correspondência 
 ### Histórico de Versão
 | Versão | Data | Descrição  | Autor        | Revisor |
 |:----------:|:------:|:--------------------:|:-----------------:|:-----------------:|
-| 17.11.2022 | 0.1 | Documentação da escolha do site para o projeto | Caio Vitor |alguém|
-
+| 17.11.2022 | 0.1 | Documentação da escolha do site para o projeto | Caio Vitor |Philipe|
+| 22.11.2022 | 0.2 | Formatação de texto | Caio Vitor |Philipe|
 <div align="justify">
 
