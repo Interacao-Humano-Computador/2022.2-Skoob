@@ -31,4 +31,6 @@ nav:
       - Reunião 1 - 15/11/2022: atas-das-reunioes/reuniao1.md
       - Reunião 2 - 17/11/2022: atas-das-reunioes/reuniao2.md
   - Apresentações:
-    - Etapa 1 - 23/11: apresentacoes/etapa1.md
+      - Etapa 1 - 23/11: apresentacoes/etapa1.md
+  - Analise de Requisitos:
+      - Caract. da Plataforma: analise-de-requisitos/caracteristicas-da-plataforma.md
