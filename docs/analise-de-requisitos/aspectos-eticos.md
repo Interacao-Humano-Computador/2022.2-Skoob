@@ -12,13 +12,10 @@ Para analisarmos alguns desses pontos de ética, foi analisado um documento enco
 
 Se focando mais no Brasil, existe uma resolução que aborda os aspectos éticos a serem utilizados caso haja seres humanos envolvidos na pesquisa, este é a [Resolução N°466, de 12 de Dezembro de 2012](https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf). Tal documento busca assegurar os direitos e deveres dos participantes da pesquisa, à comunidade científica e ao estado, ele discorre também sobre os  referenciais da bioética (autonomia, não maleficêncica, beneficência, justiça e equidade, dentre outros), como pontos a serem seguidos em relação ao tratamento do participante da pesquisa.   
 
-</br>
 
 ## Termo de Consentimento
 
 O termo de consentimento é o documento que garante ao participante da pesquisa uma clara noção de como as suas informações serão usadas durante o decorrer do projeto, e também garante ao executores da pesquisa a aceitação clara do participante em fornecer as informações com os fins citados no documento.
-
-</br>
 
 ### **Termo utilizado pela equipe:**
 
@@ -38,8 +35,6 @@ Ao participar da pesquisa, você deve estar de acordo em fornecer as informaçõ
 </br> 
 
 **Observação:** Este documento é apresentado primeiramente antes de qualquer pergunta e/ou gravação a ser executada pela equipe. Caso seja mostrado o documento digital, deve ser coletado a resposta da pessoa por meio de assinaturas digitais, ou vídeo com áudio onde a pessoa afirma o uso de suas informações, ou uma caixa de seleção em um formulário com o termo de consentimento acima. 
-
-</br>
 
 ## Referências
 > SciELO - Brasil - Aspectos éticos da pesquisa científica Aspectos éticos da pesquisa científica.  Disponível em: <https://www.scielo.br/j/pob/a/MZVSYxKncfrNnsKxbjg5Gxr/?lang=pt>. Acesso em: 30 nov. 2022.  
