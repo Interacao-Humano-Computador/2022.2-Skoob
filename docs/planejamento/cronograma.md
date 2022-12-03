@@ -5,6 +5,7 @@
 <p align="justify">&emsp;&emsp;O cronograma é uma ferramenta que tem como objetivo organizar as atividades, os recursos e os prazos de um projeto de forma visual, neste caso, em tabelas. Os cronogramas a seguir foram construídos a partir das datas e prazos disponibilizados no cronograma do semestre letivo (2022.2) da disciplina.</p>
 
 ## Cronograma geral
+
 <figcaption align="center">Tabela 1 - Cronograma geral da equipe.</figcaption>
 
 | Etapa |                   Título                    |                                                                                                                                   Descrição                                                                                                                                    | Entrega | Apresentação |
@@ -33,7 +34,7 @@
 |                Cronograma                 | Hellen Fernanda  |  19/11  |         Lucas Lopes         |  21/11  |        15/11         |       16/11       |
 | Lista de sites avaliados e site escolhido |    Caio Vitor    |  19/11  |      Phelipe de Souza       |  21/11  |        21/11         |       17/11       |
 |          Ferramentas do Projeto           |    João Pedro    |  19/11  |      Wildemberg Sales       |  21/11  |        21/11         |       15/11       |
-|        Processo de Design adotado         |    João Pedro    |  19/11  |         Caio Vitor          |  21/11  |        06/11         |        15/11        |
+|        Processo de Design adotado         |    João Pedro    |  19/11  |         Caio Vitor          |  21/11  |        06/11         |       15/11       |
 |          Atas das Reuniões 1 e 2          |   Lucas Lopes    |  19/11  |         Caio Vitor          |  21/11  |        15/11         |       17/11       |
 
 <figcaption align="center">Fonte: Hellen Fernanda</figcaption>
@@ -42,11 +43,12 @@
 
 <figcaption align="center">Tabela 3 - Cronograma da equipe para a etapa 2.</figcaption>
 
-|                     Tarefa                      |      Autor       | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
-| :---------------------------------------------: | :--------------: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
-|                Perfil do usuário                | Caio, João Pedro |  07/12  | Philipe |  06/12  |          -           |         -         |
-| Aspectos Éticos de Pesquisas Envolvendo Pessoas | Hellen, Philipe  |  07/12  |  Will   |  06/12  |          -           |         -         |
-|          Personas e Análise de tarefas          |   Will, Lucas    |  07/12  |  Caio   |  06/12  |          -           |         -         |
+|                     Tarefa                      |            Autor             | Entrega |     Revisor      | Revisão | Início da Realização | Fim da Realização |
+| :---------------------------------------------: | :--------------------------: | :-----: | :--------------: | :-----: | :------------------: | :---------------: |
+|                Perfil do usuário                | Philipe de Souza, João Pedro |  07/12  |   Lucas Lopes    |  06/12  |          -           |         -         |
+| Aspectos Éticos de Pesquisas Envolvendo Pessoas |          Wildemberg          |  07/12  | Philipe de Souza |  06/12  |          -           |         -         |
+|                    Personas                     |         Lucas Lopes          |  07/12  | Hellen Fernanda  |  06/12  |          -           |         -         |
+|               Análise de tarefas                |    Hellen Fernanda, Caio     |  07/12  |    João Pedro    |  06/12  |        02/12         |         -         |
 
 <figcaption align="center">Fonte: Hellen Fernanda</figcaption>
 
