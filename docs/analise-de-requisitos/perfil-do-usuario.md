@@ -149,7 +149,7 @@ Na penúltima e última questão que são perguntas conectadas, temos ***14 - Du
 
 ## Conclusão
 
-Levando em conta os dados coletados a partir do formulário, podemos concluir que o nosso perfil do usuário se baseia principalmente em mulheres da faixa etária dos 18 aos 34 anos, onde cerca de metade têm pouco domínio com a realização de utilizar o sistema e se adaptam e utilizam sistemas na medida do possível. Umas das tarefas principais que é utilizada é acompanhar sua "estante virtual" e interação com amigos da rede social.
+Levando em conta os dados coletados a partir do formulário, podemos concluir que o nosso perfil do usuário se baseia principalmente em mulheres da faixa etária dos 18 aos 34 anos, onde cerca de metade têm pouco domínio em realização a utilizar o sistema e se adaptam e utilizam sistemas na medida do possível. Umas das tarefas principais que é utilizada é acompanhar sua "estante virtual" e interação com amigos da rede social.
 
 ## Referências
 
