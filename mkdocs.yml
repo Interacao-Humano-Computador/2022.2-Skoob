@@ -30,7 +30,8 @@ nav:
   - Analise de Requisitos:
       - Analise de Tarefas: analise-de-requisitos/analise-de-tarefas.md
       - Aspectos Éticos: analise-de-requisitos/aspectos-eticos.md
-      - Perfil do Usuário: analise-de-requisitos/perfil-do-usuario.md
+      - Perfil do Usuário:
+        - Questionário: analise-de-requisitos/perfil-do-usuario.md
       - Personas: analise-de-requisitos/personas.md
       - Caract. da Plataforma: analise-de-requisitos/caracteristicas-da-plataforma.md
 
