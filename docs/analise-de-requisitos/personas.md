@@ -4,7 +4,7 @@
 <p align="justify">Uma persona é um arquétipo de um usuário que ajuda designers e desenvolvedores a ter empatia ao entender os contextos pessoais e de negócios de seus usuários. Ao basear as personas na pesquisa do usuário, as equipes podem evitar as armadilhas de projetar para usuários anedóticos, ou ter observações pessoais subjetivas.</p>
 
 ## Personas
-<p align="justify">A seguir temos a <i>Tabela 1</i>, <i>Tabela 2</i> e <i>Tabela 3</i>, que mostram as personas primárias e secundária que foram desenvolvidas a partir da pesquisa de perfil do usuário, e que serão utilizadas para nossa análise de requisitos.</p>
+<p align="justify">A seguir temos a <i>Tabela 1</i>, <i>Tabela 2</i>, <i>Tabela 3</i> e <i>Tabela 4</i>, que mostram as personas primárias, secundária e antipersona que foram desenvolvidas a partir da pesquisa de perfil do usuário, e que serão utilizadas para nossa análise de requisitos.</p>
 
 ### Natália Lopes
 
@@ -69,8 +69,23 @@ Gabriel Castro utilizou pela primeira vez o site Skoob de forma despretenciosa, 
 
 ---
 
+### João Batista
+
+| Antipersona | João Batista |
+| :--: | :--: |
+| Foto: |<img src="../assets/persona4.jpeg" alt="Foto da persona 4" width="300">|
+| Dados demográficos: | 43 anos. Sexo masculino. Divorciado. Sem acesso à educação. Analfabeto. Mora em zona rural. |
+| Objetivos: | Desenvolver suas tarefas diárias como caseiro, como, por exemplo, de plantio e lida com animais. |
+| Habilidades: | Conhecimentos em plantio e colheita de alimentos diversos. Lida com animais como vacas, bois, cavalos, galinhas e outros. Facilidade no uso ferramentas de construção e jardinagem. |
+| Relacionamentos: | Familiares. Colegas de trabalho. Vizinhos. |
+| Tarefas, requisitos e expectativas: | Não há tarefas, requisitos ou expectativas referentes à essa persona em relação ao site, pois se trata de uma persona sem acesso a internet, raro contato com tecnologias e também analfabeta. |
+
+<figcaption align="center">Tabela 4: Dados de João Batista (Fonte: Autores, 2022)</figcaption>
+
+---
+
 ## Conclusão
-<p align="justify">A fim de que as personas fossem memoráveis, o elenco foi construído de forma reduzida, contando com 3 personas. Porém, ainda assim, o elenco cobre os principais grupos de usuários, para ajudar a desenvolver um produto que funciona para todos. Duas das personas são primárias, ou seja, seguem a risca o perfil do usuário traçado. Já a persona secundária foi desenvolvida pensando nos homens, que apesar de serem em número muito menor, também compõem os usuários do site.</p>
+<p align="justify">A fim de que as personas fossem memoráveis, o elenco foi construído de forma reduzida, contando com 4 personas. Porém, ainda assim, o elenco cobre os principais grupos de usuários, para ajudar a desenvolver um produto que funciona para todos. Duas das personas são primárias, ou seja, seguem a risca o perfil do usuário traçado. Já a persona secundária foi desenvolvida pensando nos homens, que apesar de serem em número muito menor, também compõem os usuários do site. Por fim, uma antipersona.</p>
 
 ## Referências
 > BARBOSA, Simone; SILVA. INTERAÇÃO HUMANO-COMPUTADOR. Local de publicação: Elsevier Editora Ltda, 2010.
@@ -81,3 +96,4 @@ Gabriel Castro utilizou pela primeira vez o site Skoob de forma despretenciosa, 
 | 1.0 | 02/12/2022 | Inicialização da página | Lucas Lopes | Hellen Fernanda |
 | 1.1 | 04/12/2022 | Criação das personas | Lucas Lopes | Hellen Fernanda |
 | 1.2 | 04/12/2022 | Inclusão dos cenários | Lucas Lopes | Hellen Fernanda |
+| 1.2 | 06/12/2022 | Adição da antipersona | Lucas Lopes | Hellen Fernanda |
