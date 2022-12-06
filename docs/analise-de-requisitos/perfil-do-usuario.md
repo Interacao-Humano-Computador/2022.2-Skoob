@@ -155,7 +155,7 @@ Em relação às perguntas realizadas na entrevista com um usuário do skoob est
 
 | Número | Pergunta | Resposta |
 |:--:|:--:|:--:|
-| 1 | Quando você utiliza o Google skoob? | "Quando quero descobrir novos livros ou gêneros" |
+| 1 | Quando você utiliza o  skoob? | "Quando quero descobrir novos livros ou gêneros" |
 | 2 | O que te fez escolher esse site ao invés de outros com mesma funcão? |"Foi recomendação e não cheguei a usar outros do tipo"| 
 | 3 | O que você gosta no skoob? | "Acompanhar diversos autores"|
 | 4 | O que você não gosta no skoob? | "A interface ser um pouco confusa"|
