@@ -17,7 +17,7 @@ complexas e não repetitivas, bem como para auxiliar na identiﬁcação de prob
 
 ### Diagrama do objetivo adicionar livro:
 
-![Diagrama adicionar livro](/assets/Analisedetarefasadicionarlivro.jpg)
+![Diagrama adicionar livro](../assets/Analisedetarefasadicionarlivro.jpg)
 
 #### (Figura 1) Diagrama do "objetivo adicionar livro",(Caio Vitor,2022)
 
@@ -36,7 +36,8 @@ complexas e não repetitivas, bem como para auxiliar na identiﬁcação de prob
 
 
 ### Diagrama do objetivo cadastrar usuário:
-![Diagrama de objetivos cadastrar usuário](/assets/AnalisedeTarefasPreencherPerfil.jpeg)
+
+![Diagrama de objetivos cadastrar usuário](../assets/AnalisedeTarefasPreencherPerfil.jpeg)
 
 #### (Figura 2) Diagrama do "objetivo cadastrar usuário",(Caio Vitor,2022)
 
