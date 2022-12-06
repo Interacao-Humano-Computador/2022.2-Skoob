@@ -6,14 +6,14 @@ Parte importante do desenvolvimento do projeto é definir um perfil do usuário,
 
 ## Metodologia
 
-Para a primeira técnicas foi elaborado um questionário no Google Forms de 15 questões a respeito dos usuaŕios, incluindo questões demográficas e relacionadas com o uso do ste, além disso foi elaborado o Termo de Consentimento Livre e Esclarecido, de acordo com a Resolução Nº 466 de 12 de Dezembro de 2012, que está detalhado no artefato dos aspectos éticos, assim como a solicitação opcional do endereço de email do participante para conferir os resultados da pesquisa. O questionário foi divulgado em duas comunidades voltadas para leitores/escritores e afins, foi coletado as respostas dos participantes do questionário durante os dias 01/12 até 03/12.
+Para a primeira técnicas foi elaborado um questionário no Google Forms de 15 questões a respeito dos usuaŕios, incluindo questões demográficas e relacionadas com o uso do ste, além disso foi elaborado o Termo de Consentimento Livre e Esclarecido, de acordo com a Resolução Nº 466 de 12 de Dezembro de 2012, que está detalhado no artefato dos aspectos éticos, assim como a solicitação opcional do endereço de email do participante para conferir os resultados da pesquisa. O questionário foi divulgado em duas comunidades voltadas para leitores/escritores e afins, foi coletado as respostas dos participantes do questionário durante os dias 01/12 até 03/12. De outro modo, a segunda técnica utilizada foi a de entrevista, acompanhada de um usuário real.
 
 <br>
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdCCFMUF2burscfOIs-cTl0IIIQgt8_OC1VdRqNkvx6uRNQew/viewform?embedded=true" width="640" height="380" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
 
 
-## Resultados do questionário
+## Resultados do Questionário
 
 <br>
 Em relação às perguntas temos que na primeira pergunta ***1 - Qual sua idade***, temos os resultados na representação gráfica presente na <i>Figura 1</i>. Podemos notar que, cerca de 63% da amostra tem entre 18 a 25 anos e 31,8% dos participantes têm entre 26 e 34 anos.
@@ -150,8 +150,7 @@ Na penúltima e última questão que são perguntas conectadas, temos ***14 - Du
 
 ## Resultados da Entrevista
 
-<br>
-Em relação às perguntas realizadas na entrevista com um usuário do skoob estão na tabela abaixo. O usuário tem 21 anos, é homem, faz graduação na área de ti e tem facilidade com o uso de aplicações mas devido ao tempo que fica sem utilizar a aplicação acaba esquecendo como funciona certas funcionalidades.
+Em relação às perguntas realizadas na entrevista com um usuário do skoob estão na <i>Tabela 1</i>. O usuário tem 21 anos, é homem, faz graduação na área de TI e tem facilidade com o uso de aplicações mas devido ao tempo que fica sem utilizar a aplicação acaba esquecendo como funciona certas funcionalidades.
 
 
 | Número | Pergunta | Resposta |
@@ -166,10 +165,9 @@ Em relação às perguntas realizadas na entrevista com um usuário do skoob est
 | 8 | Tem alguma funcionalidade que você nunca usou? Se sim, porque?|"Nunca usei a ferramenta pra acompanhar as editoras de livros"|
 | 9 | Qual atividade você mais realiza no skoob?| "Ver o que as pessoas que eu sigo estão lendo"|
 
-Tabela 1 referente a entrevista realizada com um usuario da aplicação.
+<figcaption align='center'>Tabela 1: Resultado da entrevista realizada com um usuario da aplicação.</figcaption>
 
-
-## ravação da entrevista 
+### Gravação da Entrevista 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N2Co2tug3qU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

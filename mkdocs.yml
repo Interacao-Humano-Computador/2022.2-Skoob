@@ -32,8 +32,7 @@ nav:
         - Árvores de Tarefas Concorrentes: analise-de-requisitos/analise-de-tarefas-concorrentes.md
         - Análise Hierárquica de tarefas: analise-de-requisitos/analisehierarquicadetarefas.md
       - Aspectos Éticos: analise-de-requisitos/aspectos-eticos.md
-      - Perfil do Usuário:
-        - Questionário: analise-de-requisitos/perfil-do-usuario.md
+      - Perfil do Usuário: analise-de-requisitos/perfil-do-usuario.md
       - Personas: analise-de-requisitos/personas.md
       - Caract. da Plataforma: analise-de-requisitos/caracteristicas-da-plataforma.md
 
@@ -43,3 +42,4 @@ nav:
       - Reunião 3 - 29/11/2022: atas-das-reunioes/reuniao3.md
   - Apresentações:
       - Etapa 1 - 23/11: apresentacoes/etapa1.md
+      - Etapa 2 - 07/12: apresentacoes/etapa2.md
