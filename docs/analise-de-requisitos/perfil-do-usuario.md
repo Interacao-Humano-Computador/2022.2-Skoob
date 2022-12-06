@@ -12,6 +12,7 @@ Para a primeira técnicas foi elaborado um questionário no Google Forms de 15 q
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdCCFMUF2burscfOIs-cTl0IIIQgt8_OC1VdRqNkvx6uRNQew/viewform?embedded=true" width="640" height="380" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
 
+
 ## Resultados do questionário
 
 <br>
@@ -147,6 +148,31 @@ Na penúltima e última questão que são perguntas conectadas, temos ***14 - Du
   Fonte: Retirada da página de resultados do Google Forms</h6>
 </figcaption>
 
+## Resultados da Entrevista
+
+<br>
+Em relação às perguntas realizadas na entrevista com um usuário do skoob estão na tabela abaixo. O usuário tem 21 anos, é homem, faz graduação na área de ti e tem facilidade com o uso de aplicações mas devido ao tempo que fica sem utilizar a aplicação acaba esquecendo como funciona certas funcionalidades.
+
+
+| Número | Pergunta | Resposta |
+|:--:|:--:|:--:|
+| 1 | Quando você utiliza o Google skoob? | "Quando quero descobrir novos livros ou gêneros" |
+| 2 | O que te fez escolher esse site ao invés de outros com mesma funcão? |"Foi recomendação e não cheguei a usar outros do tipo"| 
+| 3 | O que você gosta no skoob? | "Acompanhar diversos autores"|
+| 4 | O que você não gosta no skoob? | "A interface ser um pouco confusa"|
+| 5 | Você acredita que falte alguma função no skoob? Se sim, qual? | "Não sei"|
+| 6 | Você sente dificuldade em utilizar o skoob? Se sim, onde?| "É difícil recordar onde fica cada funcionalidade"|
+| 7 | Com que frequência você utiliza o skoob?| "Uma vez a cada 3 meses em média"|
+| 8 | Tem alguma funcionalidade que você nunca usou? Se sim, porque?|"Nunca usei a ferramenta pra acompanhar as editoras de livros"|
+| 9 | Qual atividade você mais realiza no skoob?| "Ver o que as pessoas que eu sigo estão lendo"|
+
+Tabela 1 referente a entrevista realizada com um usuario da aplicação.
+
+
+## ravação da entrevista 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N2Co2tug3qU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Conclusão
 
 Levando em conta os dados coletados a partir do formulário, podemos concluir que o nosso perfil do usuário se baseia principalmente em mulheres da faixa etária dos 18 aos 34 anos, onde cerca de metade têm pouco domínio em realização a utilizar o sistema e se adaptam e utilizam sistemas na medida do possível. Umas das tarefas principais que é utilizada é acompanhar sua "estante virtual" e interação com amigos da rede social.
@@ -161,3 +187,4 @@ Levando em conta os dados coletados a partir do formulário, podemos concluir qu
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 03/12/2022 | Inicialização da página de perfil de usuário | Philipe | --|
+| 1.1| 12/12/2022 | Adcionando o resultado da entrevista com usuário | João Pedro Alves Machado | --|
