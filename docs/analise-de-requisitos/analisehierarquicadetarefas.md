@@ -15,6 +15,13 @@ complexas e não repetitivas, bem como para auxiliar na identiﬁcação de prob
 
 &emsp;&emsp;Após a definição do objetivo de alto nível a HTA o decompõe em subobjetivos, que vão auxiliar a identificar quais os pontos de maior dificuldade e que limitam o alcance ao objetivo maior, com os subobjetivos e as relações entre eles definidas, temos a criação de um plano. No plano podemos ter diferentes tipos de relação entre subobjetivos, que são: sequencial, seleção ou paralela, para cada subobjetivo ser alcançado, deve-se definir uma operação, que é a unidade fundamental do HTA. A figura a seguir apresenta os elementos de um diagrama HTA:
 
+## Elementos
+
+![Elementos HTA](../assets/elementosHTA.png)
+
+* Um **objetivo** é um estado específico de coisas, um estado final.
+* Uma **operação** é especificada pelas circunstâncias nas quais o objetivo é ativado(_input_ ou _entrada_), pelas atividades ou ações (_actions_) que contribuem para atingi-lo e pelas condições que indicam o seu atingimento (_feedback_).
+
 ### Diagrama do objetivo adicionar livro:
 
 ![Diagrama adicionar livro](../assets/Analisedetarefasadicionarlivro.jpg)
