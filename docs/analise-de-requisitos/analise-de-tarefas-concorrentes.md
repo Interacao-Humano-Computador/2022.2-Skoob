@@ -1,4 +1,4 @@
-# Analise de Tarefas
+# Árvores de Tarefas Concorrentes
 
 ## Introdução
 
@@ -8,11 +8,6 @@ lho é deﬁnido em termos dos objetivos que os usuários querem ou precisam ati
 análise da situação atual (apoiada ou não por um sistema computacional), para o
 (re)design de um sistema computacional ou para a avaliação do resultado de uma
 intervenção que inclua a introdução de um (novo) sistema computacional.</p>
-
-## Análise Hierárquica de Tarefas
-
-<p align="justify">A Análise Hierárquica de Tarefas (HTA – Hierarchical Task Analysis) foi desenvolvida na década de 1960 para entender as competências e habilidades exibidas em tarefas
-complexas e não repetitivas, bem como para auxiliar na identiﬁcação de problemas de desempenho. Ela ajuda a relacionar o que as pessoas fazem (ou se recomenda que façam), por que o fazem, e quais as consequências caso não o façam corretamente. Ela se baseia em psicologia funcional, e não comportamental, como eram as abordagens da época em que foi criada.</p>
 
 ## Árvores de Tarefas Concorrentes
 

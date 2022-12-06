@@ -28,7 +28,9 @@ nav:
       - Cronograma: planejamento/cronograma.md
       - Lista de Sites Avaliados: planejamento/SitesAvaliados.md
   - Analise de Requisitos:
-      - Analise de Tarefas: analise-de-requisitos/analise-de-tarefas.md
+      - Analise de Tarefas:
+        - Árvores de Tarefas Concorrentes: analise-de-requisitos/analise-de-tarefas-concorrentes.md
+        - Análise Hierárquica de tarefas: analise-de-requisitos/analisehierarquicadetarefas.md
       - Aspectos Éticos: analise-de-requisitos/aspectos-eticos.md
       - Perfil do Usuário:
         - Questionário: analise-de-requisitos/perfil-do-usuario.md
