@@ -45,10 +45,10 @@
 
 |                     Tarefa                      |            Autor             | Entrega |     Revisor      | Revisão | Início da Realização | Fim da Realização |
 | :---------------------------------------------: | :--------------------------: | :-----: | :--------------: | :-----: | :------------------: | :---------------: |
-|                Perfil do usuário                | Philipe de Souza, João Pedro |  07/12  |   Lucas Lopes    |  06/12  |          -           |         -         |
-| Aspectos Éticos de Pesquisas Envolvendo Pessoas |          Wildemberg          |  07/12  | Philipe de Souza |  06/12  |          -           |         -         |
-|                    Personas                     |         Lucas Lopes          |  07/12  | Hellen Fernanda  |  06/12  |          -           |         -         |
-|               Análise de tarefas                |    Hellen Fernanda, Caio     |  07/12  |    João Pedro    |  06/12  |        02/12         |         -         |
+|                Perfil do usuário                | Philipe de Souza, João Pedro |  07/12  |   Lucas Lopes    |  06/12  |          02/12           |         06/12         |
+| Aspectos Éticos de Pesquisas Envolvendo Pessoas |          Wildemberg          |  07/12  | Philipe de Souza |  06/12  |          01/12           |         01/12         |
+|                    Personas                     |         Lucas Lopes          |  07/12  | Hellen Fernanda  |  06/12  |          02/12           |         04/12         |
+|               Análise de tarefas                |    Hellen Fernanda, Caio     |  07/12  |    João Pedro    |  06/12  |        02/12         |         05/12         |
 
 <figcaption align="center">Fonte: Hellen Fernanda</figcaption>
 
