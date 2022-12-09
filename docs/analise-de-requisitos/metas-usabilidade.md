@@ -5,7 +5,6 @@ Esse artefato tem como objetivo determinar as metas de usabilidade, que por sua 
 ## 2. As Metas de Usabilidade 
 
 
-
 - <b>Eficácia: </b> se refere a quanto um produto é bom em fazer o que se espera dele.
 
 - <b>Eficiência:</b> se refere a maneira como o sistema auxilia os usuários na realização de suas tarefas. O ideal é que o usuário atinja o seu objetivo com o menor número possível de passos.
@@ -19,11 +18,24 @@ Esse artefato tem como objetivo determinar as metas de usabilidade, que por sua 
 - <b><i>Memorização</i>:</b> refere-se a facilidade do usuário de lembrar como utilizar um sistema, depois de já ter aprendido como usá-lo.Geralmente, é especialmente importante para sistemas que não são utilizadas com elevada frequência.
 
 
+## 3. Metas a serem almejadas pelo nosso projeto
+Para definir as metas que queremos alcançar foram discutidas as seguintes questões sobre cada meta
+
+* Segurança:
+* Utilidade:
+* Aprendizagem: Tendo como base o questionário para o perfil do usuário onde, os usuários, acabam por não explorar muito as demais funcionalidades do site, e gostariam de tutoriais para auxiliar no uso do sistema. A partir disso nós iremos propor um tutorial visual para algumas das funcionalidades.
+
+* Memorização: O site da Skoob não fornece suporte de interface para auxílio dos usuários, tanto para tarefas frequentes quanto para tarefas não frequente. Dessa forma, tomando como base que os usuários utilizam o site em maior quantidade, esporadicamente, a capacidade de memorização no uso do site é prejudicada.
+    
+
+
 
 ## Referências
 > Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. Disponível em: https://medium.com/vivareal-ux-chapter/as-6-metas-de-usabilidade-9491442fd56a. Acesso em: 08/12/2022.
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021); Interação Humano-Computador e Experiência do usuário.
+
+> NIELSEN, Jacob. Designing Web Usability: The Practice of Simplicity Peachpit Press, la edição 1999
 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
