@@ -21,8 +21,10 @@ Esse artefato tem como objetivo determinar as metas de usabilidade, que por sua 
 ## 3. Metas a serem almejadas pelo nosso projeto
 Para definir as metas que queremos alcançar foram discutidas as seguintes questões sobre cada meta
 
-* Segurança:
-* Utilidade:
+* Segurança: O Sistema permite ao usuário reverter ações indesejadas facilmente? Há opções de confirmação para evitar que o usuário faça alguma ação ou alteração por engano? Por isso é necessário oferecer diálogos de confirmação e ser possível voltar a uma etapa anterior da navegação para cancelar uma possível alteração indesejada.
+
+* Utilidade: O usuário recebe um feedback visual do que está acontecendo em tempo real? É importante que as opções de navegação estejam de acordo com o que usuário esteja fazendo no momento. Exemplo disso ser capaz de compartilhar um livro ou um tema com amigos quando estiver visualizando um dentro da aplicação.
+
 * Aprendizagem: Tendo como base o questionário para o perfil do usuário onde, os usuários, acabam por não explorar muito as demais funcionalidades do site, e gostariam de tutoriais para auxiliar no uso do sistema. A partir disso nós iremos propor um tutorial visual para algumas das funcionalidades.
 
 * Memorização: O site da Skoob não fornece suporte de interface para auxílio dos usuários, tanto para tarefas frequentes quanto para tarefas não frequente. Dessa forma, tomando como base que os usuários utilizam o site em maior quantidade, esporadicamente, a capacidade de memorização no uso do site é prejudicada.
@@ -41,3 +43,5 @@ Para definir as metas que queremos alcançar foram discutidas as seguintes quest
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 03/12/2022 | Inicialização da página de metas | Philipe | -- |
+| 1.1 | 10/12/2022 | Adicionando metas de usabilidade | João Pedro | -- |
+
