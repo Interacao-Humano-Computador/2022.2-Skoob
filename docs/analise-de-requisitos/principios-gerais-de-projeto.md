@@ -45,7 +45,7 @@ As aplicações devem tentar prever o que o usuário quer e precisa, em vez de e
 
 - Não foi possível notar operações antecipadas, uma vez que as operações mais acessadas como review de livros devem ser buscadas
 
-<img src="../assets/PrincipiosGerais3.png" >
+<img src="../assets/PrincipiosGerais1.png" >
 
 
 ### Visibilidade e reconhecimento ( Não presente)
@@ -53,14 +53,14 @@ Norman (1988) afirma que o designer deve tornar as coisas  visíveis: abreviar o
 
 - Não foi possível notar visibilidade eficiente nas oprações do menu do Skoob
 
-<img src="../assets/PrincipiosGerais.png" >
+<img src="../assets/PrincipiosGerais2.png" >
 
 ### Conteúdo relevante e expressão adequada(não presente)
 Segundo Reeves e Nass (1996), as pessoas dão tratamento humano para qualquer mídia ou tecnologia que apresente comportamento semelhante ao de uma pessoa, mesmo sabendo que isso é tolice e negando que tenham feito isso a posteriori.Cooper (1999) alerta que, quando o sistema sonega informação, ele obscurece seu comportamento. Para que os usuários gostem do software e tenham uma experiência agradável, ele sugere projetar uma interação respeitosa, generosa e prestativa. Ele considera uma boa interação mais importante do que a composição da interface concreta propriamente dita.
 
-- Não foi possível notar interações tenham uma boa visibilidae e tenham clareza
+- Não foi possível notar interações tenham uma boa visibilidade e tenham clareza
 
-<img src="../assets/PrincipiosGerais2.png" >
+<img src="../assets/PrincipiosGerais3.png" >
 
 ### Projeto para erros (Não presente)
 Norman (1988) recomenda projetar para o erro, ou seja, assumir que qualquer erro potencial será cometido. O designer deve ajudar o usuário a se recuperar de um erro, informando-lhe sobre o que ocorreu, as consequências disso e como reverter os resultados indesejados. 
