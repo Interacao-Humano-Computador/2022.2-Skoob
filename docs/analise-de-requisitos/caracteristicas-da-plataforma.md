@@ -62,7 +62,7 @@
 
 | Versão |    Data    |                                    Descrição                                    | Autor  | Revisor |
 | :----: | :--------: | :-----------------------------------------------------------------------------: | :----: | :-----: |
-|  0.1   | 25/11/2022 | Adicionando introdução, objetivo, caracteristicas, limitações e possibilidades. | Hellen |    -    |
+|  1.0   | 25/11/2022 | Adicionando introdução, objetivo, caracteristicas, limitações e possibilidades. | Hellen | Caio Vitor  |
 
 ## Referências
 
