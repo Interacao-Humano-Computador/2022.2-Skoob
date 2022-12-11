@@ -147,4 +147,4 @@
 
 | Versão |    Data    |             Descrição             |    Autor    |  Revisor   |
 | :----: | :--------: | :-------------------------------: | :---------: | :--------: |
-|  1.0   | 11/12/2022 | Desenvolvimento do guia de estilo | Lucas Lopes | João Pedro |
+|  1.0   | 11/12/2022 | Desenvolvimento do guia de estilo | Lucas Lopes, Wildemberg Sales | João Pedro |
