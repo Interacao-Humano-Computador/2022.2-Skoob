@@ -27,8 +27,8 @@ nav:
       - Processo Design: planejamento/processoDesign.md
       - Cronograma: planejamento/cronograma.md
       - Lista de Sites Avaliados: planejamento/SitesAvaliados.md
-  - Analise de Requisitos:
-      - Analise de Tarefas:
+  - Análise de Requisitos:
+      - Análise de Tarefas:
         - Árvores de Tarefas Concorrentes: analise-de-requisitos/analise-de-tarefas-concorrentes.md
         - Análise Hierárquica de tarefas: analise-de-requisitos/analisehierarquicadetarefas.md
       - Aspectos Éticos: analise-de-requisitos/aspectos-eticos.md
@@ -37,6 +37,7 @@ nav:
       - Caract. da Plataforma: analise-de-requisitos/caracteristicas-da-plataforma.md
       - Metas de Usabilidade: analise-de-requisitos/metas-usabilidade.md
       - Principios Gerais de Projeto: analise-de-requisitos/principios-gerais-de-projeto.md
+      - Guia de Estilo: analise-de-requisitos/guia-de-estilo.md
   - Atas das Reuniões:
       - Reunião 1 - 15/11/2022: atas-das-reunioes/reuniao1.md
       - Reunião 2 - 17/11/2022: atas-das-reunioes/reuniao2.md
