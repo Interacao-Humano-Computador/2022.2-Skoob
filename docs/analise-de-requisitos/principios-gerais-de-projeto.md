@@ -37,6 +37,8 @@ Norman (1988) recomenda simplificar a estrutura das tarefas, reduzindo a quantid
 ### Consistência e padronização(não presente)
 Norman (1988) recomenda assegurar a consistência da interface com o modelo conceitual embutido no sistema.Os usuários não devem ter de se perguntar se palavras, situações ou ações diferentes significam a mesma coisa.
 
+- Não foi possível notar Consistência e padronização
+
 <img src="../assets/PrincipiosGerais4.png" >
 Figura 1 –  interface do livro(retirado do Skoob)
 
