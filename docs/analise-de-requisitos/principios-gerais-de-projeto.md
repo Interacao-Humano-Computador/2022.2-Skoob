@@ -34,8 +34,11 @@ Norman (1988) recomenda simplificar a estrutura das tarefas, reduzindo a quantid
 ### Equilíbrio entre controle e liberdade do usuário
  Devemos tentar reduzir o número de opções ou decisões que o usuário precisa tomar a cada instante.Sempre deve ser fornecida aos usuários uma “saída” clara e rápida, mas deve ser mais fácil se manter “no caminho” do que sair dele inadvertidamente.
 
-### Consistência e padronização
-Norman (1988) recomenda assegurar a consistência da interface com o modelo conceitual embutido no sistema.Os usuários não devem ter de se perguntar se palavras, situações ou ações diferentes significam a mesma coisa. 
+### Consistência e padronização(não presente)
+Norman (1988) recomenda assegurar a consistência da interface com o modelo conceitual embutido no sistema.Os usuários não devem ter de se perguntar se palavras, situações ou ações diferentes significam a mesma coisa.
+
+<img src="../assets/PrincipiosGerais4.png" >
+Figura 1 –  interface do livro(retirado do Skoob)
 
 ### Promoção da eficiência do usuário
 Tognazzini (2003) recomenda considerar sempre a eficiência do usuário em primeiro lugar, e não a do computador.Para isso, um bom projeto de arquitetura do software é essencial. Aliás, esse ponto reforça a necessidade de cooperação, comunicação e parceria constante entre os engenheiros e os designers de IHC durante todo o processo de desenvolvimento ( Segundo Cooper (1999), o sistema deve ser sensível ao que o usuário está fazendo e não deve interrompê-lo desnecessariamente enquanto o usuário estiver trabalhando em algo. 
@@ -46,7 +49,7 @@ As aplicações devem tentar prever o que o usuário quer e precisa, em vez de e
 - Não foi possível notar operações antecipadas, uma vez que as operações mais acessadas como review de livros devem ser buscadas
 
 <img src="../assets/PrincipiosGerais1.png" >
-Figura 1 – tela inicial skoob(retirado do Skoob)
+Figura 2 – tela inicial skoob(retirado do Skoob)
 
 ### Visibilidade e reconhecimento ( Não presente)
 Norman (1988) afirma que o designer deve tornar as coisas  visíveis: abreviar os  golfos de execução e avaliação . Antes de executar uma ação, é necessário tornar visível para os usuários o que é possível realizar e como as ações devem ser feitas. Para isso, a interface deve oferecer ações que correspondam a intenções do usuário.
@@ -54,7 +57,7 @@ Norman (1988) afirma que o designer deve tornar as coisas  visíveis: abreviar o
 - Não foi possível notar visibilidade eficiente nas oprações do menu do Skoob
 
 <img src="../assets/PrincipiosGerais2.png" >
-Figura 2 – menu do Skoob(retirado do Skoob)
+Figura 3 – menu do Skoob(retirado do Skoob)
 
 ### Conteúdo relevante e expressão adequada(não presente)
 Segundo Reeves e Nass (1996), as pessoas dão tratamento humano para qualquer mídia ou tecnologia que apresente comportamento semelhante ao de uma pessoa, mesmo sabendo que isso é tolice e negando que tenham feito isso a posteriori.Cooper (1999) alerta que, quando o sistema sonega informação, ele obscurece seu comportamento. Para que os usuários gostem do software e tenham uma experiência agradável, ele sugere projetar uma interação respeitosa, generosa e prestativa. Ele considera uma boa interação mais importante do que a composição da interface concreta propriamente dita.
@@ -62,7 +65,7 @@ Segundo Reeves e Nass (1996), as pessoas dão tratamento humano para qualquer m�
 - Não foi possível notar interações tenham uma boa visibilidade e tenham clareza
 
 <img src="../assets/PrincipiosGerais3.png" >
-Figura 3 –  interface do usuario(retirado do Skoob)
+Figura 4 –  interface do usuario(retirado do Skoob)
 
 ### Projeto para erros (Não presente)
 Norman (1988) recomenda projetar para o erro, ou seja, assumir que qualquer erro potencial será cometido. O designer deve ajudar o usuário a se recuperar de um erro, informando-lhe sobre o que ocorreu, as consequências disso e como reverter os resultados indesejados. 
@@ -70,7 +73,7 @@ Norman (1988) recomenda projetar para o erro, ou seja, assumir que qualquer erro
 - Não presente o sistema e composto de tentativa e erro, para achar as operações adequadas
 
 <img src="../assets/PrincipiosGerais4.png" >
-Figura 3 –  interface do livro(retirado do Skoob)
+Figura 1 –  interface do livro(retirado do Skoob)
 
 ## Referências Bibliograficas
 BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador".
