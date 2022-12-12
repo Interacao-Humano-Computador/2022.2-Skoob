@@ -58,10 +58,10 @@
 
 |                    Tarefa                    |        Autor        | Entrega |  Revisor   | Revisão | Início da Realização | Fim da Realização |
 | :------------------------------------------: | :-----------------: | :-----: | :--------: | :-----: | :------------------: | :---------------: |
-|         Princípios Gerais de Projeto         |        Caio         |  12/12  |   Hellen   |  11/12  |          -           |         -         |
-|             Metas de usabilidade             | João Pedro, Philipe |  12/12  |   Lucas    |  11/12  |          -           |         -         |
-|                Guia de Estilo                |        Lucas        |  12/12  | João Pedro |  11/12  |          -           |         -         |
-| características da plataforma para o projeto |    Will, Hellen     |  12/12  |    Caio    |  11/12  |          -           |         -         |
+|         Princípios Gerais de Projeto         |        Caio         |  12/12  |   Hellen   |  11/12  |          09/12           |         11/12         |
+|             Metas de usabilidade             | João Pedro, Philipe |  12/12  |   Lucas    |  11/12  |          09/12           |         10/12         |
+|                Guia de Estilo                |        Lucas Lopes, Wildemberg Sales        |  12/12  | João Pedro |  11/12  |          11/12           |         11/12         |
+| Características da plataforma para o projeto |    Hellen     |  12/12  |    Caio    |  11/12  |          25/11           |         25/11         |
 
 <figcaption align="center">Fonte: Hellen Fernanda</figcaption>
 

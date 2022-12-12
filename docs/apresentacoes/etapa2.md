@@ -1,4 +1,4 @@
-# Etapa 1 - 07/12
+# Etapa 2 - 07/12
 
 ## Introdução
 Esta página é destinada à apresentação da Etapa 2 do projeto de Interação Humano-Computador. Essa etapa foca na análise de requisitos. A gravação da apresentação ocorreu no dia 06/12/2022 às 20:26.
