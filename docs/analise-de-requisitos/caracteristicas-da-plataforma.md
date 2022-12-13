@@ -53,7 +53,6 @@
 <li>O usuário pode participar da meta de leitura do ano;</li>
 <li>O usuário pode adquirir seguidores;</li>
 <li>O usuário pode interagir com amigos tanto no chat como nos posts;</li>
-<li>É possivel </li>
 
 </ul>
 </p>
