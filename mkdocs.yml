@@ -29,8 +29,8 @@ nav:
       - Lista de Sites Avaliados: planejamento/SitesAvaliados.md
   - Análise de Requisitos:
       - Análise de Tarefas:
-        - Árvores de Tarefas Concorrentes: analise-de-requisitos/analise-de-tarefas-concorrentes.md
-        - Análise Hierárquica de tarefas: analise-de-requisitos/analisehierarquicadetarefas.md
+          - Árvores de Tarefas Concorrentes: analise-de-requisitos/analise-de-tarefas-concorrentes.md
+          - Análise Hierárquica de tarefas: analise-de-requisitos/analisehierarquicadetarefas.md
       - Aspectos Éticos: analise-de-requisitos/aspectos-eticos.md
       - Perfil do Usuário: analise-de-requisitos/perfil-do-usuario.md
       - Personas: analise-de-requisitos/personas.md
@@ -40,6 +40,7 @@ nav:
       - Guia de Estilo: analise-de-requisitos/guia-de-estilo.md
   - Planejamento e Resultados das Avaliações:
       - Planejamento da Análise de Tarefas: planejamentoAnalise/planejamento-analise-tarefas.md
+      - Planejamento dos resultados das Análises de Tarefas: planejamentoAnalise/planejamento-resultados-analise-tarefas.md
   - Atas das Reuniões:
       - Reunião 1 - 15/11/2022: atas-das-reunioes/reuniao1.md
       - Reunião 2 - 17/11/2022: atas-das-reunioes/reuniao2.md
