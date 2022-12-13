@@ -52,16 +52,15 @@
 <li>O usuário pode ver videos sobre pessoas falando de resenhas, metas de leituras, entre outros;</li>
 <li>O usuário pode participar da meta de leitura do ano;</li>
 <li>O usuário pode adquirir seguidores;</li>
-<li>O usuário pode interagir com amigos tanto no chat como nos posts;</li>
-
+<li>O usuário pode interagir com amigos tanto no chat como nos posts.</li>
 </ul>
 </p>
 
 ## Histórico de versão
 
-| Versão |    Data    |                                    Descrição                                    | Autor  | Revisor |
-| :----: | :--------: | :-----------------------------------------------------------------------------: | :----: | :-----: |
-|  1.0   | 25/11/2022 | Adicionando introdução, objetivo, caracteristicas, limitações e possibilidades. | Hellen | Caio Vitor  |
+| Versão |    Data    |                                    Descrição                                    | Autor  |  Revisor   |
+| :----: | :--------: | :-----------------------------------------------------------------------------: | :----: | :--------: |
+|  1.0   | 25/11/2022 | Adicionando introdução, objetivo, caracteristicas, limitações e possibilidades. | Hellen | Caio Vitor |
 
 ## Referências
 
