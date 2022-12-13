@@ -23,8 +23,9 @@ O termo de consentimento é o documento que garante ao participante da pesquisa 
 
 **Termo de Consentimento Livre e Esclarecido**
 
-Os objetivos desta pesquisa, e as informações que serão coletadas, estão relacionados somente com fins educativos, seguindo a Resolução N°466 do Conselho Nacional de Saúde, preservando o participante da pesquisa com todos os seus direitos éticos e humanitários listados na resolução, sempre seguindo os princípios da bioética que engloba os princípios da não maleficência, beneficência, da autonomia e da justiça.  
-Os executores da pesquisa podem utilizar a voz, e/ou a imagem do participante caso nescessário, para a coleta de informações e/ou registro de atividades e reuniões, sempre seguindo a Resolução N°466 do Conselho Nacional de Saúde, preservando o participante da pesquisa com todos os seus direitos éticos e humanitários listados na resolução, sempre seguindo os princípios da bioética que engloba os princípios da não maleficência, beneficência, da autonomia e da justiça.  
+Os objetivos desta pesquisa, e as informações que serão coletadas, estão relacionados somente com fins educativos, seguindo a Resolução N°466 do Conselho Nacional de Saúde, preservando o participante da pesquisa com todos os seus direitos éticos e humanitários listados na resolução, sempre seguindo os princípios da bioética que engloba os princípios da não maleficência, beneficência, da autonomia e da justiça.   
+
+Os executores da pesquisa podem utilizar a voz, e/ou a imagem do participante caso nescessário, para a coleta de informações e/ou registro de atividades e reuniões, sempre seguindo a Resolução N°466 do Conselho Nacional de Saúde, preservando o participante da pesquisa com todos os seus direitos éticos e humanitários listados na resolução, sempre seguindo os princípios da bioética que engloba os princípios da não maleficência, beneficência, da autonomia e da justiça.    
 
 Ao participar da pesquisa, você deve estar de acordo em fornecer as informações nescessárias para ajudar os executores do projeto 2022.2-Skoob, da matéria de Interação Humano-Computador da Universidade de Brasília, a alcançarem seus objetivos.
 
