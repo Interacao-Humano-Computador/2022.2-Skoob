@@ -2,33 +2,33 @@
 
 ## Introdução
 
-Após as análises efetuadas pelos integrantes da equipe de pesquisa, que visavam coletar informações sobre os usuários que utilizavam o site, as características da plataforma, o seu guia de estilo, e dentre outros aspectos do sistema, agora deve-se identificar como o usuário real interage com a site. Deste modo, após executarmos um roteiro planejado e orientado com o usuário convidado à pesquisa, as dificuldades que o sistema possui, os problemas, e os erros, serão descritos em um documento e verificados, para que assim então seja possível fomentar uma proposta de melhoria descente a plataforma.
+  Após as análises efetuadas pelos integrantes da equipe de pesquisa, que visavam coletar informações sobre os usuários que utilizavam o site, as características da plataforma, o seu guia de estilo, e dentre outros aspectos do sistema, agora deve-se identificar como o usuário real interage com a site. Deste modo, após executarmos um roteiro planejado e orientado com o usuário convidado à pesquisa, as dificuldades que o sistema possui, os problemas, e os erros, serão descritos em um documento e verificados, para que assim então seja possível fomentar uma proposta de melhoria descente a plataforma.
 
 ## Objetivo
 
-O objetivo do planejamento é desenvolver um roteiro a ser seguido pela equipe na hora de realizar a entrevista com o usuário, contendo as perguntas, a metodologia, como devem ser coletadas as informações, e como a equipe deve se preparar para a reunião.  
-Já o objetivo da análise de tarefas, é por meio de um usuário real, observá-lo usar o sistema, e entender como se dá a interação dele com o sistema a partir do roteiro de tarefas a serem executadas, daí então o grupo devidamente preparado, e com o usuário ciente do termo de consentimento, será realizada as perguntas e a coleta de dados a partir de tal.
+  O objetivo do planejamento é desenvolver um roteiro a ser seguido pela equipe na hora de realizar a entrevista com o usuário, contendo as perguntas, a metodologia, como devem ser coletadas as informações, e como a equipe deve se preparar para a reunião.  
+  Já o objetivo da análise de tarefas, é por meio de um usuário real, observá-lo usar o sistema, e entender como se dá a interação dele com o sistema a partir do roteiro de tarefas a serem executadas, daí então o grupo devidamente preparado, e com o usuário ciente do termo de consentimento, será realizada as perguntas e a coleta de dados a partir de tal.
 
 ## Metodologia
 
-A metodologia escolhida pela equipe de pesquisa para a coleta de dados a partir da análise de tarefas será a entrevista, e o método da observação.
-O método da observação consiste em observar o usuário executar determinadas tarefas no sistema, e a partir disto coletar suas emoções e opiniões sobre o site.  
-A entrevista é um dos métodos mais importantes na coleta de dados, pois é feita diretamente com o usuário, possibilitando a interação humana do pesquisador com o participante, e a partir desta interação, e com o pesquisador devidamente preparado, pode ser coletados diversos dados nos quais o usuário não forneceria se não houvesse esse contato humano, o exemplo disto seria as expressões faciais, que o pesquisador pode coletar como resposta indireta ou direta a um aspecto no sistema em que está usando, algo que em casos específicos representa um dado muito importante.
+  A metodologia escolhida pela equipe de pesquisa para a coleta de dados a partir da análise de tarefas será a entrevista, e o método da observação.
+  O método da observação consiste em observar o usuário executar determinadas tarefas no sistema, e a partir disto coletar suas emoções e opiniões sobre o site.  
+  A entrevista é um dos métodos mais importantes na coleta de dados, pois é feita diretamente com o usuário, possibilitando a interação humana do pesquisador com o participante, e a partir desta interação, e com o pesquisador devidamente preparado, pode ser coletados diversos dados nos quais o usuário não forneceria se não houvesse esse contato humano, o exemplo disto seria as expressões faciais, que o pesquisador pode coletar como resposta indireta ou direta a um aspecto no sistema em que está usando, algo que em casos específicos representa um dado muito importante.
 
-Para servir como base da pesquisa com o intuito de guiar o planejamento da avaliação, foi utilizado o <a href="https://interacao-humano-computador.github.io/2022.2-Skoob/planejamento/SitesAvaliados/ProjetoParteIndividualPlanejAvali%C3%A7%C3%A3oHellenFernanda.pdf">arquivo de planejamento de avaliação do site</a> feito no início do projeto.
+  Para servir como base da pesquisa com o intuito de guiar o planejamento da avaliação, foi utilizado o <a href="https://interacao-humano-computador.github.io/2022.2-Skoob/planejamento/SitesAvaliados/ProjetoParteIndividualPlanejAvali%C3%A7%C3%A3oHellenFernanda.pdf">arquivo de planejamento de avaliação do site</a> feito no início do projeto.
 
 ## Preparação
 
-Para ser executado a entrevista, será utilizado um notebook com conexão com a internet, para a gravação de áudio e vídeo do entrevistado, também para que tal convidado consiga realizar as tarefas da pesquisa. Também será utilizado o notebook para a anotação das respostas referentes a <i>Tabela 2</i> e como os matérias já pertencem a equipe, não haverá gastos, ou seja, não haverá a nescessidade de um orçamento.
-Os únicos integrantes nescessários para a execução desta pesquisa serão a equipe responsável pela pesquisa, e o convidado a ser entrevistado.  
-Ocorrerá um teste piloto, que se refere a uma observação de primeiro momento para que seja possível ter uma noção de como irá ocorrer tal avaliação, com um usuário do sistema que possui um perfil de usuário primário e que já tenha um noção clara do sistema, para que possa se comparar as métricas coletadas, com as dos usuários que serão convidados.    
-Em relação ao recrutamento dos usuários, será enviado convite aos usuários já conhecidos pelos participantes da equipe de pesquisa, pois o site do Skoob não é tão popular, sendo assim foi preferido reutilizar os convidados já conhecidos e que já participaram de outras partes da pesquisa, todos como usuários primários, e com um perfil comum entre os usuários do sistema, assim sendo escolhido no máximo 1 usuário para teste piloto, e entre 2 ou 3 para execução da avaliação. Todos os usuários estarão cientes do <a href="https://interacao-humano-computador.github.io/2022.2-Skoob/analise-de-requisitos/aspectos-eticos/">Termo de consentimento</a> desenvolvido pela equipe.   
-O local, data e horário da entrevista será analisado de acordo com a disponibilidade do convidado, sendo possível ser presencial ou por meio de vídeo-chamadas, deste modo impossibilitando a criação de um cronograma.  
-O prazo para a execução desta avaliação será até o dia 20/12/2022, podendo se estender até o dia seguinte caso haja algum conflito ou problema durante a pesquisa.  
+  Para ser executado a entrevista, será utilizado um notebook com conexão com a internet, para a gravação de áudio e vídeo do entrevistado, também para que tal convidado consiga realizar as tarefas da pesquisa. Também será utilizado o notebook para a anotação das respostas referentes a <i>Tabela 2</i> e como os matérias já pertencem a equipe, não haverá gastos, ou seja, não haverá a nescessidade de um orçamento.
+  Os únicos integrantes nescessários para a execução desta pesquisa serão a equipe responsável pela pesquisa, e o convidado a ser entrevistado.  
+  Ocorrerá um teste piloto, que se refere a uma observação de primeiro momento para que seja possível ter uma noção de como irá ocorrer tal avaliação, com um usuário do sistema que possui um perfil de usuário primário e que já tenha um noção clara do sistema, para que possa se comparar as métricas coletadas, com as dos usuários que serão convidados.    
+  Em relação ao recrutamento dos usuários, será enviado convite aos usuários já conhecidos pelos participantes da equipe de pesquisa, pois o site do Skoob não é tão popular, sendo assim foi preferido reutilizar os convidados já conhecidos e que já participaram de outras partes da pesquisa, todos como usuários primários, e com um perfil comum entre os usuários do sistema, assim sendo escolhido no máximo 1 usuário para teste piloto, e entre 2 ou 3 para execução da avaliação. Todos os usuários estarão cientes do <a href="https://interacao-humano-computador.github.io/2022.2-Skoob/analise-de-requisitos/aspectos-eticos/">Termo de consentimento</a> desenvolvido pela equipe.   
+  O local, data e horário da entrevista será analisado de acordo com a disponibilidade do convidado, sendo possível ser presencial ou por meio de vídeo-chamadas, deste modo impossibilitando a criação de um cronograma.  
+  O prazo para a execução desta avaliação será até o dia 20/12/2022, podendo se estender até o dia seguinte caso haja algum conflito ou problema durante a pesquisa.  
 
 ## Entrevista
 
-Para podermos realizar a entrevista, foi definido uma tabela de tarefas principais do sistema, que o entrevistado deve executar no site para que seja avaliado sua interação com o sistema, assim foram descritas na <i>Tabela 1</i>.
+  Para podermos realizar a entrevista, foi definido uma tabela de tarefas principais do sistema, que o entrevistado deve executar no site para que seja avaliado sua interação com o sistema, assim foram descritas na <i>Tabela 1</i>.
 
 | Número | Tarefas que podem ser executadas |
 | :----: | :---: |
@@ -39,7 +39,7 @@ Para podermos realizar a entrevista, foi definido uma tabela de tarefas principa
     Tabela 1: Tarefas que podem ser executadas pelo usuário
 </figcaption>
 
-E para a execução da entrevista, será utilizado a <i>Tabela 2</i> para fazer as perguntas.
+  E para a execução da entrevista, com o intuito de ter um roteiro padronizado para todos os participantes, seguindo a igualdade para todos, será utilizado a <i>Tabela 2</i> para realizar as perguntas.
 
 | Número | Perguntas | Opções de resposta |
 | :---: | :---: | :---: |
@@ -64,7 +64,7 @@ E para a execução da entrevista, será utilizado a <i>Tabela 2</i> para fazer 
 </figcaption>
 
 ## Resultados
-Todos os resultado obtidos durante a avaliação, toda gravação de áudio e vídeo, deverão ser documentadas, registradas e disponibilizadas para estudo e afins do projeto.
+  Todos os resultado obtidos durante a avaliação, toda gravação de áudio e vídeo, deverão ser documentadas, registradas e disponibilizadas para estudo e afins do projeto.
 
 ## Bibliografias
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
