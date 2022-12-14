@@ -60,8 +60,8 @@
 |   13   | O sistema disponibilizou acessiblidade suficiente para você durante as tarefas? |    [ ] Sim </br> [ ] Não </br>[ ] Mais ou Menos    |
 |   14   |                    Quais as piores características do site?                     |                    Dissertativa                    |
 |   15   |                   Quais as melhores características do site?                    |                    Dissertativa                    |
-|   16   | O que você acha que deveria der melhorado no site em relação as tarefas feitas? |                    Dissertativa                    |
-|   17   |     O que você acha que deveria der melhorado no site em um aspecto geral?      |                    Dissertativa                    |
+|   16   | O que você acha que deveria ser melhorado no site em relação as tarefas feitas? |                    Dissertativa                    |
+|   17   |     O que você acha que deveria ser melhorado no site em um aspecto geral?      |                    Dissertativa                    |
 
 <figcaption align='center'>
     Tabela 2: Perguntas a serem executadas para a entrevista | Opções de resposta
