@@ -9,7 +9,7 @@
 ## 2. Objetivo
 
 <p align="justify">
-  O objetivo deste documento é planejar a avaliação  do storyboard criado a partir da metodologia e as tarefas usadas neste documento para melhorar as decisões do designer de acordo com o andar do projeto.
+  O objetivo deste documento é planejar a avaliação  do storyboard criado a partir da metodologia e as tarefas usadas neste documento para melhorar as decisões do designer de acordo com o andar do projeto e ter insumos suficientes para elaborar uma melhoria das funcionalidades dentro do sistema..
 </p>
 
 ## 3. Metodologia
@@ -53,9 +53,9 @@ O acrônimo DECIDE pode ser expandido para os seguintes tópicos:
 |  1   |No que se refere aos storyboards apresentados, você acha que todos eles condizem com a realidade? | [ ] Sim<br>[ ] Não |
 |  2   | Qual dos storyboards apresentados você acha que não condiz com a realidade? |Número do storyboard|
 |  3   | Por quê você acha que este storyboard não condiz com a realidade? |Resposta aberta|
-|  4   | Você teria alguma sugestão de melhoria ou alteração em algum dos storyboards apresentados? | [ ] Sim <br>[ ] Não<br>
+|  4   | Você teria alguma sugestão de melhoria ou alteração em algum dos storyboards apresentados? | [ ] Sim <br>[ ] Não<br>|
 |  5   | Qual dos storyboards apresentados você gostaria de contribuir com a sua opinião? |Número do storyboard|
-|  6   |Qual sugestão de melhoria ou alteração você gostaria de compartilhar? |Resposta aberta
+|  6   |Qual sugestão de melhoria ou alteração você gostaria de compartilhar? |Resposta aberta|
 
 ### 4.4 Termo de Consentimento
 
@@ -79,6 +79,11 @@ Dessa forma, gostaríamos que você pronunciasse em alto e bom som:
 
 <b>Eu, [nome do entrevistado], aceito os termos e dou meu consentimento para a realização da entrevista.</b>
 
+## 4.5 Recrutamento dos participantes e cronograma das entrevistas
+
+Dentro da atividade de Perfil do Usuário e das Personas, conseguimos identificar características necessárias para realizar uma entrevista com um usuário. Sendo assim buscaremos dois perfis maiores de 18 anos, de diferentes faixas etárias e que gostem de ler.
+
+Para fazer o recrutamento, utilizamos grupos para divulgar que tenham pessoas de acordo com os perfis indicados acima. Além disso, fizemos convite a pessoas conhecidas que encaixam com o perfil buscado.
 
 ## 4.5 Aplicação da Avaliação
 
@@ -99,10 +104,17 @@ Dessa forma, gostaríamos que você pronunciasse em alto e bom som:
   Dada a conclusão de cada entrevista programada, cabe ao avaliador elaborar um relatório com os resultados da entrevista, onde este deve conter: os pontos apontados pelo entrevistado, tanto positivos quanto negativos, sugestões de melhorias, link da gravação da entrevista e o que mais o avaliador achar pertinente.
 </p>
 
+
+
 ## 4.6 Teste Piloto
 
 Antes da entrevista com os participantes selecionados ser realizada, será feito um teste piloto a fim de verificar o planejamento, analisar se a avaliação produz os dados necessários e verificar se todas as ferramentas necessárias para a avaliação estão funcionando como planejado. O teste piloto consistirá em dois avaliadores executando a avaliação como se fosse uma sessão normal da entrevista e a gravação deste teste e os seus resultados serão documentados no relato dos resultados e qualquer mudança necessária no planejamento será feita antes que as entrevistas ocorram.
 
+- As tarefas a serem executadas são facilmente compreendidas?
+- O tempo da entrevista está conforme o esperado?
+- A dinâmica da entrevista é satisfatória?
+- As tarefas fazem sentido no contexto da avaliação?
+- Alguma etapa ou informação durante a entrevista ficou vaga ou ambígua?
 
 ## 5. Relato dos Resultados
 
