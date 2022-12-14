@@ -85,7 +85,7 @@ Dentro da atividade de Perfil do Usuário e das Personas, conseguimos identifica
 
 Para fazer o recrutamento, utilizamos grupos para divulgar que tenham pessoas de acordo com os perfis indicados acima. Além disso, fizemos convite a pessoas conhecidas que encaixam com o perfil buscado.
 
-## 4.5 Aplicação da Avaliação
+## 4.6 Aplicação da Avaliação
 
 <p align="justify">
   Para a entrevista, optou-se por realiza-la através do Microsoft Teams, tendo em vista a simplicidade e o alcance dessa plataforma. Na data combinada para a realização da entrevista dia 27/12/2022 às 20:30, cada participante deve receber um link para a videoconferência, com pelo menos 10 minutos de antecedência, e o tempo total da entrevista não pode superar os 30 minutos, para que não haja esgotamento do entrevistado e consequente perca de qualidade nas respostas obtidas. Os próximos passos estão descritos abaixo:
@@ -98,7 +98,7 @@ Para fazer o recrutamento, utilizamos grupos para divulgar que tenham pessoas de
 
 **Importante:** Sempre que achar necessário, anote algum ponto ou observação que possa ter surgido ao longo da entrevista e que possa vir a contribuir futuramente para o projeto.
 
-## 4.5 Conclusão da avaliação
+## 4.7 Conclusão da avaliação
 
 <p align="justify">
   Dada a conclusão de cada entrevista programada, cabe ao avaliador elaborar um relatório com os resultados da entrevista, onde este deve conter: os pontos apontados pelo entrevistado, tanto positivos quanto negativos, sugestões de melhorias, link da gravação da entrevista e o que mais o avaliador achar pertinente.
@@ -106,7 +106,7 @@ Para fazer o recrutamento, utilizamos grupos para divulgar que tenham pessoas de
 
 
 
-## 4.6 Teste Piloto
+## 4.8 Teste Piloto
 
 Antes da entrevista com os participantes selecionados ser realizada, será feito um teste piloto a fim de verificar o planejamento, analisar se a avaliação produz os dados necessários e verificar se todas as ferramentas necessárias para a avaliação estão funcionando como planejado. O teste piloto consistirá em dois avaliadores executando a avaliação como se fosse uma sessão normal da entrevista e a gravação deste teste e os seus resultados serão documentados no relato dos resultados e qualquer mudança necessária no planejamento será feita antes que as entrevistas ocorram.
 
