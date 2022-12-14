@@ -39,7 +39,7 @@ vem ter sido realizadas"</p>
 
 ## Diagrama de Análise de Tarefas Concorrentes
 
-<p align="justify">No site Skoob, foram escolhida duas tarefas para serem analisadas como mostra nas figuras 3 e 4.</p>
+<p align="justify">No site Skoob, foram escolhida três tarefas para serem analisadas como mostra nas figuras 3, 4 e 5.</p>
 
 <img src= "../assets/escreverUmaFrase.png" width="670" align='center' >
 
@@ -52,6 +52,13 @@ vem ter sido realizadas"</p>
 
 <figcaption align='center'>
     Figura 4: Árvore de tarefas concorrentes referente a adicionar um livro como lido.
+    <br>
+</figcaption>
+
+<img src= "../assets/avaLivro.png" width="670" align='center' >
+
+<figcaption align='center'>
+    Figura 5: Árvore de tarefas concorrentes referente a avaliar um livro lido.
     <br>
 </figcaption>
 

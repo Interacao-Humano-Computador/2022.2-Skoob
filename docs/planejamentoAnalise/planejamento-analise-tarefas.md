@@ -30,11 +30,12 @@
 
   <p align="justify">Para podermos realizar a entrevista, foi definido uma tabela de tarefas principais do sistema, que o entrevistado deve executar no site para que seja avaliado sua interação com o sistema, assim foram descritas na <i>Tabela 1</i>.</p>
 
-| Número |          Tarefas que podem ser executadas          |
-| :----: | :------------------------------------------------: |
-|   1    | Adicionar livros que gostaria de ler ao seu perfil |
-|   2    |   Fazer uma revisão sobre algum livro que já leu   |
-|   3    |          Fazer comentários sobre um livro          |
+| Número |    Tarefas que podem ser executadas     |
+| :----: | :-------------------------------------: |
+|   1    |      Adicionar uma frase que goste      |
+|   2    |         Adicionar um livro lido         |
+|   3    | Fazer uma avaliação sobre um livro lido |
+|   4    |          Fazer cadastro/login           |
 
 <figcaption align='center'>
     Tabela 1: Tarefas que podem ser executadas pelo usuário
@@ -51,15 +52,16 @@
 |   5    |     De acordo com a tarefa 1, qual foi sua maior dificuldade ao executá-la?     |                    Dissertativa                    |
 |   6    |     De acordo com a tarefa 2, qual foi sua maior dificuldade ao executá-la?     |                    Dissertativa                    |
 |   7    |     De acordo com a tarefa 3, qual foi sua maior dificuldade ao executá-la?     |                    Dissertativa                    |
-|   8    |        O sistema forneceu ajuda/orientação a você durante suas tarefas?         |    [ ] Sim </br> [ ] Não </br>[ ] Mais ou Menos    |
-|   9    |                    O sistema é intuitivo em sua utilização?                     |    [ ] Sim </br> [ ] Não </br>[ ] Mais ou Menos    |
-|   10   |            Você possui controle total do site e de suas ferramentas?            |    [ ] Sim </br> [ ] Não </br>[ ] Mais ou Menos    |
-|   11   |           Qual o nível de dificuldade em encontrar os livros no site?           |      [ ] Muita </br> [ ] Média </br>[ ] Pouca      |
-|   12   | O sistema disponibilizou acessiblidade suficiente para você durante as tarefas? |    [ ] Sim </br> [ ] Não </br>[ ] Mais ou Menos    |
-|   13   |                    Quais as piores características do site?                     |                    Dissertativa                    |
-|   14   |                   Quais as melhores características do site?                    |                    Dissertativa                    |
-|   15   | O que você acha que deveria der melhorado no site em relação as tarefas feitas? |                    Dissertativa                    |
-|   16   |     O que você acha que deveria der melhorado no site em um aspecto geral?      |                    Dissertativa                    |
+|   8    |     De acordo com a tarefa 4, qual foi sua maior dificuldade ao executá-la?     |                    Dissertativa                    |
+|   9    |        O sistema forneceu ajuda/orientação a você durante suas tarefas?         |    [ ] Sim </br> [ ] Não </br>[ ] Mais ou Menos    |
+|   10   |                    O sistema é intuitivo em sua utilização?                     |    [ ] Sim </br> [ ] Não </br>[ ] Mais ou Menos    |
+|   11   |            Você possui controle total do site e de suas ferramentas?            |    [ ] Sim </br> [ ] Não </br>[ ] Mais ou Menos    |
+|   12   |           Qual o nível de dificuldade em encontrar os livros no site?           |      [ ] Muita </br> [ ] Média </br>[ ] Pouca      |
+|   13   | O sistema disponibilizou acessiblidade suficiente para você durante as tarefas? |    [ ] Sim </br> [ ] Não </br>[ ] Mais ou Menos    |
+|   14   |                    Quais as piores características do site?                     |                    Dissertativa                    |
+|   15   |                   Quais as melhores características do site?                    |                    Dissertativa                    |
+|   16   | O que você acha que deveria der melhorado no site em relação as tarefas feitas? |                    Dissertativa                    |
+|   17   |     O que você acha que deveria der melhorado no site em um aspecto geral?      |                    Dissertativa                    |
 
 <figcaption align='center'>
     Tabela 2: Perguntas a serem executadas para a entrevista | Opções de resposta

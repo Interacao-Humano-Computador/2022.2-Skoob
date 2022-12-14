@@ -12,11 +12,11 @@
 ## Metodologia
 
 <p align="justify">A metodologia utilizada para a realização avaliação foi pela entrevista, método pertencente aos métodos de investigação. Diante outras responsabilidades dos membros do grupo, apenas um entrevistador participou das entrevistas e ficou responsável pela gravação e posterior coleta dos dados.</p>
-<p align="justify">Durante a entrevista, foram feitas perguntas conceituais que tivessem relação com o sistema em questão, logo após, foi explicado e apresentado os diagramas de Análise Hierárquica de Tarefas desenvolvidos pelo grupo.O diagrama escolhido para abordar na entrevista foi o Análise Hierárquica de tarefas por apresentar maior facilidade de entendimento.</p>
+<p align="justify">Durante a entrevista, foram feitas perguntas conceituais que tivessem relação com o sistema em questão, logo após, foi explicado e apresentado os diagramas de Análise Hierárquica de Tarefas e Árvore de Tarefas Concorrentes desenvolvidos pelo grupo.</p>
 
 ## Participantes
 
-<p align="justify">Foi encontrada apenas uma voluntária que se encaixasse no perfil de usuário definido anteriormente para o sistema. Cada entrevista teve apenas dois participantes, o entrevistador e o entrevistado.</p>
+<p align="justify">Foi encontrada apenas uma voluntária, que aceitou fazer a entrevista e se encaixasse no perfil de usuário definido anteriormente para o sistema. A entrevista teve apenas dois participantes, o entrevistador e o entrevistado.</p>
 
 ## Dados obtidos
 
@@ -24,24 +24,25 @@
 
 ### Entrevista - Maria Eduarda
 
-| Número |                                    Perguntas                                    |                 Opções de resposta                 |
-| :----: | :-----------------------------------------------------------------------------: | :------------------------------------------------: |
-|   1    |                                Qual a sua idade?                                |                                                    |
-|   2    |                  Qual o seu nível de formação acadêmica atual?                  | [ ] Graduação </br> [ ] Mestrado </br>[ ] Dutorado |
-|   3    |                  Com qual frequência você costuama ler livros?                  |      [ ] Muita </br> [ ] Média </br>[ ] Pouca      |
-|   4    |          Você sente a nescessidade de catalogar os livros que já leu?           |      [ ] Muita </br> [ ] Média </br>[ ] Pouca      |
-|   5    |     De acordo com a tarefa 1, qual foi sua maior dificuldade ao executá-la?     |                    Dissertativa                    |
-|   6    |     De acordo com a tarefa 2, qual foi sua maior dificuldade ao executá-la?     |                    Dissertativa                    |
-|   7    |     De acordo com a tarefa 3, qual foi sua maior dificuldade ao executá-la?     |                    Dissertativa                    |
-|   8    |        O sistema forneceu ajuda/orientação a você durante suas tarefas?         |    [ ] Sim </br> [ ] Não </br>[ ] Mais ou Menos    |
-|   9    |                    O sistema é intuitivo em sua utilização?                     |    [ ] Sim </br> [ ] Não </br>[ ] Mais ou Menos    |
-|   10   |            Você possui controle total do site e de suas ferramentas?            |    [ ] Sim </br> [ ] Não </br>[ ] Mais ou Menos    |
-|   11   |           Qual o nível de dificuldade em encontrar os livros no site?           |      [ ] Muita </br> [ ] Média </br>[ ] Pouca      |
-|   12   | O sistema disponibilizou acessiblidade suficiente para você durante as tarefas? |    [ ] Sim </br> [ ] Não </br>[ ] Mais ou Menos    |
-|   13   |                    Quais as piores características do site?                     |                    Dissertativa                    |
-|   14   |                   Quais as melhores características do site?                    |                    Dissertativa                    |
-|   15   | O que você acha que deveria der melhorado no site em relação as tarefas feitas? |                    Dissertativa                    |
-|   16   |     O que você acha que deveria der melhorado no site em um aspecto geral?      |                    Dissertativa                    |
+| Número |                                                     Perguntas                                                      |                 Opções de resposta                 |
+| :----: | :----------------------------------------------------------------------------------------------------------------: | :------------------------------------------------: |
+|   1    |                                                 Qual a sua idade?                                                  |                                                    |
+|   2    |                                   Qual o seu nível de formação acadêmica atual?                                    | [ ] Graduação </br> [ ] Mestrado </br>[ ] Dutorado |
+|   3    |                                   Com qual frequência você costuama ler livros?                                    |      [ ] Muita </br> [ ] Média </br>[ ] Pouca      |
+|   4    |                            Você sente a nescessidade de catalogar os livros que já leu?                            |      [ ] Muita </br> [ ] Média </br>[ ] Pouca      |
+|   5    |       Ao realizar a tarefa de "adicionar uma frase que goste", qual foi sua maior dificuldade ao executá-la?       |                    Dissertativa                    |
+|   6    |          Ao realizar a tarefa de "adicionar um livro lido", qual foi sua maior dificuldade ao executá-la?          |                    Dissertativa                    |
+|   7    | Ao realizar uma tarefa de "fazer uma avaliação sobre um livro lido", qual foi sua maior dificuldade ao executá-la? |                    Dissertativa                    |
+|   8    |          Ao realizar uma tarefa de "fazer cadastro/login", qual foi sua maior dificuldade ao executá-la?           |                    Dissertativa                    |
+|   9    |                          O sistema forneceu ajuda/orientação a você durante suas tarefas?                          |    [ ] Sim </br> [ ] Não </br>[ ] Mais ou Menos    |
+|   10   |                                      O sistema é intuitivo em sua utilização?                                      |    [ ] Sim </br> [ ] Não </br>[ ] Mais ou Menos    |
+|   11   |                             Você possui controle total do site e de suas ferramentas?                              |    [ ] Sim </br> [ ] Não </br>[ ] Mais ou Menos    |
+|   12   |                            Qual o nível de dificuldade em encontrar os livros no site?                             |      [ ] Muita </br> [ ] Média </br>[ ] Pouca      |
+|   13   |                  O sistema disponibilizou acessiblidade suficiente para você durante as tarefas?                   |    [ ] Sim </br> [ ] Não </br>[ ] Mais ou Menos    |
+|   14   |                                      Quais as piores características do site?                                      |                    Dissertativa                    |
+|   15   |                                     Quais as melhores características do site?                                     |                    Dissertativa                    |
+|   16   |                  O que você acha que deveria der melhorado no site em relação as tarefas feitas?                   |                    Dissertativa                    |
+|   17   |                       O que você acha que deveria der melhorado no site em um aspecto geral?                       |                    Dissertativa                    |
 
 <figcaption align='center'>
     Tabela 1: Perguntas realizadas durante a entrevista com respectivas respostas.
@@ -50,6 +51,8 @@
 ## Problemas encontrados
 
 <p align="justify"></p>
+
+## Gravação da entrevista
 
 ## Conclusão
 
