@@ -16,8 +16,17 @@ A finalidade é que os avaliadores elaborarem um relatório advindo da análise 
 
 Nessa etapa os avaliadores irão verificar e interpretar os resultados alcançados na avaliação dos storyboards e descreveram quais problemas foram encontrados e assim podendo apontar as devidas melhorias.
 
+## 5. Teste Piloto
 
-## 5. Conclusão
+Antes da entrevista com os participantes selecionados ser realizada, será feito um teste piloto a fim de verificar o planejamento, analisar se a avaliação produz os dados necessários e verificar se todas as ferramentas necessárias para a avaliação estão funcionando como planejado. O teste piloto consistirá em dois avaliadores executando a avaliação como se fosse uma sessão normal da entrevista e a gravação deste teste e os seus resultados serão documentados no relato dos resultados e qualquer mudança necessária no planejamento será feita antes que as entrevistas ocorram.
+
+- As tarefas a serem executadas são facilmente compreendidas?
+- O tempo da entrevista está conforme o esperado?
+- A dinâmica da entrevista é satisfatória?
+- As tarefas fazem sentido no contexto da avaliação?
+- Alguma etapa ou informação durante a entrevista ficou vaga ou ambígua?
+
+## 6. Conclusão
 Também é importante destacarmos a geração do relatório tendo como guiar as seguintes perspectivas;
 
 - A forma como a avaliação foi realizada;
