@@ -102,15 +102,8 @@ Para fazer o recrutamento, utilizamos grupos para divulgar que tenham pessoas de
 
 **Importante:** Sempre que achar necessário, anote algum ponto ou observação que possa ter surgido ao longo da entrevista e que possa vir a contribuir futuramente para o projeto.
 
-## 4.8 Conclusão da avaliação
 
-<p align="justify">
-  Dada a conclusão de cada entrevista programada, cabe ao avaliador elaborar um relatório com os resultados da entrevista, onde este deve conter: os pontos apontados pelo entrevistado, tanto positivos quanto negativos, sugestões de melhorias, link da gravação da entrevista e o que mais o avaliador achar pertinente.
-</p>
-
-
-
-## 4.9 Teste Piloto
+## 4.8 Teste Piloto
 
 <h3> Teste piloto (ou pré-teste) é o teste que você faz antes de começar os testes de usabilidade </h3>
 
@@ -121,6 +114,12 @@ Antes da entrevista com os participantes selecionados ser realizada, será feito
 - A dinâmica da entrevista é satisfatória?
 - As tarefas fazem sentido no contexto da avaliação?
 - Alguma etapa ou informação durante a entrevista ficou vaga ou ambígua?
+
+## 4.9 Conclusão da avaliação
+
+<p align="justify">
+  Dada a conclusão de cada entrevista programada, cabe ao avaliador elaborar um relatório com os resultados da entrevista, onde este deve conter: os pontos apontados pelo entrevistado, tanto positivos quanto negativos, sugestões de melhorias, link da gravação da entrevista e o que mais o avaliador achar pertinente.
+</p>
 
 ## 5. Relato dos Resultados
 
