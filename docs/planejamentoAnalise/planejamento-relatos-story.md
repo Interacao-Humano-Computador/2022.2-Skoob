@@ -5,11 +5,20 @@ O propósito desse artefato é a elaboração do planejamento dos relatos dos re
 
 
 ## 2. Metodologia
-A metodologia a ser empregada vai ser a entrevista com personas. A entrevista será orientada por um roteiro em que um dos membros da equipe irá encenar uma persona previamente definida, com a finalidade de conseguir o máximo de informação possível.Irão ser examinada as tarefas e funcionalidades ilustradas nos Storyboards, para analisar se tais tarefas e funcionalidades coincidem com o sistema avaliado.
+A metodologia a ser empregada vai ser a entrevista. A entrevista será orientada por um roteiro , com a finalidade de conseguir o máximo de informação possível.Irão ser examinada as tarefas e funcionalidades ilustradas nos Storyboards, para analisar se tais tarefas e funcionalidades coincidem com o sistema avaliado.
 
 ## 3. Objetivo
 
 A finalidade é que os avaliadores elaborarem um relatório advindo da análise dos resultados do storyboard, assim como encontrar âmbitos e utilidades para serem melhoradas
+
+### 3.1 Participante
+
+Inicialmente, o grupo deve determinar os participantes da entrevista e os avaliadores. O entrevistado deve se encaixar no perfil de usuário definido durante o projeto. O avaliador terá a responsabilidade documentar todas as respostas do Roteiro de perguntas, assim como sugestões caso ache necessário.
+
+### 3.2 Tarefas
+Também é preciso definir as tarefas que os participantes irão realizar. Navegar dentre as funções do site e tentar realizar:
+    - Adicionar livros que gostaria de ler.
+    - Fazer avaliação de um livro.
 
 
 ## 4. Problemas encontrados 
@@ -17,14 +26,13 @@ A finalidade é que os avaliadores elaborarem um relatório advindo da análise 
 Nessa etapa os avaliadores irão verificar e interpretar os resultados alcançados na avaliação dos storyboards e descreveram quais problemas foram encontrados e assim podendo apontar as devidas melhorias.
 
 ## 5. Conclusão
-Também é importante destacarmos a geração do relatório tendo como guiar as seguintes perspectivas;
+Também é importante destacarmos a geração do relatório tendo como guiar as seguintes aspetos; 
 
 - A forma como a avaliação foi realizada;
 - O número e o perfil de usuários e avaliadores que participaram da avaliação;
 - Um resumo dos dados coletados, incluindo tabelas e gráficos;
 - Um relato da interpretação e análise dos dados;
 - Uma lista dos problemas encontrados;
-
 
 
 ## Referências
