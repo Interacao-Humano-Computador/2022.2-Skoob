@@ -16,47 +16,49 @@
 
 ## Participantes
 
-<p align="justify">Foi encontrada apenas uma voluntária, que aceitou fazer a entrevista e se encaixasse no perfil de usuário definido anteriormente para o sistema. A entrevista teve apenas dois participantes, o entrevistador e o entrevistado.</p>
+<p align="justify">Foi encontrada uma voluntária, que aceitou fazer a entrevista e que se encaixasse no perfil de usuário definido anteriormente para o sistema. A entrevista teve apenas dois participantes, o entrevistador e o entrevistado. O local de realização da entrevista foi feita pessoalmente na fga e o audio da entrevista foi gravado.</p>
 
 ## Dados obtidos
 
 <p align="justify">Os dados obtidos na entrevista foram transcritos para a tabela 1.</p>
 
-### Entrevista - Maria Eduarda
+### Entrevista 1 - Luana Ribeiro Soares
 
-| Número |                                                     Perguntas                                                      |                 Opções de resposta                 |
-| :----: | :----------------------------------------------------------------------------------------------------------------: | :------------------------------------------------: |
-|   1    |                                                 Qual a sua idade?                                                  |                                                    |
-|   2    |                                   Qual o seu nível de formação acadêmica atual?                                    | [ ] Graduação </br> [ ] Mestrado </br>[ ] Dutorado |
-|   3    |                                   Com qual frequência você costuama ler livros?                                    |      [ ] Muita </br> [ ] Média </br>[ ] Pouca      |
-|   4    |                            Você sente a nescessidade de catalogar os livros que já leu?                            |      [ ] Muita </br> [ ] Média </br>[ ] Pouca      |
-|   5    |       Ao realizar a tarefa de "adicionar uma frase que goste", qual foi sua maior dificuldade ao executá-la?       |                    Dissertativa                    |
-|   6    |          Ao realizar a tarefa de "adicionar um livro lido", qual foi sua maior dificuldade ao executá-la?          |                    Dissertativa                    |
-|   7    | Ao realizar uma tarefa de "fazer uma avaliação sobre um livro lido", qual foi sua maior dificuldade ao executá-la? |                    Dissertativa                    |
-|   8    |          Ao realizar uma tarefa de "fazer cadastro/login", qual foi sua maior dificuldade ao executá-la?           |                    Dissertativa                    |
-|   9    |                          O sistema forneceu ajuda/orientação a você durante suas tarefas?                          |    [ ] Sim </br> [ ] Não </br>[ ] Mais ou Menos    |
-|   10   |                                      O sistema é intuitivo em sua utilização?                                      |    [ ] Sim </br> [ ] Não </br>[ ] Mais ou Menos    |
-|   11   |                             Você possui controle total do site e de suas ferramentas?                              |    [ ] Sim </br> [ ] Não </br>[ ] Mais ou Menos    |
-|   12   |                            Qual o nível de dificuldade em encontrar os livros no site?                             |      [ ] Muita </br> [ ] Média </br>[ ] Pouca      |
-|   13   |                  O sistema disponibilizou acessiblidade suficiente para você durante as tarefas?                   |    [ ] Sim </br> [ ] Não </br>[ ] Mais ou Menos    |
-|   14   |                                      Quais as piores características do site?                                      |                    Dissertativa                    |
-|   15   |                                     Quais as melhores características do site?                                     |                    Dissertativa                    |
-|   16   |                  O que você acha que deveria der melhorado no site em relação as tarefas feitas?                   |                    Dissertativa                    |
-|   17   |                       O que você acha que deveria der melhorado no site em um aspecto geral?                       |                    Dissertativa                    |
+| Número |                                                     Perguntas                                                      |                                                     Opções de resposta                                                      |
+| :----: | :----------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
+|   1    |                                                 Qual a sua idade?                                                  |                                                           19 anos                                                           |
+|   2    |                                   Qual o seu nível de formação acadêmica atual?                                    |                                     [x] Graduação </br> [ ] Mestrado </br>[ ] Dutorado                                      |
+|   3    |                                   Com qual frequência você costuama ler livros?                                    |                                          [x] Muita </br> [ ] Média </br>[ ] Pouca                                           |
+|   4    |                            Você sente a nescessidade de catalogar os livros que já leu?                            |                                          [x] Muita </br> [ ] Média </br>[ ] Pouca                                           |
+|   5    |       Ao realizar a tarefa de "adicionar uma frase que goste", qual foi sua maior dificuldade ao executá-la?       |      No aplicativo na hora de colocar é preciso acessar uma area espécifica, que não é ensinada e é preciso procurar.       |
+|   6    |          Ao realizar a tarefa de "adicionar um livro lido", qual foi sua maior dificuldade ao executá-la?          |                   encontrar o livro, não encontrei a edição que gostaria, foi dificil fazer a atividade.                    |
+|   7    | Ao realizar uma tarefa de "fazer uma avaliação sobre um livro lido", qual foi sua maior dificuldade ao executá-la? |                               não salvar as alterações feitas e ter que refazer a avaliação.                                |
+|   8    |          Ao realizar uma tarefa de "fazer cadastro/login", qual foi sua maior dificuldade ao executá-la?           |                                                    não teve dificuldade.                                                    |
+|   9    |                          O sistema forneceu ajuda/orientação a você durante suas tarefas?                          |                                        [ ] Sim </br> [ ] Não </br>[x] Mais ou Menos                                         |
+|   10   |                                      O sistema é intuitivo em sua utilização?                                      |                                        [ ] Sim </br> [ ] Não </br>[x] Mais ou Menos                                         |
+|   11   |                             Você possui controle total do site e de suas ferramentas?                              |                                        [ ] Sim </br> [ ] Não </br>[x] Mais ou Menos                                         |
+|   12   |                            Qual o nível de dificuldade em encontrar os livros no site?                             |                                          [ ] Muita </br> [x] Média </br>[ ] Pouca                                           |
+|   13   |                  O sistema disponibilizou acessiblidade suficiente para você durante as tarefas?                   |                                        [ ] Sim </br> [ ] Não </br>[ ] Mais ou Menos                                         |
+|   14   |                                      Quais as piores características do site?                                      |                       trava um pouco ao escrever sobre os livros e ai é preciso refazer a atividade.                        |
+|   15   |                                     Quais as melhores características do site?                                     | poder compartilhar a parte do livro que esta e poder comentar isso com outras pessoas que tambem estão lendo o mesmo livro. |
+|   16   |                  O que você acha que deveria ser melhorado no site em relação as tarefas feitas?                   |                                      abranger mais livros, o site ser mais intuitivo.                                       |
+|   17   |                       O que você acha que deveria ser melhorado no site em um aspecto geral?                       |                                          estetica desagradavel, login automatico.                                           |
 
 <figcaption align='center'>
     Tabela 1: Perguntas realizadas durante a entrevista com respectivas respostas.
 </figcaption>
 
+<p align="justify">Após as perguntas, foi apresentado os digramas de Análise Hierárquica de Tarefas e a Árvore de Tarefas Concorrentes para a entrevistada com o objetivo de analisar se essa concordava com as tarefas, objetivos e operações que foram levantados para o projeto. A entrevistada concordou com todas as tarefas, questionando apenas a figura 5 da Árvore de Tarefas Concorrentes.</p>
+
 ## Problemas encontrados
 
-<p align="justify"></p>
+<p align="justify">Um problema encontrado foi a figura 5 da Árvore de Tarefas Concorrentes. De acordo com a entrevistada, ficou confuso a descrição de uma atividade dando a entender que uma pessoa que não leu determinado livro pode fazer a avaliação.</p>
 
 ## Gravação da entrevista
 
 ## Conclusão
 
-<p align="justify"></p>
+<p align="justify">Conclui-se que é necessário fazer algumas alterações e melhorias no artefato Análise de tarefas, tanto no diagrama de Análise Hierárquica de Tarefas quanto na Árvore de Tarefas Concorrentes, detalhando mais a figura 5 que é referênte a "Avaliar um livro lido". Além disso, é necessário refazer a figura 2 referente a "cadastro e login", pois foi citado em aula que não seria interresante o desenvolvimento de tal analise.</p>
 
 ## Referências
 
@@ -67,3 +69,4 @@
 | Versão | Data       | Descrição                                                                | Autor(es)       | Revisor(es) |
 | ------ | ---------- | ------------------------------------------------------------------------ | --------------- | ----------- |
 | 1.0    | 13/12/2022 | Criação do documento do planejamento do resultado das análise de tarefas | Hellen Fernanda | João Pedro  |
+| 1.1    | 14/12/2022 | Finalização da page                                                      | Hellen Fernanda | João Pedro  |
