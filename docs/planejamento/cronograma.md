@@ -71,10 +71,10 @@
 
 |                                  Tarefa                                   |      Autor       | Entrega |  Revisor   | Revisão | Início da Realização | Fim da Realização |
 | :-----------------------------------------------------------------------: | :--------------: | :-----: | :--------: | :-----: | :------------------: | :---------------: |
-|                  Planejamento da Avaliação do Storyboard                  | João Pedro, Caio |  14/12  |   Lucas    |  13/12  |          -           |         -         |
-|     Planejamento do relato dos resultados da avaliação do Storyboard      |     Philipe      |  14/12  |    Will    |  13/12  |          -           |         -         |
-|              Planejamento da Avaliação do Análise de tarefas              |   Lucas, Will    |  14/12  |   Hellen   |  13/12  |          -           |         -         |
-| Planejamento do relato dos resultados da avaliação do Análise de tarefas. |      Hellen      |  14/12  | João Pedro |  13/12  |          -           |         -         |
+|                  Planejamento da Avaliação do Storyboard                  | João Pedro, Caio |  14/12  |   Lucas    |  13/12  |    13/12    |         13/12         |
+|     Planejamento do relato dos resultados da avaliação do Storyboard      |     Philipe      |  14/12  |    Will    |  13/12  |    13/12     |    13/12     |
+|              Planejamento da Avaliação do Análise de tarefas              |   Lucas, Will    |  14/12  |   Hellen   |  13/12  |     13/12     |      13/12      |
+| Planejamento do relato dos resultados da avaliação do Análise de tarefas. |      Hellen      |  14/12  | João Pedro |  13/12  |     13/12      |      13/12      |
 
 <figcaption align="center">Fonte: Hellen Fernanda</figcaption>
 
@@ -84,10 +84,10 @@
 
 |                                  Tarefa                                  |    Autor     | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
 | :----------------------------------------------------------------------: | :----------: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
-|                   Relato dos resultados do Story Board                   | Hellen, Caio |  02/01  |  Will   |  01/01  |          -           |         -         |
-|                            Análise de tarefas                            |  João Pedro  |  02/01  | Phelipe |  01/01  |          -           |         -         |
-|             Planejamento da Avaliação do Protótipo de Papel              |   Philipe    |  02/01  | Hellen  |  01/01  |          -           |         -         |
-| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Lucas, Will  |  02/01  |  Caio   |  01/01  |          -           |         -         |
+|   Relato dos resultados do Story Board  | Caio, João Pedro |  19/12  |  Will   |  18/01  |          -           |         -         |
+|   Análise de tarefas  |  Hellen Fernanda |  19/01  | Phelipe |  18/12  |          -           |         -         |
+|  Planejamento da Avaliação do Protótipo de Papel | Philipe  |  19/12  | Hellen  |  18/12  |          -           |         -         |
+| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Lucas, Will |  19/12  |  Caio   |  18/12  |          -           |         -         |
 
 <figcaption align="center">Fonte: Hellen Fernanda</figcaption>
 

@@ -16,8 +16,8 @@ A finalidade é que os avaliadores elaborarem um relatório advindo da análise 
 Inicialmente, o grupo deve determinar os participantes da entrevista e os avaliadores. O entrevistado deve se encaixar no perfil de usuário definido durante o projeto. O avaliador terá a responsabilidade documentar todas as respostas do Roteiro de perguntas, assim como sugestões caso ache necessário.
 
 ### 3.2 Tarefas
-Também é preciso definir as tarefas que os participantes irão realizar. Navegar dentre as funções do site e tentar realizar:
-    - Adicionar livros que gostaria de ler.
+Também é preciso definir as tarefas que os participantes irão realizar. Navegar dentre as funções do site e tentar realizar:<br>
+    - Adicionar livros que gostaria de ler.<br>
     - Fazer avaliação de um livro.
 
 
@@ -37,7 +37,7 @@ Também é importante destacarmos a geração do relatório tendo como guiar as 
 
 ## Referências
 
-Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021
 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
