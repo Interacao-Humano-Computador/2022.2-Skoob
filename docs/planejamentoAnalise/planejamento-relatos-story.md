@@ -29,7 +29,7 @@ Também é importante destacarmos a geração do relatório tendo como guiar as 
 
 ## Referências
 
-Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021
 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
