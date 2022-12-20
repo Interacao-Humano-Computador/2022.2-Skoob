@@ -55,9 +55,7 @@ Ao participar da pesquisa, você deve estar de acordo em fornecer as informaçõ
  Breve demonstração do protótipo de papel elaborado pela equipe, que será disponibilizado para o usuário durante a entrevista e analisado por ele.
 </p>
 
-<iframe></iframe>
-
-<iframe width="560" height="315" src="https://youtu.be/ET1Iosd1Bt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ET1Iosd1Bt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 4.3 Entrevista
 
@@ -85,7 +83,6 @@ Por fim, após a realização da entrevista e execução do planejamento que foi
 ## 6. Referências
  
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 2021.
-> 
 > Preece, Jennifer, Rogers, Yvonne, e Sharp, Helen (2002). Interaction Design: Beyond Human-Computer Interaction. John Wiley & Sons.
 
 # Histórico de versão
