@@ -40,13 +40,16 @@ nav:
       - Guia de Estilo: analise-de-requisitos/guia-de-estilo.md
   - Planejamento e Resultados das Avaliações:
       - Nível 1:
-        - Análise de tarefas:
-          - Planejamento da Análise de Tarefas: planejamentoAnalise/planejamento-analise-tarefas.md
-          - Planejamento dos Resultados das Análises de Tarefas: planejamentoAnalise/planejamento-resultados-analise-tarefas.md
-        - Storyboard:
-          - Storyboard: planejamentoAnalise/storyboards.md
-          - Planejamento da Avaliação do Storyboard: planejamentoAnalise/PlanejamentodaAvaliaçãodoStoryboard.md
-          - Planejamento dos Resultados da Avaliação do Storyboard: planejamentoAnalise/planejamento-relatos-story.md
+          - Análise de tarefas:
+              - Planejamento da Análise de Tarefas: planejamentoAnalise/planejamento-analise-tarefas.md
+              - Planejamento dos Resultados das Análises de Tarefas: planejamentoAnalise/planejamento-resultados-analise-tarefas.md
+          - Storyboard:
+              - Storyboard: planejamentoAnalise/storyboards.md
+              - Planejamento da Avaliação do Storyboard: planejamentoAnalise/PlanejamentodaAvaliaçãodoStoryboard.md
+              - Planejamento dos Resultados da Avaliação do Storyboard: planejamentoAnalise/planejamento-relatos-story.md
+      - Nível 2:
+          - Análise de tarefas:
+              - Análise de tarefas: planejamentoAnalise/analise-tarefas.md
   - Atas das Reuniões:
       - Reunião 1 - 15/11/2022: atas-das-reunioes/reuniao1.md
       - Reunião 2 - 17/11/2022: atas-das-reunioes/reuniao2.md
