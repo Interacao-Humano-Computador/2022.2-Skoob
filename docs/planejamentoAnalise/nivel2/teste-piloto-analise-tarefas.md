@@ -22,7 +22,7 @@ O teste piloto realizado para avaliar a análise da tarefa está documentado nes
  
 ## Bibliografia
  
-Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do Usuário. Autopublicação. 2021
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do Usuário. Autopublicação. 2021
  
  
 ## Histórico de versão

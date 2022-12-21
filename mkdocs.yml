@@ -40,17 +40,20 @@ nav:
       - Guia de Estilo: analise-de-requisitos/guia-de-estilo.md
   - Design, Avaliação e Desenvolvimento:
       - Nível 1:
-        - Análise de tarefas:
-          - Planejamento da Análise de Tarefas: planejamentoAnalise/nivel1/planejamento-analise-tarefas.md
-          - Planejamento dos Resultados das Análises de Tarefas: planejamentoAnalise/nivel1/planejamento-resultados-analise-tarefas.md
-        - Storyboard:
-          - Storyboard: planejamentoAnalise/nivel1/storyboards.md
-          - Planejamento da Avaliação do Storyboard: planejamentoAnalise/nivel1/PlanejamentodaAvaliaçãodoStoryboard.md
-          - Planejamento dos Resultados da Avaliação do Storyboard: planejamentoAnalise/nivel1/planejamento-relatos-story.md
+          - Análise de tarefas:
+              - Planejamento da Análise de Tarefas: planejamentoAnalise/nivel1/planejamento-analise-tarefas.md
+              - Planejamento dos Resultados das Análises de Tarefas: planejamentoAnalise/nivel1/planejamento-resultados-analise-tarefas.md
+          - Storyboard:
+              - Storyboard: planejamentoAnalise/nivel1/storyboards.md
+              - Planejamento da Avaliação do Storyboard: planejamentoAnalise/nivel1/PlanejamentodaAvaliaçãodoStoryboard.md
+              - Planejamento dos Resultados da Avaliação do Storyboard: planejamentoAnalise/nivel1/planejamento-relatos-story.md
       - Nível 2:
-        - Planejamento do Relato dos Resultados - Protótipo de Papel: planejamentoAnalise/nivel2/planejamento-relato-prototipo-papel.md
-        - Relato dos resultados do Storyboard : planejamentoAnalise/nivel2/avaliacao-storyboard.md
-        - Relato dos resultados do Teste-piloto : planejamentoAnalise/nivel2/teste-piloto-analise-tarefas.md
+          - Planejamento da Avaliação do Protótipo de Papel: planejamentoAnalise/nivel2/planejamento-ava-prototipo-papel.md
+          - Planejamento do Relato dos Resultados Protótipo de Papel: planejamentoAnalise/nivel2/planejamento-relato-prototipo-papel.md
+          - Relato dos resultados do Storyboard: planejamentoAnalise/nivel2/avaliacao-storyboard.md
+          - Relato dos resultados do Teste-piloto: planejamentoAnalise/nivel2/teste-piloto-analise-tarefas.md
+          - Relato dos resultados da Analise de Tarefas: planejamentoAnalise/nivel2/analise-tarefas.md
+
   - Atas das Reuniões:
       - Reunião 1 - 15/11/2022: atas-das-reunioes/reuniao1.md
       - Reunião 2 - 17/11/2022: atas-das-reunioes/reuniao2.md
@@ -61,3 +64,4 @@ nav:
       - Etapa 2 - 07/12: apresentacoes/etapa2.md
       - Etapa 3 - 12/12: apresentacoes/etapa3.md
       - Etapa 4 - 14/12: apresentacoes/etapa4.md
+      - Etapa 5 - 21/12: apresentacoes/etapa5.md

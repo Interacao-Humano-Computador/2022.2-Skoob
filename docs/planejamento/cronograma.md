@@ -86,7 +86,7 @@
 | :----------------------------------------------------------------------: | :----------: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
 |   Relato dos resultados do Story Board  | Caio, João Pedro |  19/12  |  Will   |  18/01  |          -           |         -         |
 |   Análise de tarefas  |  Hellen Fernanda |  19/01  | Phelipe |  18/12  |          -           |         -         |
-|  Planejamento da Avaliação do Protótipo de Papel | Philipe  |  19/12  | Hellen  |  18/12  |          -           |         -         |
+|  Planejamento da Avaliação do Protótipo de Papel | Philipe  |  20/12  | Hellen  |  19/12  |          18/12           |         19/12         |
 | Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Lucas, Will |  19/12  |  Caio   |  18/12  |          -           |         -         |
 
 <figcaption align="center">Fonte: Hellen Fernanda</figcaption>
