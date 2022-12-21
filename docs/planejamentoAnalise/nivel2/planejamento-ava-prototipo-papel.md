@@ -52,8 +52,28 @@ Ao participar da pesquisa, você deve estar de acordo em fornecer as informaçõ
 
 ### 4.2 Protótipo de papel
 <p align="justify">
- Breve demonstração do protótipo de papel elaborado pela equipe, que será disponibilizado para o usuário durante a entrevista e analisado por ele.
+ Breve demonstração dos protótipos de papel elaborado pela equipe, que será disponibilizado para o usuário durante a entrevista e analisado por ele.
 </p>
+
+![](./imagesPrototipoPapel/will-skoob-home.jpeg)
+<figcaption align='center'>Imagem 1 - Fonte: Wildemberg Sales, Lucas Lopes </figcaption>
+</br>
+
+![](./imagesPrototipoPapel/will-skoob-livro.jpeg)
+<figcaption align='center'>Imagem 2 - Fonte: Wildemberg Sales, Lucas Lopes </figcaption>
+</br>
+
+![](./imagesPrototipoPapel/will-skoob-perfil.jpeg)
+<figcaption align='center'>Imagem 3 - Fonte: Wildemberg Sales, Lucas Lopes </figcaption>
+</br>
+
+![](./imagesPrototipoPapel/phelipe-skoob-home.jpeg)
+<figcaption align='center'>Imagem 4 - Fonte: Philipe de Sousa </figcaption>
+</br>
+
+![](./imagesPrototipoPapel/phelipe-skoob-perfil.jpeg)
+<figcaption align='center'>Imagem 5 - Fonte: Philipe de Sousa </figcaption>
+</br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ET1Iosd1Bt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -91,4 +111,5 @@ Por fim, após a realização da entrevista e execução do planejamento que foi
 | :----: | :--------: | :-------------------------------: | :---------: | :--------: |
 |  1.0   | 18/12/2022 | Criação da página do protótipo de papel | Philipe | Hellen |
 |  1.1   | 19/12/2022 | Adicionando video protótipo de papel | Philipe | Hellen |
+|  1.2   | 20/12/2022 | Adição dos protótipos de papel | Wildemberg Sales, Philipe de Sousa, Lucas Lopes | Hellen |
 
