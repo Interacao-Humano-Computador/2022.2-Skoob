@@ -16,11 +16,11 @@
 
 ## Participantes
 
-<p align="justify">Foi encontrada uma voluntária, que aceitou fazer a entrevista e que se encaixasse no perfil de usuário definido anteriormente para o sistema. A entrevista teve apenas dois participantes, o entrevistador e o entrevistado. O local de realização da entrevista foi feita pessoalmente na fga e o audio da entrevista foi gravado.</p>
+<p align="justify">Foi encontrada duas voluntárias, que aceitam fazer a entrevista e que se encaixassem no perfil de usuário definido anteriormente para o sistema. A entrevista teve apenas dois participantes, o entrevistador e o entrevistado. O local de realização da entrevista 01 foi feita pessoalmente na fga e o audio da entrevista foi gravado. O local da entrevista 02 foi no meets mas não consegui salvar a gravação e acabou sendo perdida. </p>
 
 ## Dados obtidos
 
-<p align="justify">Os dados obtidos na entrevista foram transcritos para a tabela 1.</p>
+<p align="justify">Os dados obtidos nas entrevistas foram transcritos para a tabela 1 e 2.</p>
 
 ### Entrevista 1 - Luana Ribeiro Soares
 
@@ -48,7 +48,33 @@
     Tabela 1: Perguntas realizadas durante a entrevista com respectivas respostas.
 </figcaption>
 
-<p align="justify">Após as perguntas, foi apresentado os digramas de Análise Hierárquica de Tarefas e a Árvore de Tarefas Concorrentes para a entrevistada com o objetivo de analisar se essa concordava com as tarefas, objetivos e operações que foram levantados para o projeto. A entrevistada concordou com todas as tarefas, questionando apenas a figura 5 da Árvore de Tarefas Concorrentes.</p>
+### Entrevista 2 - Maria Eduarda Mendonça
+
+| Número |                                                     Perguntas                                                      |                                 Opções de resposta                                  |
+| :----: | :----------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
+|   1    |                                                 Qual a sua idade?                                                  |                                       21 anos                                       |
+|   2    |                                   Qual o seu nível de formação acadêmica atual?                                    |                 [x] Graduação </br> [ ] Mestrado </br>[ ] Dutorado                  |
+|   3    |                                   Com qual frequência você costuama ler livros?                                    |                      [ ] Muita </br> [x] Média </br>[ ] Pouca                       |
+|   4    |                            Você sente a nescessidade de catalogar os livros que já leu?                            |                      [x] Muita </br> [ ] Média </br>[ ] Pouca                       |
+|   5    |       Ao realizar a tarefa de "adicionar uma frase que goste", qual foi sua maior dificuldade ao executá-la?       | Escolher uma frase que faça sentido com o aplicativo e com a pessoa ao mesmo tempo. |
+|   6    |          Ao realizar a tarefa de "adicionar um livro lido", qual foi sua maior dificuldade ao executá-la?          |                            Não teve nenhuma dificuldade.                            |
+|   7    | Ao realizar uma tarefa de "fazer uma avaliação sobre um livro lido", qual foi sua maior dificuldade ao executá-la? |                                Não teve dificuldade.                                |
+|   8    |          Ao realizar uma tarefa de "fazer cadastro/login", qual foi sua maior dificuldade ao executá-la?           |                                  Não teve nenhuma.                                  |
+|   9    |                          O sistema forneceu ajuda/orientação a você durante suas tarefas?                          |                    [ ] Sim </br> [x] Não </br>[ ] Mais ou Menos                     |
+|   10   |                                      O sistema é intuitivo em sua utilização?                                      |                    [x] Sim </br> [ ] Não </br>[ ] Mais ou Menos                     |
+|   11   |                             Você possui controle total do site e de suas ferramentas?                              |                    [ ] Sim </br> [ ] Não </br>[x] Mais ou Menos                     |
+|   12   |                            Qual o nível de dificuldade em encontrar os livros no site?                             |                      [ ] Muita </br> [x] Média </br>[ ] Pouca                       |
+|   13   |                  O sistema disponibilizou acessiblidade suficiente para você durante as tarefas?                   |                    [ ] Sim </br> [ ] Não </br>[ ] Mais ou Menos                     |
+|   14   |                                      Quais as piores características do site?                                      |                        Demora ao pesquisar o nome do livro.                         |
+|   15   |                                     Quais as melhores características do site?                                     |            poder compartilhar o que pensa sobre um livro que esta lendo.            |
+|   16   |                  O que você acha que deveria ser melhorado no site em relação as tarefas feitas?                   |                       Pesquisa mais rapida com auto complete.                       |
+|   17   |                       O que você acha que deveria ser melhorado no site em um aspecto geral?                       |                             Não precisa melhorar nada.                              |
+
+<figcaption align='center'>
+    Tabela 2: Perguntas realizadas durante a entrevista com respectivas respostas.
+</figcaption>
+
+<p align="justify">Após as perguntas, foi apresentado os digramas de Análise Hierárquica de Tarefas e a Árvore de Tarefas Concorrentes para a entrevistada com o objetivo de analisar se essa concordava com as tarefas, objetivos e operações que foram levantados para o projeto. A entrevistada 02 concordou com todas as tarefas e a entrevistada 01 questionou apenas a figura 5 da Árvore de Tarefas Concorrentes.</p>
 
 ## Problemas encontrados
 
