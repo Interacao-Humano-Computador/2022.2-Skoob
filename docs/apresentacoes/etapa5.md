@@ -1,7 +1,7 @@
 # Etapa 5 - 21/12
 
 ## Introdução
-Esta página é destinada à apresentação da Etapa 5 do projeto de Interação Humano-Computador. Essa etapa foca no relato dos resultados do storyboard e da análise de tarefas, bem como os planejamentos relacionados ao protótipo de papel. A gravação da apresentação ocorreu no dia 21/12/2022 às 08:17.
+Esta página é destinada à apresentação da Etapa 5 do projeto de Interação Humano-Computador. Essa etapa foca no relato dos resultados do storyboard e da análise de tarefas, bem como os planejamentos relacionados ao protótipo de papel. A gravação da apresentação ocorreu no dia 21/12/2022 às 08:13.
 
 ## Entregas
 <ol>
