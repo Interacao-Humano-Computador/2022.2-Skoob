@@ -14,9 +14,10 @@ Esta página é destinada à apresentação da Etapa 5 do projeto de Interação
 </ol>
 
 ## Apresentação
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N2iY_WVdVkc?start=15" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 14/12/2022 | Criação da página | Lucas Lopes | Philipe de Sousa |
+| 1.0 | 20/12/2022 | Criação da página | Lucas Lopes | Philipe de Sousa |
+| 1.1 | 22/12/2022 | Adição da gravação | Lucas Lopes | Philipe de Sousa |
