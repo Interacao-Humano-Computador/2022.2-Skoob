@@ -1,7 +1,7 @@
-# Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel
+# Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade
 
 ## Introdução
-<p align="justify">Este documento tem como objetivo preparar os avaliadores e descrever como será feito o relato dos resultados da avaliação do Protótipo de Papel, descrevendo os aspectos que serão abordados e apresentados no relatório.</p>
+<p align="justify">Este documento tem como objetivo preparar os avaliadores e descrever como será feito o relato dos resultados da avaliação do Protótipo de Alta Fidelidade, descrevendo os aspectos que serão abordados e apresentados no relatório.</p>
 
 ## Tópicos
 
@@ -30,4 +30,4 @@
 
 | Versão |    Data    |             Descrição             |    Autor    |  Revisor   |
 | :----: | :--------: | :-------------------------------: | :---------: | :--------: |
-|  1.0   | 15/12/2022 | Criação e desenvolvimento da página | Lucas Lopes, Wildemberg Sales | João Pedro |
+|  1.0   | 23/12/2022 | Criação e desenvolvimento da página | Lucas Lopes, Hellen Fernanda | Philipe de Sousa |

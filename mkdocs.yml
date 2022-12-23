@@ -49,10 +49,12 @@ nav:
               - Planejamento dos Resultados da Avaliação do Storyboard: planejamentoAnalise/nivel1/planejamento-relatos-story.md
       - Nível 2:
           - Planejamento da Avaliação do Protótipo de Papel: planejamentoAnalise/nivel2/planejamento-ava-prototipo-papel.md
-          - Planejamento do Relato dos Resultados Protótipo de Papel: planejamentoAnalise/nivel2/planejamento-relato-prototipo-papel.md
+          - Planejamento do Relato dos Resultados do Protótipo de Papel: planejamentoAnalise/nivel2/planejamento-relato-prototipo-papel.md
           - Relato dos resultados do Storyboard: planejamentoAnalise/nivel2/avaliacao-storyboard.md
           - Relato dos resultados do Teste-piloto: planejamentoAnalise/nivel2/teste-piloto-analise-tarefas.md
           - Relato dos resultados da Analise de Tarefas: planejamentoAnalise/nivel2/analise-tarefas.md
+      - Nível 3:
+        - Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade: planejamentoAnalise/nivel3/planejamento-relato-prototipo-alta-fid.md
 
   - Atas das Reuniões:
       - Reunião 1 - 15/11/2022: atas-das-reunioes/reuniao1.md
