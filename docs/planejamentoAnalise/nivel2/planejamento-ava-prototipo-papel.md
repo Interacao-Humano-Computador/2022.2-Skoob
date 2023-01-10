@@ -11,7 +11,7 @@
 ## 3. Metodologia
 
 <p align="justify">
-A metodologia selecionada após a análise foi a entrevista, utilizando-se dessa técnica, planeja-se que o avaliador instrua o usuário na entrevista para a realização das tarefas, assim como na execução do planejamento. A entrevista ocorrerá por meio de uma conferência on-line, nela será disponibilizado para o entrevistado o protótipo em papel.
+A metodologia selecionada após a análise foi a entrevista, utilizando-se dessa técnica, planeja-se que o avaliador instrua o usuário na entrevista para a realização das tarefas, assim como na execução do planejamento. A entrevista ocorrerá presencialmente em um ambiente controlado para que a coleta de dados seja mais rica de informações, nela será disponibilizado para o entrevistado o protótipo em papel.
 </p>
 
 <p align="justify">
@@ -112,4 +112,5 @@ Por fim, após a realização da entrevista e execução do planejamento que foi
 |  1.0   | 18/12/2022 | Criação da página do protótipo de papel | Philipe | Hellen |
 |  1.1   | 19/12/2022 | Adicionando video protótipo de papel | Philipe | Hellen |
 |  1.2   | 20/12/2022 | Adição dos protótipos de papel | Wildemberg Sales, Philipe de Sousa, Lucas Lopes | Hellen |
+|  1.3   | 10/01/2023 | Mudança de estilo de entrevista | Wildemberg Sales, Philipe Sousa | Hellen | 
 
