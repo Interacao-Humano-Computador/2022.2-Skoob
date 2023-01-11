@@ -58,7 +58,6 @@ Abaixo, nas <i>Figura 1 </i>, apresentamos todas as telas feitas no protótipo d
 | Participante |    Avaliador   |        Data           |    Horário     |  Local  |
 | :----: | :--------: | :-------------------------------: | :---------: | :--------: |
 |  Emivalto Tavares  | Wildemberg Sales  | 10/01/2023 | 11:35 | Universidade de Brasília |
-
 <figcaption align='center'> Tabela 3 - Entrevista 1 (Fonte: Autores, 2022)</figcaption>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LZOiOIQZa3c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -73,7 +72,6 @@ Abaixo, nas <i>Figura 1 </i>, apresentamos todas as telas feitas no protótipo d
 | Participante |    Avaliador   |        Data           |    Horário     |  Local  |
 | :----: | :--------: | :-------------------------------: | :---------: | :--------: |
 |  Gabriel Holsback  | Wildemberg Sales  | 11/01/2023 | 12:20 | Universidade de Brasília |
-
 <figcaption align='center'> Tabela 4 - Entrevista 2 (Fonte: Autores, 2022)</figcaption>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KUDNRKJ3Y98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -89,7 +87,6 @@ Abaixo, nas <i>Figura 1 </i>, apresentamos todas as telas feitas no protótipo d
 | Participante |    Avaliador   |        Data           |    Horário     |  Local  |
 | :----: | :--------: | :-------------------------------: | :---------: | :--------: |
 |  Enzo Govastki  | Wildemberg Sales  | 11/01/2023 | 12:40 | Universidade de Brasília |
-
 <figcaption align='center'> Tabela 5 - Entrevista 3 (Fonte: Autores, 2022)</figcaption>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hv3os__99IU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
