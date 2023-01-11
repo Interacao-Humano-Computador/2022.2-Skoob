@@ -47,7 +47,11 @@ Para a avaliação ser abordada por meio de uma entrevista, a qual se basearia n
 |--|--|--|
 | 1 | Em uma escala de 1 a 5, onde 1 equivale a muito inexperiente e 5 a muito experiente, o quanto você se considera uma pessoa que lê livros? | 1 a 5|
 | 2 | Em uma escala de 1 a 5, onde 1 equivale a muito fácil e 5 a muito difícil, você achar a ferramenta Skoob boa para quem procura ler novos livros e ver as opiniões dos mesmos vindo de outras pessoas? | 1 a 5 |
-| 3 | Alguma sugestão de melhoria para a realização das tarefas? | Pergunta aberta |
+| 3 | Ao realizar uma tarefa de "fazer cadastro/login", qual foi sua maior dificuldade ao executá-la | 1 a 5 |
+| 4 | O sistema forneceu ajuda/orientação a você durante suas tarefas? | 1 a 5 |
+| 5 | Em uma escala de 1 a 5, onde 1 equivale a muito fácil e 5 a muito difícil, você achar a ferramenta Skoob boa para quem procura ler novos livros e ver as opiniões dos mesmos vindo de outras pessoas? | 1 a 5 |
+| 6 | Você sente a nescessidade de catalogar os livros que já leu? | 1 a 5 |
+| 7 | Alguma sugestão de melhoria para a realização das tarefas? | Pergunta aberta |
 
 ## Histórico de versão
  
