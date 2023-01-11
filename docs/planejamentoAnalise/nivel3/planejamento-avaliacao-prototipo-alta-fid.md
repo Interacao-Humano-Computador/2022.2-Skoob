@@ -3,9 +3,9 @@
 ## 1. Introdução
 
 <p align = "justify">
-O prototipo de alta fidelidade e uma ferramenta que permite os integrantes de um projeto analisar as alterações realizadas em um nivel tecnico avançado antes que o projeto esteja de fato concluido. Avaliando assim se as alterações realizadas foram oque ja eram esperadas ja que tendo essa noção das alterações sera mais objetivo e conclusivo a alteração no produto final.
+O protótipo de alta fidelidade é uma ferramenta que permite aos integrantes de um projeto analisar as alterações realizadas em um nível técnico avançado antes que o projeto esteja de fato concluído. Avaliando assim se as alterações realizadas foram oque já eram esperadas já que tendo essa noção das alterações será mais objetivo e conclusivo a alteração no produto final.
 
-Os protótipos são ferramentas que possibilitam que os envolvidos no projeto interajam com um produto imaginado visando a adquirir alguma experiência de como utilizá-lo em um ambiente real. Nessa etapa do projeto será utilizado protótipo de alta fidelidade, que se assemelham bastante ao produto final em termos de aparência visual, interatividade e navegação.
+Os protótipos são ferramentas que possibilitam que os envolvidos no projeto interajam com um produto imaginado visando a adquirir alguma experiência de como utilizá-lo em um ambiente real. Nessa etapa do projeto será utilizado protótipo de alta fidelidade, que se assemelha bastante ao produto final em termos de aparência visual, interatividade e navegação.
 
 
 </p>
@@ -19,7 +19,7 @@ A avaliação de IHC é uma atividade essencial nos processos de desenvolvimento
 
 ## 2. Metodologia
 
-<p align = "justify">O planejamento de avaliação do protótipação em papel foi baseada no  livro Interação Humano-Computador de Simone Barbosa e Bruno Silva. Dessa forma, para realização da avaliação será por meio de uma <b>Entrevista,</b> seguindo as atividades: <br> - Preparação <br> - Coleta e interpretação de dados <br> - Relato dos resultados.</p>
+<p align = "justify">O planejamento de avaliação do protótipo em papel foi baseado no  livro Interação Humano-Computador de Simone Barbosa e Bruno Silva. Dessa forma, para realização da avaliação será por meio de uma <b>Entrevista,</b> seguindo as atividades: <br> - Preparação <br> - Coleta e interpretação de dados <br> - Relato dos resultados.</p>
 
 ### Tarefas
 - [Pesquisar um livro](https://interacao-humano-computador.github.io/2022.2-Skoob/analise-de-requisitos/analise-de-tarefas-concorrentes/)
@@ -45,7 +45,7 @@ Para a avaliação ser abordada por meio de uma entrevista, a qual se basearia n
 
 | Número | Pergunta | Opções de resposta |
 |--|--|--|
-| 1 | Em uma escala de 1 a 5, onde 1 equivale a muito inexperiente e 5 a muito experiente, o quanto você se considera uma pessoa lê livros? | 1 a 5|
+| 1 | Em uma escala de 1 a 5, onde 1 equivale a muito inexperiente e 5 a muito experiente, o quanto você se considera uma pessoa que lê livros? | 1 a 5|
 | 2 | Em uma escala de 1 a 5, onde 1 equivale a muito fácil e 5 a muito difícil, você achar a ferramenta Skoob boa para quem procura ler novos livros e ver as opiniões dos mesmos vindo de outras pessoas? | 1 a 5 |
 | 3 | Alguma sugestão de melhoria para a realização das tarefas? | Pergunta aberta |
 
@@ -54,3 +54,4 @@ Para a avaliação ser abordada por meio de uma entrevista, a qual se basearia n
 | Versão |    Data    |             Descrição             |    Autor    |  Revisor   |
 | :----: | :--------: | :-------------------------------: | :---------: | :--------: |
 |  1.0   | 17/12/2022 | Criação e desenvolvimento da página | João Pedro, Caio Vitor | Wildemberg  |
+
