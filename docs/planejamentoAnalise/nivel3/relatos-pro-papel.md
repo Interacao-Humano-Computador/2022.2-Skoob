@@ -37,7 +37,7 @@ Abaixo, nas <i>Figura 1 </i>, apresentamos todas as telas feitas no protótipo d
 
 ## 4. Aplicação dos Teste de Usabilidade
 
-<p align="justify">De acordo com Krug(2000), com três ou quatro usuários a maioria dos problemas é detectado, tornando possível fazer a análise no mesmo dia. Baseado nessa afirmação, realizamos o teste com três participantes.</p>
+<p align="justify">De acordo com Krug(2006), com três ou quatro usuários a maioria dos problemas é detectado, tornando possível fazer a análise no mesmo dia. Baseado nessa afirmação, realizamos o teste com três participantes.</p>
 
 ### 4.1 Teste de usabilidade 1 
 
@@ -83,7 +83,7 @@ Os resultados dos testes e entrevistas, posteriormente, foram satisfatórios. Co
 
 ## Referências
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
-
+> KRUG, Steve. Não Me Faça Pensar. Rio de Janeiro: Alta Books, 2006
 ## Histórico de versão
 
 | Versão |    Data    |             Descrição             |    Autor    |  Revisor   |
