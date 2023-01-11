@@ -17,7 +17,7 @@
 | Tarefas  |
 | :----: | 
 |Pesquisar um livro| 
-|Responder se já leu o livro selecionado| 
+|Adicionar um livro aos favoritos| 
 |Avaliar um livro| 
 
 </center>
@@ -57,10 +57,14 @@ Abaixo, nas <i>Figura 1 </i>, apresentamos todas as telas feitas no protótipo d
 
 | Participante |    Avaliador   |        Data           |    Horário     |  Local  |
 | :----: | :--------: | :-------------------------------: | :---------: | :--------: |
-|  nome  | Wildemberg Sales  | 10/01/2023 | 11:35 | ?? |
+|  Emivalto Tavares  | Wildemberg Sales  | 10/01/2023 | 11:35 | Universidade de Brasília |
 
-<figcaption> (Fonte: Autores, 2022)</figcaption>
+<figcaption align='center'> Tabela 3 - Entrevista 1 (Fonte: Autores, 2022)</figcaption>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LZOiOIQZa3c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Resultado
+<p align="justify">De acordo com o entrevistado, o protótipo de baixa fidelidade está de boa qualidade, não apresentou dificuldades em executar as tarefas estabelecidas, e não tem opniões ou sugestões sobre mudanças.</p>
 
 ### 4.2 Teste de usabilidade 2 
 
@@ -68,9 +72,15 @@ Abaixo, nas <i>Figura 1 </i>, apresentamos todas as telas feitas no protótipo d
 
 | Participante |    Avaliador   |        Data           |    Horário     |  Local  |
 | :----: | :--------: | :-------------------------------: | :---------: | :--------: |
-|  nome  | Wildemberg Sales  | 10/01/2023 | 12:20 | ?? |
+|  Gabriel Holsback  | Wildemberg Sales  | 11/01/2023 | 12:20 | Universidade de Brasília |
 
-<figcaption> (Fonte: Autores, 2022)</figcaption>
+<figcaption align='center'> Tabela 4 - Entrevista 2 (Fonte: Autores, 2022)</figcaption>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KUDNRKJ3Y98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Resultado
+<p align="justify">De acordo com o entrevistado, ele sentiu dificuldades de entender o local de favoritar um livro, mas não possui sugestões de melhoria e ou mudanças no protótipo.</p>
+
 
 ### 4.3 Teste de usabilidade 3 
 
@@ -78,19 +88,25 @@ Abaixo, nas <i>Figura 1 </i>, apresentamos todas as telas feitas no protótipo d
 
 | Participante |    Avaliador   |        Data           |    Horário     |  Local  |
 | :----: | :--------: | :-------------------------------: | :---------: | :--------: |
-|  nome  | Wildemberg Sales  | 10/01/2023 | 12:40 | ?? |
+|  Enzo Govastki  | Wildemberg Sales  | 11/01/2023 | 12:40 | Universidade de Brasília |
 
-<figcaption> (Fonte: Autores, 2022)</figcaption>
+<figcaption align='center'> Tabela 5 - Entrevista 3 (Fonte: Autores, 2022)</figcaption>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hv3os__99IU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+### Resultado
+<p align="justify">De acordo com o entrevistado, ele sentiu dificuldades em entender o menu do livro em relação a tarefa de avaliar o livro com estrelas, mas ainda assim disse que o protótipo de mostrou eficaz e que não tem sugestões de melhoria ou mudanças a se fazerem.</p>
 
 ## 5. Problemas encontrados
 
 Os resultados dos testes e entrevistas, posteriormente, foram satisfatórios. Com base nas entrevistas foi possível validar o protótipo de baixa fidelidade produzido e identificar os principais problemas e pontos de melhoria, sendo eles:
 
-- [Entrevista 2] O participante teve dificuldade de realizar a avaliação do livro selecionado, no caso o livro quatro.
-- [Entrevista 2] outro problemas.
+* Deixar mais explícito o local de avaliação em estrelas de um livro;
+* Deixar mais claro o local de favoritar um livro;
 
+
+## Conclusão
+Portanto após a análide das entrevistas, pode-se concluir que o protótipo de papel foi eficaz e que todas as funcionalidades nele foram de fácil execução, sendo que todos os entrevistados conseguiram realizar as tarefas com sucesso e sem problemas, os únicos problemas encontrados serão melhorados para o próximo protótipo.
 
 
 ## Referências
@@ -103,4 +119,5 @@ Os resultados dos testes e entrevistas, posteriormente, foram satisfatórios. Co
 | :----: | :--------: | :-------------------------------: | :---------: | :--------: |
 |  1.0   | 09/01/2023 | Criação e desenvolvimento da página | Philipe, Wildemberg Sales | Hellen |
 |  1.1   | 09/01/2023 | Adicão de tabelas  | Philipe, Wildemberg Sales | Hellen |
+|  1.2   | 11/01/2023 | Adicão de entrevistas  | Philipe, Wildemberg Sales | Hellen |
 
