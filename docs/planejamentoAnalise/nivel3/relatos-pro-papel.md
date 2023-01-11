@@ -9,7 +9,7 @@
 <p  align="justify">Teste de usabilidade de protótipo de papel é uma técnica de avaliação de usabilidade, onde o usuário interage com o protótipo de papel enquanto o designer ou o pesquisador observa e registra as suas dificuldades, comentários e questionamentos. É uma forma eficaz e rápida de identificar problemas de usabilidade antes de investir tempo e dinheiro na implementação de uma interface.</p>
 <p align="justify">O objetivo principal desta avaliação é identificar problemas de usabilidade e melhorar a qualidade da interface. Isso pode incluir problemas com a navegação, compreensão das interações esperadas, organização da informação e apresentação visual. Como foi descrito no documento de <a href="https://interacao-humano-computador.github.io/2022.2-Skoob/planejamentoAnalise/nivel2/planejamento-ava-prototipo-papel/" target="_blank">Planejamento</a> foi utilizado a técnica de entrevista. A entrevista ocorreu de forma presencialmente em um ambiente controlado para que a coleta de dados seja mais rica de informações, nela foi apresentado o projeto para o usuário e disponibilizado para o participante o protótipo de papel, juntamente com a leitura do termo de consentimento.</p>
 
-<p align="justify">Na <i>Tabela 1</i> segue a listagem das tarefas que foram realizadas pelos participante, as tarefas estão descritas no artefato de <a href="https://interacao-humano-computador.github.io/2022.2-Skoob/planejamentoAnalise/nivel1/storyboards/" target ="_blank">Storyboards</a>. Após ter sido realizadas as tarefas pelo participante, o entrevistador fez algumas perguntas sobre a experiência que o participante teve. Essas perguntas estão presentes no planejamento da avaliação.</p>
+<p align="justify">Na <i>Tabela 1</i> segue a listagem das tarefas que foram realizadas pelos participante, as tarefas estão descritas no artefato de <a href="https://interacao-humano-computador.github.io/2022.2-Skoob/planejamentoAnalise/nivel1/storyboards/" target ="_blank">Storyboards</a>. Após ter sido realizadas as tarefas pelo participante, o entrevistador fez algumas perguntas sobre a experiência que o participante teve. Na <i>Tabela 2</i> encontram-se as perguntas feitas na entrevista.</p>
 <figcaption align='center'>Tabela 1 - Tarefas realizadas </figcaption>
 
 <center>
@@ -18,12 +18,24 @@
 | :----: | 
 |Pesquisar um livro| 
 |Responder se já leu o livro selecionado| 
-|Salvar um livro como interesse| 
 |Avaliar um livro| 
 
 </center>
 
 <figcaption align="center">Fonte: Philipe, Wildemberg</figcaption>
+
+
+<figcaption align='center'>Tabela 2 - Perguntas da entrevista </figcaption>
+
+|Número|Pergunta|Resposta|
+|:----:|:------:|:------:|
+|1|Você já havia utilizado a funcionalidade demonstrada no protótipo?| Sim - [  ] <br> Não - [  ] |
+|2|Você conseguiu finalizar a execução da funcionalidade com sucesso? | Sim - [  ] <br> Não - [  ] |
+|3|O que ocorreu para que você não conseguisse finalizar ?|Resposta aberta|
+|4|O protótipo em papel, na sua opinião, se mostrou eficaz na realização da tarefa?| Sim - [  ] <br> Não - [  ] |
+|5|Você tem alguma sugestão ou crítica sobre o protótipo de papel?| Resposta aberta |
+
+<figcaption align='center'>Fonte: Philipe de Sousa </figcaption>
 
 ## 3. Protótipo de Papel
 
@@ -41,32 +53,32 @@ Abaixo, nas <i>Figura 1 </i>, apresentamos todas as telas feitas no protótipo d
 
 ### 4.1 Teste de usabilidade 1 
 
-<p align="justify">A <i>Tabela 2</i> a seguir contém informações sobre o teste.</p>
+<p align="justify">Na <i>Tabela 3</i>, contém as informações sobre o primeiro teste.</p>
 
 | Participante |    Avaliador   |        Data           |    Horário     |  Local  |
 | :----: | :--------: | :-------------------------------: | :---------: | :--------: |
-|  nome  | Wildemberg Sales  | 10/01/2023 | 12:00 | ?? |
+|  nome  | Wildemberg Sales  | 10/01/2023 | 11:35 | ?? |
 
 <figcaption> (Fonte: Autores, 2022)</figcaption>
 
 
 ### 4.2 Teste de usabilidade 2 
 
-<p align="justify">A <i>Tabela 3</i> a seguir contém informações sobre o teste.</p>
+<p align="justify">Na <i>Tabela 4</i>, contém as informações sobre o segundo teste.</p>
 
 | Participante |    Avaliador   |        Data           |    Horário     |  Local  |
 | :----: | :--------: | :-------------------------------: | :---------: | :--------: |
-|  nome  | Wildemberg Sales  | 10/01/2023 | 12:00 | ?? |
+|  nome  | Wildemberg Sales  | 10/01/2023 | 12:20 | ?? |
 
 <figcaption> (Fonte: Autores, 2022)</figcaption>
 
 ### 4.3 Teste de usabilidade 3 
 
-<p align="justify">A <i>Tabela 4</i> a seguir contém informações sobre o teste.</p>
+<p align="justify">Na <i>Tabela 5</i>, contém as informações sobre o terceiro teste.</p>
 
 | Participante |    Avaliador   |        Data           |    Horário     |  Local  |
 | :----: | :--------: | :-------------------------------: | :---------: | :--------: |
-|  nome  | Wildemberg Sales  | 10/01/2023 | 12:00 | ?? |
+|  nome  | Wildemberg Sales  | 10/01/2023 | 12:40 | ?? |
 
 <figcaption> (Fonte: Autores, 2022)</figcaption>
 
@@ -76,13 +88,14 @@ Abaixo, nas <i>Figura 1 </i>, apresentamos todas as telas feitas no protótipo d
 
 Os resultados dos testes e entrevistas, posteriormente, foram satisfatórios. Com base nas entrevistas foi possível validar o protótipo de baixa fidelidade produzido e identificar os principais problemas e pontos de melhoria, sendo eles:
 
-- [Entrevista 2] não lembro .
+- [Entrevista 2] O participante teve dificuldade de realizar a avaliação do livro selecionado, no caso o livro quatro.
 - [Entrevista 2] outro problemas.
 
 
 
 ## Referências
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
+
 > KRUG, Steve. Não Me Faça Pensar. Rio de Janeiro: Alta Books, 2006
 ## Histórico de versão
 
