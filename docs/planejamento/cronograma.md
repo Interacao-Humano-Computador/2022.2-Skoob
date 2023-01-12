@@ -97,7 +97,26 @@
 
 |          Tarefa           |        Autor         | Entrega |  Revisor   | Revisão | Início da Realização | Fim da Realização |
 | :-----------------------: | :------------------: | :-----: | :--------: | :-----: | :------------------: | :---------------: |
-| Verificação dos artefatos | Todos os integrantes |  18/01  | João Pedro |  17/01  |          -           |         -         |
+| Verificação do perfil do usuário | - | 18/01 | - | 17/01 | - | - |
+| Verificação dos aspectos éticos  | - | 18/01 | - | 17/01 | - | - |
+| Verificação de personas | - | 18/01 | - | 17/01 | - | - |
+| Verificação da análise de tarefas | - | 18/01 | - | 17/01 | - | - |
+| Verificação dos princípios gerais de projeto | - | 18/01 | - | 17/01 | - | - |
+| Verificação das metas de usabilidade | - | 18/01 | - | 17/01 | - | - |
+| Verificação do guia de estilo | - | 18/01 | - | 17/01 | - | - |
+| Verificação das características da plataforma | - | 18/01 | - | 17/01 | - | - |
+| Verificação do planejamento da avaliação do Storyboard | - | 18/01 | - | 17/01 | - | - |
+| Verificação do planejamento do relato dos resultado do Storyboard | - | 18/01 | - | 17/01 | - | - |
+| Verificação do planejamento da avaliação da análise de tarefas | - | 18/01 | - | 17/01 | - | - |
+| Verificação do planejamento do relato dos resultado da análise de tarefas | - | 18/01 | - | 17/01 | - | - |
+| Verificação dos relatos dos resultados do Storyboard | - | 18/01 | - | 17/01 | - | - |
+| Verificação da análise de tarefas | - | 18/01 | - | 17/01 | - | - |
+| Verificação do planejamento da avaliação do protótipo de papel | - | 18/01 | - | 17/01 | - | - |
+| Verificação do planejamento do relato dos resultados do protótipo de papel | - | 18/01 | - | 17/01 | - | - |
+| Verificação do relato dos resultados do protótipo de papel | - | 18/01 | - | 17/01 | - | - |
+| Verificação do planejamento da avaliação do protótipo de alta fidelidade | - | 18/01 | - | 17/01 | - | - |
+| Verificação do planejamento do relato dos resultados do protótipo de alta fidelidade | - | 18/01 | - | 17/01 | - | - |
+
 
 <figcaption align="center">Fonte: Hellen Fernanda</figcaption>
 
@@ -137,9 +156,11 @@
 
 | Versão |    Data    |                 Descrição                  |      Autor      |   Revisor   |
 | :----: | :--------: | :----------------------------------------: | :-------------: | :---------: |
-|  0.1   | 18/11/2022 |      Criação dos cronogramas iniciais      | Hellen Fernanda | Lucas Lopes |
-|  0.2   | 20/11/2022 |     Finalização do cronograma inicial      | Hellen Fernanda | Caio Vitor  |
-|  0.3   | 22/11/2022 | Finalização do cronograma de todo semestre | Hellen Fernanda | Caio Vitor  |
+|  1.0   | 18/11/2022 |      Criação dos cronogramas iniciais      | Hellen Fernanda | Lucas Lopes |
+|  1.1   | 20/11/2022 |     Finalização do cronograma inicial      | Hellen Fernanda | Caio Vitor  |
+|  1.2   | 22/11/2022 | Finalização do cronograma de todo semestre | Hellen Fernanda | Caio Vitor  |
+| 1.3 | 12/01/2023 | Atualizando o cronograma da verificação dos artefatos | Wlidemberg Sales | Hellen Fernanda |
+
 
 ## Referências
 
