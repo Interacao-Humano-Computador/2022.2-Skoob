@@ -40,7 +40,7 @@
 ## Conclusão
 <p align="justify">O artefato está muito bem desenvolvido e inclui todos os critérios previstos pela disciplina. O único erro encontrado é na padronização dos textos no formato justificado, mas já corrigido. Os critérios referentes à tabelas e figuras não foram avaliados pois não contém tabelas ou figuras no artefato.</p>
 
-### Histórico de versão
+## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 12/01/2023 | Criação da página | Lucas Lopes | Philipe de Sousa |
