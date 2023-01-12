@@ -98,7 +98,7 @@
 |          Tarefa           |        Autor         | Entrega |  Revisor   | Revisão | Início da Realização | Fim da Realização |
 | :-----------------------: | :------------------: | :-----: | :--------: | :-----: | :------------------: | :---------------: |
 | Verificação do perfil do usuário | - | 18/01 | - | 17/01 | - | - |
-| Verificação dos aspectos éticos  | - | 18/01 | - | 17/01 | - | - |
+| Verificação dos aspectos éticos  | Lucas Lopes | 18/01 | Philipe de Sousa | 17/01 | - | - |
 | Verificação de personas | - | 18/01 | - | 17/01 | - | - |
 | Verificação da análise de tarefas | - | 18/01 | - | 17/01 | - | - |
 | Verificação dos princípios gerais de projeto | - | 18/01 | - | 17/01 | - | - |
@@ -111,10 +111,10 @@
 | Verificação do planejamento do relato dos resultado da análise de tarefas | - | 18/01 | - | 17/01 | - | - |
 | Verificação dos relatos dos resultados do Storyboard | - | 18/01 | - | 17/01 | - | - |
 | Verificação da análise de tarefas | - | 18/01 | - | 17/01 | - | - |
-| Verificação do planejamento da avaliação do protótipo de papel | - | 18/01 | - | 17/01 | - | - |
+| Verificação do planejamento da avaliação do protótipo de papel | Lucas Lopes | 18/01 | Philipe de Sousa | 17/01 | - | - |
 | Verificação do planejamento do relato dos resultados do protótipo de papel | - | 18/01 | - | 17/01 | - | - |
 | Verificação do relato dos resultados do protótipo de papel | - | 18/01 | - | 17/01 | - | - |
-| Verificação do planejamento da avaliação do protótipo de alta fidelidade | - | 18/01 | - | 17/01 | - | - |
+| Verificação do planejamento da avaliação do protótipo de alta fidelidade | Lucas Lopes | 18/01 | Philipe de Sousa | 17/01 | - | - |
 | Verificação do planejamento do relato dos resultados do protótipo de alta fidelidade | - | 18/01 | - | 17/01 | - | - |
 
 
