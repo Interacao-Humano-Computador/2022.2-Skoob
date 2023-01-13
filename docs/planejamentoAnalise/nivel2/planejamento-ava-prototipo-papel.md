@@ -106,7 +106,9 @@ Por fim, após a realização da entrevista e execução do planejamento que foi
 
 ## Referências
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 2021.
+
 > Preece, Jennifer, Rogers, Yvonne, e Sharp, Helen (2002). Interaction Design: Beyond Human-Computer Interaction. John Wiley & Sons.
+
 > KRUG, Steve. Não Me Faça Pensar. Rio de Janeiro: Alta Books, 2006
 
 ## Histórico de versão
