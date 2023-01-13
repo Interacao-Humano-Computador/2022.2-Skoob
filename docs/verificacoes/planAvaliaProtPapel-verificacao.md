@@ -12,7 +12,7 @@
 | 2 | Os textos estão ortograficamente corretos? | ✖ | ✔ |
 | 3 | Os textos estão em formato justificado?<br><i>&lt;p align="justify"&gt;&lt;/p&gt;</i> | ✔ |  |
 | 4 | As tabelas e/ou figuras contém legenda (título e fonte)? | ✖ | ✔ |
-| 5 | As legendas das figuras e tabelas estão conforme padrão?<br><i>&lt;figcaption align="center"&gt;&lt;/figcaption&gt;</i> | ✖ | ✔ |
+| 5 | As legendas das figuras e tabelas estão conforme padrão?<br><i>&lt;figcaption align="center"&gt;&lt;/figcaption&gt;</i> | ✔ |  |
 | 6 | As tabelas e/ou figuras são chamadas dentro dos textos? | ✖ | ✔ |
 | 7 | As seções seguem uma hierarquia de títulos correta? | ✖ | ✔ |
 | 8 | Possui um histórico de versão conforme o padrão? | ✔ |  |

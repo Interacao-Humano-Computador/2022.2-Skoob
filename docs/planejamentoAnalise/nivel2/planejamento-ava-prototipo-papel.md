@@ -1,17 +1,14 @@
 # Planejamento da avaliação - Protótipo de Papel
 
-## 1. Introdução
+## Introdução
+<p align="justify">Elaborar um protótipo de papel é interessante pelo fato que de, muitas vezes, você que trabalha com design acaba gastando muito tempo e esforço para confeccionar um protótipo muito bem elaborado com uma ferramenta dinâmica para prototipagem. Porém, ao entregar para os interessados no produto, ocorre de ter que fazer diversas modificações no seu protótipo e evitar retrabalho é sempre o ideal. Segundo (Barbosa, 2021), utilizar o protótipo em papel é um modo rápido e com custos baixos de identificar problemas de usabilidade.</p>
 
-<p align="justify">Elaborar um protótipo de papel é interessante pelo fato que de, muitas vezes, você que trabalha com design acaba gastando muito tempo e esforço para confeccionar um protótipo muito bem elaborado com uma ferramenta dinâmica para prototipagem. Porém ao entregar para os interessados no produto, ocorre de ter que fazer diversas modificações no seu protótipo e evitar retrabalho é sempre o ideal. Segundo (Barbosa, 2021) utilizar o protótipo em papel é um modo rápido e com custos baixos de identificar problemas de usabilidade.</p>
+## Objetivo
+<p align="justify">O objetivo deste documento é planejar de forma detalhada as tarefas que serão realizadas na avaliação do protótipo de papel do site Skoob.</p>
 
-## 2. Objetivo
-
-<p align="justify">O objetivo deste documento é planejar de forma detalhadas as tarefas que serão realizadas na avaliação do protótipo de papel do site Skoob.</p>
-
-## 3. Metodologia
-
+## Metodologia
 <p align="justify">
-A metodologia selecionada após a análise foi a entrevista, utilizando-se dessa técnica, planeja-se que o avaliador instrua o usuário na entrevista para a realização das tarefas, assim como na execução do planejamento. A entrevista ocorrerá presencialmente em um ambiente controlado para que a coleta de dados seja mais rica de informações, nela será disponibilizado para o entrevistado o protótipo em papel.
+A metodologia selecionada, após análise, foi a entrevista. Utilizando-se dessa técnica, planeja-se que o avaliador instrua o usuário na entrevista para a realização das tarefas, assim como na execução do planejamento.
 </p>
 
 <p align="justify">
@@ -27,14 +24,15 @@ O acrônimo DECIDE pode ser expandido para os seguintes tópicos:
 - **D**: Decidir como lidar com as questões éticas.
 - **E**: Avaliar (Evaluate), interpretar e apresentar os dados.
 
-## 4. Planejamento da Avaliação
+## Planejamento da Avaliação
 
-### 4.1 Termo de Consentimento
+### Objetivo da Avaliação
+<p align="justify">A avaliação busca identificar possíveis problemas de usabilidade do site utilizando o protótipo de papel, bem como validar o protótipo ou se será necessário mudanças na ferramenta.</p>
 
+
+### Termo de Consentimento
 <p align="justify">
 O termo de consentimento é o documento que garante ao participante da pesquisa uma clara noção de como as suas informações serão usadas durante o decorrer do projeto, e também garante ao executores da pesquisa a aceitação clara do participante em fornecer as informações com os fins citados no documento.</p>
-
-### **Termo utilizado pela equipe:**
 
 </br>
 
@@ -50,40 +48,47 @@ Ao participar da pesquisa, você deve estar de acordo em fornecer as informaçõ
 </br> 
 </p>
 
-### 4.2 Protótipo de papel
+### Protótipo de Papel
 <p align="justify">
- Breve demonstração dos protótipos de papel elaborado pela equipe, que será disponibilizado para o usuário durante a entrevista e analisado por ele.
+ A <i>Figura 1</i>, <i>Figura 2</i>, <i>Figura 3</i>, <i>Figura 4</i> e <i>Figura 5</i> são uma demonstração dos protótipos de papel elaborado pela equipe, que será disponibilizado para o usuário durante a entrevista e analisado por ele.
 </p>
 
 ![](./imagesPrototipoPapel/will-skoob-home.jpeg)
-<figcaption align='center'>Imagem 1 - Fonte: Wildemberg Sales, Lucas Lopes </figcaption>
+<figcaption align='center'>Figura 1: Página home 1 (Fonte: Autores, 2022)</figcaption>
 </br>
 
 ![](./imagesPrototipoPapel/will-skoob-livro.jpeg)
-<figcaption align='center'>Imagem 2 - Fonte: Wildemberg Sales, Lucas Lopes </figcaption>
+<figcaption align='center'>Figura 2: Página de um livro (Fonte: Autores, 2022)</figcaption>
 </br>
 
 ![](./imagesPrototipoPapel/will-skoob-perfil.jpeg)
-<figcaption align='center'>Imagem 3 - Fonte: Wildemberg Sales, Lucas Lopes </figcaption>
+<figcaption align='center'>Figura 3: Página de perfil 1 (Fonte: Autores, 2022)</figcaption>
 </br>
 
 ![](./imagesPrototipoPapel/phelipe-skoob-home.jpeg)
-<figcaption align='center'>Imagem 4 - Fonte: Philipe de Sousa </figcaption>
+<figcaption align='center'>Figura 4: Página home 2 (Fonte: Autores, 2022)</figcaption>
 </br>
 
 ![](./imagesPrototipoPapel/phelipe-skoob-perfil.jpeg)
-<figcaption align='center'>Imagem 5 - Fonte: Philipe de Sousa </figcaption>
+<figcaption align='center'>Figura 5: Página de perfil 2 (Fonte: Autores, 2022)</figcaption>
 </br>
 
+### Teste Piloto - Gravação
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ET1Iosd1Bt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### 4.3 Entrevista
+### Entrevista
 
+#### Envolvidos
 <p align="justify">
- O entrevistador e entrevistado iram combinar o melhor momento e forma para a realizar a entrevista, inicialmente ocorrerá via conferência online, porém pode haver mudanças caso seja mais conveniente para o entrevistado, que ela ocorra de outra forma. Para que a entrevista seja objetiva será disponibilizado um guia de perguntas(Tabela 1) para o entrevistador.Vale a pena ressaltar que esse guia de perguntas é apenas uma sugestão, e o entrevistador pode adicionar mais perguntas para agregar à entrevista.
+Após análise dos responsáveis, foi decidido utilizar três usuários para as avaliações. O motivo se dá pois com três ou quatro usuários a maioria dos problemas é detectado, tornando possível fazer a análise no mesmo dia (Krug, 2006).
 </p>
 
-<figcaption align='center'>Tabela 1 - Perguntas da entrevista </figcaption>
+#### Cronograma
+<p align="justify">A entrevista ocorrerá presencialmente em um ambiente controlado para que a coleta de dados seja mais rica de informações, nela será disponibilizado para o entrevistado o protótipo em papel. As avaliações estão previstas para o dia 10/01/2023, sendo a primeira entrevista às 11:35, a segunda às 12:20 e a terceira às 12:40.
+</p>
+
+#### Perguntas
+<p align="justify">Para que a entrevista seja objetiva, será disponibilizado um guia de perguntas (<i>Tabela 1</i>) para o entrevistador. Vale a pena ressaltar que esse guia de perguntas é apenas uma sugestão e o entrevistador pode adicionar mais perguntas para agregar à entrevista.</p>
 
 |Número|Pergunta|Resposta|
 |:----:|:------:|:------:|
@@ -93,19 +98,18 @@ Ao participar da pesquisa, você deve estar de acordo em fornecer as informaçõ
 |4|O protótipo em papel, na sua opinião, se mostrou eficaz na realização da tarefa?| Sim - [  ] <br> Não - [  ] |
 |5|Você tem alguma sugestão ou crítica sobre o protótipo de papel?| Resposta aberta |
 
-<figcaption align='center'>Fonte: Philipe de Sousa </figcaption>
+<figcaption align='center'>Tabela 1: Perguntas da entrevista (Fonte: Autores, 2022)</figcaption>
 
 
-## 5. Conclusão
-
+## Conclusão
 Por fim, após a realização da entrevista e execução do planejamento que foi demonstrado nesse documento, espera-se que os avaliadores realizem as análises seguindo o método selecionado e assim possam produzir os resultados da avaliação do protótipo de papel.
 
-## 6. Referências
- 
+## Referências
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 2021.
 > Preece, Jennifer, Rogers, Yvonne, e Sharp, Helen (2002). Interaction Design: Beyond Human-Computer Interaction. John Wiley & Sons.
+> KRUG, Steve. Não Me Faça Pensar. Rio de Janeiro: Alta Books, 2006
 
-# Histórico de versão
+## Histórico de versão
 
 | Versão |    Data    |             Descrição             |    Autor    |  Revisor   |
 | :----: | :--------: | :-------------------------------: | :---------: | :--------: |
@@ -113,4 +117,4 @@ Por fim, após a realização da entrevista e execução do planejamento que foi
 |  1.1   | 19/12/2022 | Adicionando video protótipo de papel | Philipe | Hellen |
 |  1.2   | 20/12/2022 | Adição dos protótipos de papel | Wildemberg Sales, Philipe de Sousa, Lucas Lopes | Hellen |
 |  1.3   | 10/01/2023 | Mudança de estilo de entrevista | Wildemberg Sales, Philipe Sousa | Hellen | 
-
+|  1.4   | 12/01/2023 | Correções da verificação | Wildemberg Sales, Philipe Sousa | Hellen |
