@@ -45,10 +45,10 @@
 
 |                     Tarefa                      |            Autor             | Entrega |     Revisor      | Revisão | Início da Realização | Fim da Realização |
 | :---------------------------------------------: | :--------------------------: | :-----: | :--------------: | :-----: | :------------------: | :---------------: |
-|                Perfil do usuário                | Philipe de Souza, João Pedro |  07/12  |   Lucas Lopes    |  06/12  |          02/12           |         06/12         |
-| Aspectos Éticos de Pesquisas Envolvendo Pessoas |          Wildemberg          |  07/12  | Philipe de Souza |  06/12  |          01/12           |         01/12         |
-|                    Personas                     |         Lucas Lopes          |  07/12  | Hellen Fernanda  |  06/12  |          02/12           |         04/12         |
-|               Análise de tarefas                |    Hellen Fernanda, Caio     |  07/12  |    João Pedro    |  06/12  |        02/12         |         05/12         |
+|                Perfil do usuário                | Philipe de Souza, João Pedro |  07/12  |   Lucas Lopes    |  06/12  |        02/12         |       06/12       |
+| Aspectos Éticos de Pesquisas Envolvendo Pessoas |          Wildemberg          |  07/12  | Philipe de Souza |  06/12  |        01/12         |       01/12       |
+|                    Personas                     |         Lucas Lopes          |  07/12  | Hellen Fernanda  |  06/12  |        02/12         |       04/12       |
+|               Análise de tarefas                |    Hellen Fernanda, Caio     |  07/12  |    João Pedro    |  06/12  |        02/12         |       05/12       |
 
 <figcaption align="center">Fonte: Hellen Fernanda</figcaption>
 
@@ -56,12 +56,12 @@
 
 <figcaption align="center">Tabela 4 - Cronograma da equipe para a etapa 3.</figcaption>
 
-|                    Tarefa                    |        Autor        | Entrega |  Revisor   | Revisão | Início da Realização | Fim da Realização |
-| :------------------------------------------: | :-----------------: | :-----: | :--------: | :-----: | :------------------: | :---------------: |
-|         Princípios Gerais de Projeto         |        Caio         |  12/12  |   Hellen   |  11/12  |          09/12           |         11/12         |
-|             Metas de usabilidade             | João Pedro, Philipe |  12/12  |   Lucas    |  11/12  |          09/12           |         10/12         |
-|                Guia de Estilo                |        Lucas Lopes, Wildemberg Sales        |  12/12  | João Pedro |  11/12  |          11/12           |         11/12         |
-| Características da plataforma para o projeto |    Hellen     |  12/12  |    Caio    |  11/12  |          25/11           |         25/11         |
+|                    Tarefa                    |             Autor             | Entrega |  Revisor   | Revisão | Início da Realização | Fim da Realização |
+| :------------------------------------------: | :---------------------------: | :-----: | :--------: | :-----: | :------------------: | :---------------: |
+|         Princípios Gerais de Projeto         |             Caio              |  12/12  |   Hellen   |  11/12  |        09/12         |       11/12       |
+|             Metas de usabilidade             |      João Pedro, Philipe      |  12/12  |   Lucas    |  11/12  |        09/12         |       10/12       |
+|                Guia de Estilo                | Lucas Lopes, Wildemberg Sales |  12/12  | João Pedro |  11/12  |        11/12         |       11/12       |
+| Características da plataforma para o projeto |            Hellen             |  12/12  |    Caio    |  11/12  |        25/11         |       25/11       |
 
 <figcaption align="center">Fonte: Hellen Fernanda</figcaption>
 
@@ -71,10 +71,10 @@
 
 |                                  Tarefa                                   |      Autor       | Entrega |  Revisor   | Revisão | Início da Realização | Fim da Realização |
 | :-----------------------------------------------------------------------: | :--------------: | :-----: | :--------: | :-----: | :------------------: | :---------------: |
-|                  Planejamento da Avaliação do Storyboard                  | João Pedro, Caio |  14/12  |   Lucas    |  13/12  |    13/12    |         13/12         |
-|     Planejamento do relato dos resultados da avaliação do Storyboard      |     Philipe      |  14/12  |    Will    |  13/12  |    13/12     |    13/12     |
-|              Planejamento da Avaliação do Análise de tarefas              |   Lucas, Will    |  14/12  |   Hellen   |  13/12  |     13/12     |      13/12      |
-| Planejamento do relato dos resultados da avaliação do Análise de tarefas. |      Hellen      |  14/12  | João Pedro |  13/12  |     13/12      |      13/12      |
+|                  Planejamento da Avaliação do Storyboard                  | João Pedro, Caio |  14/12  |   Lucas    |  13/12  |        13/12         |       13/12       |
+|     Planejamento do relato dos resultados da avaliação do Storyboard      |     Philipe      |  14/12  |    Will    |  13/12  |        13/12         |       13/12       |
+|              Planejamento da Avaliação do Análise de tarefas              |   Lucas, Will    |  14/12  |   Hellen   |  13/12  |        13/12         |       13/12       |
+| Planejamento do relato dos resultados da avaliação do Análise de tarefas. |      Hellen      |  14/12  | João Pedro |  13/12  |        13/12         |       13/12       |
 
 <figcaption align="center">Fonte: Hellen Fernanda</figcaption>
 
@@ -82,12 +82,12 @@
 
 <figcaption align="center">Tabela 6 - Cronograma da equipe para a etapa 5.</figcaption>
 
-|                                  Tarefa                                  |    Autor     | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
-| :----------------------------------------------------------------------: | :----------: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
-|   Relato dos resultados do Story Board  | Caio, João Pedro |  19/12  |  Will   |  18/01  |          -           |         -         |
-|   Análise de tarefas  |  Hellen Fernanda |  19/01  | Phelipe |  18/12  |          -           |         -         |
-|  Planejamento da Avaliação do Protótipo de Papel | Philipe  |  20/12  | Hellen  |  19/12  |          18/12           |         19/12         |
-| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Lucas, Will |  19/12  |  Caio   |  18/12  |          -           |         -         |
+|                                  Tarefa                                  |      Autor       | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
+| :----------------------------------------------------------------------: | :--------------: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
+|                   Relato dos resultados do Story Board                   | Caio, João Pedro |  19/12  |  Will   |  18/01  |          -           |         -         |
+|                            Análise de tarefas                            | Hellen Fernanda  |  19/01  | Phelipe |  18/12  |          -           |         -         |
+|             Planejamento da Avaliação do Protótipo de Papel              |     Philipe      |  20/12  | Hellen  |  19/12  |        18/12         |       19/12       |
+| Planejamento do relato dos resultados da avaliação do Protótipo de Papel |   Lucas, Will    |  19/12  |  Caio   |  18/12  |          -           |         -         |
 
 <figcaption align="center">Fonte: Hellen Fernanda</figcaption>
 
@@ -95,28 +95,27 @@
 
 <figcaption align="center">Tabela 7 - Cronograma da equipe para a etapa 6.</figcaption>
 
-|          Tarefa           |        Autor         | Entrega |  Revisor   | Revisão | Início da Realização | Fim da Realização |
-| :-----------------------: | :------------------: | :-----: | :--------: | :-----: | :------------------: | :---------------: |
-| Verificação do perfil do usuário | - | 18/01 | - | 17/01 | - | - |
-| Verificação dos aspectos éticos  | Lucas Lopes | 18/01 | Philipe de Sousa | 17/01 | - | - |
-| Verificação de personas | - | 18/01 | - | 17/01 | - | - |
-| Verificação da análise de tarefas | - | 18/01 | - | 17/01 | - | - |
-| Verificação dos princípios gerais de projeto | - | 18/01 | - | 17/01 | - | - |
-| Verificação das metas de usabilidade | - | 18/01 | - | 17/01 | - | - |
-| Verificação do guia de estilo | - | 18/01 | - | 17/01 | - | - |
-| Verificação das características da plataforma | - | 18/01 | - | 17/01 | - | - |
-| Verificação do planejamento da avaliação do Storyboard | - | 18/01 | - | 17/01 | - | - |
-| Verificação do planejamento do relato dos resultado do Storyboard | - | 18/01 | - | 17/01 | - | - |
-| Verificação do planejamento da avaliação da análise de tarefas | - | 18/01 | - | 17/01 | - | - |
-| Verificação do planejamento do relato dos resultado da análise de tarefas | - | 18/01 | - | 17/01 | - | - |
-| Verificação dos relatos dos resultados do Storyboard | - | 18/01 | - | 17/01 | - | - |
-| Verificação da análise de tarefas | - | 18/01 | - | 17/01 | - | - |
-| Verificação do planejamento da avaliação do protótipo de papel | Lucas Lopes | 18/01 | Philipe de Sousa | 17/01 | - | - |
-| Verificação do planejamento do relato dos resultados do protótipo de papel | - | 18/01 | - | 17/01 | - | - |
-| Verificação do relato dos resultados do protótipo de papel | - | 18/01 | - | 17/01 | - | - |
-| Verificação do planejamento da avaliação do protótipo de alta fidelidade | Lucas Lopes | 18/01 | Philipe de Sousa | 17/01 | - | - |
-| Verificação do planejamento do relato dos resultados do protótipo de alta fidelidade | - | 18/01 | - | 17/01 | - | - |
-
+|                                        Tarefa                                        |      Autor      | Entrega |     Revisor      | Revisão | Início da Realização | Fim da Realização |
+| :----------------------------------------------------------------------------------: | :-------------: | :-----: | :--------------: | :-----: | :------------------: | :---------------: |
+|                           Verificação do perfil do usuário                           | Hellen Fernanda |  18/01  |        -         |  17/01  |          -           |         -         |
+|                           Verificação dos aspectos éticos                            |   Lucas Lopes   |  18/01  | Philipe de Sousa |  17/01  |          -           |         -         |
+|                               Verificação de personas                                | Hellen Fernanda |  18/01  |        -         |  17/01  |          -           |         -         |
+|                          Verificação da análise de tarefas                           |        -        |  18/01  |        -         |  17/01  |          -           |         -         |
+|                     Verificação dos princípios gerais de projeto                     |        -        |  18/01  |        -         |  17/01  |          -           |         -         |
+|                         Verificação das metas de usabilidade                         |        -        |  18/01  |        -         |  17/01  |          -           |         -         |
+|                            Verificação do guia de estilo                             | Hellen Fernanda |  18/01  |        -         |  17/01  |          -           |         -         |
+|                    Verificação das características da plataforma                     |        -        |  18/01  |        -         |  17/01  |          -           |         -         |
+|                Verificação do planejamento da avaliação do Storyboard                |        -        |  18/01  |        -         |  17/01  |          -           |         -         |
+|          Verificação do planejamento do relato dos resultado do Storyboard           |        -        |  18/01  |        -         |  17/01  |          -           |         -         |
+|            Verificação do planejamento da avaliação da análise de tarefas            |        -        |  18/01  |        -         |  17/01  |          -           |         -         |
+|      Verificação do planejamento do relato dos resultado da análise de tarefas       |        -        |  18/01  |        -         |  17/01  |          -           |         -         |
+|                 Verificação dos relatos dos resultados do Storyboard                 |        -        |  18/01  |        -         |  17/01  |          -           |         -         |
+|                          Verificação da análise de tarefas                           |        -        |  18/01  |        -         |  17/01  |          -           |         -         |
+|            Verificação do planejamento da avaliação do protótipo de papel            |   Lucas Lopes   |  18/01  | Philipe de Sousa |  17/01  |          -           |         -         |
+|      Verificação do planejamento do relato dos resultados do protótipo de papel      |        -        |  18/01  |        -         |  17/01  |          -           |         -         |
+|              Verificação do relato dos resultados do protótipo de papel              |        -        |  18/01  |        -         |  17/01  |          -           |         -         |
+|       Verificação do planejamento da avaliação do protótipo de alta fidelidade       |   Lucas Lopes   |  18/01  | Philipe de Sousa |  17/01  |          -           |         -         |
+| Verificação do planejamento do relato dos resultados do protótipo de alta fidelidade |        -        |  18/01  |        -         |  17/01  |          -           |         -         |
 
 <figcaption align="center">Fonte: Hellen Fernanda</figcaption>
 
@@ -154,13 +153,12 @@
 
 ## Histórico de versão
 
-| Versão |    Data    |                 Descrição                  |      Autor      |   Revisor   |
-| :----: | :--------: | :----------------------------------------: | :-------------: | :---------: |
-|  1.0   | 18/11/2022 |      Criação dos cronogramas iniciais      | Hellen Fernanda | Lucas Lopes |
-|  1.1   | 20/11/2022 |     Finalização do cronograma inicial      | Hellen Fernanda | Caio Vitor  |
-|  1.2   | 22/11/2022 | Finalização do cronograma de todo semestre | Hellen Fernanda | Caio Vitor  |
-| 1.3 | 12/01/2023 | Atualizando o cronograma da verificação dos artefatos | Wlidemberg Sales | Hellen Fernanda |
-
+| Versão |    Data    |                       Descrição                       |      Autor       |     Revisor     |
+| :----: | :--------: | :---------------------------------------------------: | :--------------: | :-------------: |
+|  1.0   | 18/11/2022 |           Criação dos cronogramas iniciais            | Hellen Fernanda  |   Lucas Lopes   |
+|  1.1   | 20/11/2022 |           Finalização do cronograma inicial           | Hellen Fernanda  |   Caio Vitor    |
+|  1.2   | 22/11/2022 |      Finalização do cronograma de todo semestre       | Hellen Fernanda  |   Caio Vitor    |
+|  1.3   | 12/01/2023 | Atualizando o cronograma da verificação dos artefatos | Wlidemberg Sales | Hellen Fernanda |
 
 ## Referências
 
