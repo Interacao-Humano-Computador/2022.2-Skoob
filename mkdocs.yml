@@ -60,6 +60,7 @@ nav:
   - Verificação:
       - Modelo Padrão: verificacoes/modelo-padrao.md
       - Aspectos Éticos: verificacoes/aspectosEtic-verificacao.md
+      - Guia de Estilo: verificacoes/guia-estilo.md
       - Perfil do Usuário: verificacoes/perfil-usuario.md
       - Personas: verificacoes/personas.md
       - Planejamento da Avaliação do Protótipo de Papel: verificacoes/planAvaliaProtPapel-verificacao.md
