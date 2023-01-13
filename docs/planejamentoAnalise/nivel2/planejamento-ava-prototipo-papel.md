@@ -83,6 +83,11 @@ Ao participar da pesquisa, você deve estar de acordo em fornecer as informaçõ
 Após análise dos responsáveis, foi decidido utilizar três usuários para as avaliações. O motivo se dá pois com três ou quatro usuários a maioria dos problemas é detectado, tornando possível fazer a análise no mesmo dia (Krug, 2006).
 </p>
 
+#### Tarefas
+- Pesquisar por um livro
+- Avaliar um livro
+- Favoritar um livro
+
 #### Cronograma
 <p align="justify">A entrevista ocorrerá presencialmente em um ambiente controlado para que a coleta de dados seja mais rica de informações, nela será disponibilizado para o entrevistado o protótipo em papel. As avaliações estão previstas para o dia 10/01/2023, sendo a primeira entrevista às 11:35, a segunda às 12:20 e a terceira às 12:40.
 </p>
