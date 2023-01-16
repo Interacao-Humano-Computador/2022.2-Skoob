@@ -82,10 +82,11 @@ BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador".
 
 
 ## Conclusão
-O princípios gerais descritos dizem respeito a interação do usuário com a aplicação, sendo fundamentais para uma melhor experiência. Foi possível observar que vários princípios não foram levados em consideração no Skoob, deixando claro algumas melhorias importantes no website.
+O princípios gerais descritos dizem respeito a interação do usuário com a aplicação, sendo fundamentais para uma melhor experiência. Foi possível observar que vários princípios não foram levados em consideração no Skoob, deixando claro algumas melhorias importantes no website. Os princípios a serem seguidos no projeto incluem: visibilidade e reconhecimento, consistência e padronização, tendo como base os princípios que não estão presentes no site Skoob.
  
 ## Histórico de versão
 
 | Versão       | Data | Descrição                                  | Autor(es)      | Revisor(es)  |
 | ---------- | ------ | ------------------------------------------ | -------------- | ------------ |
 | 1.0 | 10/12/2022    | Criação do documento                       | Caio Vitor Carneiro  | Hellen|
+| 1.1 | 16/01/2023    | Correção da verificação                       | Philipe  | Hellen|

@@ -100,17 +100,17 @@
 |                           Verificação do perfil do usuário                           | Hellen Fernanda |  18/01  |   Lucas Lopes    |  17/01  |          -           |         -         |
 |                           Verificação dos aspectos éticos                            |   Lucas Lopes   |  18/01  | Philipe de Sousa |  17/01  |          -           |         -         |
 |                               Verificação de personas                                | Hellen Fernanda |  18/01  |   Lucas Lopes    |  17/01  |          -           |         -         |
-|                          Verificação da análise de tarefas                           |        Philipe        |  18/01  |        Hellen         |  17/01  |          -           |         -         |
+|                          Verificação da análise de tarefas                           |                |  18/01  |        Hellen         |  17/01  |          -           |         -         |
 |                     Verificação dos princípios gerais de projeto                     |        Philipe        |  18/01  |        Hellen         |  17/01  |          -           |         -         |
 |                         Verificação das metas de usabilidade                         |        -        |  18/01  |        -         |  17/01  |          -           |         -         |
 |                            Verificação do guia de estilo                             | Hellen Fernanda |  18/01  |   Lucas Lopes    |  17/01  |          -           |         -         |
-|                    Verificação das características da plataforma                     |        -        |  18/01  |        -         |  17/01  |          -           |         -         |
-|                Verificação do planejamento da avaliação do Storyboard                |        -        |  18/01  |        -         |  17/01  |          -           |         -         |
+|                    Verificação das características da plataforma                     |        Philipe        |  18/01  |        -         |  17/01  |          -           |         -         |
+|                Verificação do planejamento da avaliação do Storyboard                |        Philipe        |  18/01  |        -         |  17/01  |          -           |         -         |
 |          Verificação do planejamento do relato dos resultado do Storyboard           |        -        |  18/01  |        -         |  17/01  |          -           |         -         |
 |            Verificação do planejamento da avaliação da análise de tarefas            |        -        |  18/01  |        -         |  17/01  |          -           |         -         |
 |      Verificação do planejamento do relato dos resultado da análise de tarefas       |        -        |  18/01  |        -         |  17/01  |          -           |         -         |
 |                 Verificação dos relatos dos resultados do Storyboard                 |        -        |  18/01  |        -         |  17/01  |          -           |         -         |
-|                          Verificação da análise de tarefas                           |        Philipe        |  18/01  |        Hellen         |  17/01  |          -           |         -         |
+|                          Verificação da análise de tarefas                           |                |  18/01  |        Hellen         |  17/01  |          -           |         -         |
 |            Verificação do planejamento da avaliação do protótipo de papel            |   Lucas Lopes   |  18/01  | Philipe de Sousa |  17/01  |          -           |         -         |
 |      Verificação do planejamento do relato dos resultados do protótipo de papel      |        -        |  18/01  |        -         |  17/01  |          -           |         -         |
 |              Verificação do relato dos resultados do protótipo de papel              |        -        |  18/01  |        -         |  17/01  |          -           |         -         |
