@@ -61,16 +61,20 @@ Ao participar da pesquisa, você deve estar de acordo em fornecer as informaçõ
 <figcaption align='center'>Figura 2: Página de um livro (Fonte: Autores, 2022)</figcaption>
 </br>
 
+![](./imagesPrototipoPapel/will-skoob-livro.jpg)
+<figcaption align='center'>Figura 3: Página de um livro versão 2.0 (Fonte: Autores, 2022)</figcaption>
+</br>
+
 ![](./imagesPrototipoPapel/will-skoob-perfil.jpeg)
-<figcaption align='center'>Figura 3: Página de perfil 1 (Fonte: Autores, 2022)</figcaption>
+<figcaption align='center'>Figura 4: Página de perfil 1 (Fonte: Autores, 2022)</figcaption>
 </br>
 
 ![](./imagesPrototipoPapel/phelipe-skoob-home.jpeg)
-<figcaption align='center'>Figura 4: Página home 2 (Fonte: Autores, 2022)</figcaption>
+<figcaption align='center'>Figura 5: Página home 2 (Fonte: Autores, 2022)</figcaption>
 </br>
 
 ![](./imagesPrototipoPapel/phelipe-skoob-perfil.jpeg)
-<figcaption align='center'>Figura 5: Página de perfil 2 (Fonte: Autores, 2022)</figcaption>
+<figcaption align='center'>Figura 6: Página de perfil 2 (Fonte: Autores, 2022)</figcaption>
 </br>
 
 ### Teste Piloto - Gravação
@@ -125,3 +129,4 @@ Por fim, após a realização da entrevista e execução do planejamento que foi
 |  1.2   | 20/12/2022 | Adição dos protótipos de papel | Wildemberg Sales, Philipe de Sousa, Lucas Lopes | Hellen |
 |  1.3   | 10/01/2023 | Mudança de estilo de entrevista | Wildemberg Sales, Philipe Sousa | Hellen | 
 |  1.4   | 12/01/2023 | Correções da verificação | Wildemberg Sales, Philipe Sousa | Hellen |
+|  1.5   | 17/01/2023 | Correções do protótipo | Wildemberg Sales | Hellen |
