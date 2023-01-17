@@ -47,6 +47,7 @@ O acrônimo DECIDE pode ser expandido para os seguintes tópicos:
 
 ## 4.3 Elaboração do roteiro de perguntas
 
+Abaixo a <i>Tabela 1</i> com as perguntas.
 
 | Nº |    Pergunta    | Resposta |
 | :----: | :--------: | :--------: |
@@ -57,9 +58,13 @@ O acrônimo DECIDE pode ser expandido para os seguintes tópicos:
 |  5   | Qual dos storyboards apresentados você gostaria de contribuir com a sua opinião? |Número do storyboard|
 |  6   |Qual sugestão de melhoria ou alteração você gostaria de compartilhar? |Resposta aberta|
 
+<figcaption align='center'>
+    Tabela 1: Perguntas a serem feitas.
+</figcaption>
+
 ### 4.4 Termo de Consentimento
 
-
+<p align="justify">
 Para a realização das entrevistas, os entrevistados devem ler e concordar com o seguinte termo de consentimento:
 
 Somos o grupo 1 da disciplina Interação Humano-Computador, ministrada pelo professor André Barros, no curso de Engenharia de Software da Universidade de Brasília - Campus Gama.
@@ -76,19 +81,19 @@ A entrevista será realizada de forma remota, com uma duração de aproximadamen
 Ao realizar essa entrevista, você estará auxiliando os integrantes do grupo a construir uma boa base de conhecimento e a desenvolver um projeto de qualidade para a disciplina.
 
 Dessa forma, gostaríamos que você pronunciasse em alto e bom som:
-
+</p>
 <b>Eu, [nome do entrevistado], aceito os termos e dou meu consentimento para a realização da entrevista.</b>
 
 ## 4.5 Definição das tarefas que serão executadas
-
+<p align="justify">
 Para validação do storyboard serão feitas algumas perguntas com objetivo de saber se os storyboards condizem ou não com a realidade dos entrevistados, se há alguma sugestão, crítica, se há algo possa ser acrescentado e/ou alterado, ou até se algum erro foi identificado. Desse modo, tornando possível a melhora ou correção de qualquer um desses detalhes.
-
+</p>
 ## 4.6 Recrutamento dos participantes e cronograma das entrevistas
-
+<p align="justify">
 Dentro da atividade de Perfil do Usuário e das Personas, conseguimos identificar características necessárias para realizar uma entrevista com um usuário. Sendo assim buscaremos dois perfis maiores de 18 anos, de diferentes faixas etárias e que gostem de ler.
 
 Para fazer o recrutamento, utilizamos grupos para divulgar que tenham pessoas de acordo com os perfis indicados acima. Além disso, fizemos convite a pessoas conhecidas que encaixam com o perfil buscado. Nosso objetivo para essa avaliação é ter 2 entrevistados.
-
+</p>
 ## 4.7 Aplicação da Avaliação
 
 <p align="justify">
@@ -106,8 +111,9 @@ Para fazer o recrutamento, utilizamos grupos para divulgar que tenham pessoas de
 ## 4.8 Teste Piloto
 
 <h3> Teste piloto (ou pré-teste) é o teste que você faz antes de começar os testes de usabilidade </h3>
-
+<p align="justify">
 Antes da entrevista com os participantes selecionados ser realizada, será feito um teste piloto a fim de verificar o planejamento, analisar se a avaliação produz os dados necessários e verificar se todas as ferramentas necessárias para a avaliação estão funcionando como planejado. O teste piloto consistirá em um dos avaliadores executando a avaliação como se fosse uma sessão normal da entrevista e a gravação deste teste e os seus resultados serão documentados no relato dos resultados e qualquer mudança necessária no planejamento será feita antes que as entrevistas ocorram.
+</p>
 
 - As tarefas a serem executadas são facilmente compreendidas?
 - O tempo da entrevista está conforme o esperado?
@@ -132,14 +138,13 @@ Antes da entrevista com os participantes selecionados ser realizada, será feito
 
 
 ## 6. Conclusão
-
+<p align="justify">
 Esse documento visa facilitar a vida do avaliador durante a realização das avaliações. Portanto, é possível, e recomendável, que também exista ação por parte do avaliador caso exista alguma oportunidade de melhoria no documento ou nas etapas de avaliação, para que o processo de avaliação dos storyboards seja eficiente, informativo e auxiliador.
-
+</p>
 
 ## 7. Referências
  
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 2021.
-> 
 > BENYON, David . Interação Humano Computador. 2° edição, São Paulo, 2011.
 
 ## Histórico de versão
