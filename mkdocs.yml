@@ -39,24 +39,27 @@ nav:
       - Principios Gerais de Projeto: analise-de-requisitos/principios-gerais-de-projeto.md
       - Guia de Estilo: analise-de-requisitos/guia-de-estilo.md
   - Design, Avaliação e Desenvolvimento:
-      - Nível 1:
-          - Análise de tarefas:
-              - Planejamento da Análise de Tarefas: planejamentoAnalise/nivel1/planejamento-analise-tarefas.md
-              - Planejamento dos Resultados das Análises de Tarefas: planejamentoAnalise/nivel1/planejamento-resultados-analise-tarefas.md
-          - Storyboard:
+        - Nível 1:
+            - Análise de tarefas:
+                - Planejamento da Análise de Tarefas: planejamentoAnalise/nivel1/planejamento-analise-tarefas.md
+                - Planejamento dos Resultados das Análises de Tarefas: planejamentoAnalise/nivel1/planejamento-resultados-analise-tarefas.md
+                - Relato dos resultados do Teste-piloto: planejamentoAnalise/nivel2/teste-piloto-analise-tarefas.md
+                - Relato dos resultados da Analise de Tarefas: planejamentoAnalise/nivel2/analise-tarefas.md
+            - Storyboard:
               - Storyboard: planejamentoAnalise/nivel1/storyboards.md
               - Planejamento da Avaliação do Storyboard: planejamentoAnalise/nivel1/PlanejamentodaAvaliaçãodoStoryboard.md
               - Planejamento dos Resultados da Avaliação do Storyboard: planejamentoAnalise/nivel1/planejamento-relatos-story.md
-      - Nível 2:
-          - Planejamento da Avaliação do Protótipo de Papel: planejamentoAnalise/nivel2/planejamento-ava-prototipo-papel.md
-          - Planejamento do Relato dos Resultados do Protótipo de Papel: planejamentoAnalise/nivel2/planejamento-relato-prototipo-papel.md
-          - Relato dos resultados do Storyboard: planejamentoAnalise/nivel2/avaliacao-storyboard.md
-          - Relato dos resultados do Teste-piloto: planejamentoAnalise/nivel2/teste-piloto-analise-tarefas.md
-          - Relato dos resultados da Analise de Tarefas: planejamentoAnalise/nivel2/analise-tarefas.md
-      - Nível 3:
-          - Planejamento da Avaliação do Protótipo de Alta Fideliade: planejamentoAnalise/nivel3/planejamento-avaliacao-prototipo-alta-fid.md
-          - Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade: planejamentoAnalise/nivel3/planejamento-relato-prototipo-alta-fid.md
-          - Relato dos resultados do Protótipo de Papel: planejamentoAnalise/nivel3/relatos-pro-papel.md
+              - Relato dos resultados do Storyboard: planejamentoAnalise/nivel2/avaliacao-storyboard.md
+        - Nível 2:
+            - Protótipo de papel:
+                - Planejamento da Avaliação do Protótipo de Papel: planejamentoAnalise/nivel2/planejamento-ava-prototipo-papel.md
+                - Planejamento do Relato dos Resultados do Protótipo de Papel: planejamentoAnalise/nivel2/planejamento-relato-prototipo-papel.md
+                - Relato dos resultados do Protótipo de Papel: planejamentoAnalise/nivel3/relatos-pro-papel.md
+        - Nível 3:
+            -Protótipo de alta fidelidade:
+                - Planejamento da Avaliação do Protótipo de Alta Fideliade: planejamentoAnalise/nivel3/planejamento-avaliacao-prototipo-alta-fid.md
+                - Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade: planejamentoAnalise/nivel3/planejamento-relato-prototipo-alta-fid.md
+          
   - Verificação:
       - Modelo Padrão: verificacoes/modelo-padrao.md
       - Aspectos Éticos: verificacoes/aspectosEtic-verificacao.md
