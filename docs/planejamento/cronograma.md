@@ -107,12 +107,12 @@
 |                    Verificação das características da plataforma                     |        Philipe        |  18/01  |        -         |  17/01  |          -           |         -         |
 |                Verificação do planejamento da avaliação do Storyboard                |        Philipe        |  18/01  |        -         |  17/01  |          -           |         -         |
 |          Verificação do planejamento do relato dos resultado do Storyboard           |        -        |  18/01  |        -         |  17/01  |          -           |         -         |
-|            Verificação do planejamento da avaliação da análise de tarefas            |        -        |  18/01  |        -         |  17/01  |          -           |         -         |
-|      Verificação do planejamento do relato dos resultado da análise de tarefas       |        -        |  18/01  |        -         |  17/01  |          -           |         -         |
+|            Verificação do planejamento da avaliação da análise de tarefas            | Wildemberg Sales |  18/01  | João Pedro |  17/01  |          -           |         -         |
+|      Verificação do planejamento do relato dos resultado da análise de tarefas       | Wildemberg Sales |  18/01  | João Pedro |  17/01  |          -           |         -         |
 |                 Verificação dos relatos dos resultados do Storyboard                 |        Caio Vitor        |  18/01  |        -         |  17/01  |          -           |         -         |
 |                          Verificação da análise de tarefas                           |          -     |  18/01  |        Hellen         |  17/01  |          -           |         -         |
 |            Verificação do planejamento da avaliação do protótipo de papel            |   Lucas Lopes   |  18/01  | Philipe de Sousa |  17/01  |          -           |         -         |
-|      Verificação do planejamento do relato dos resultados do protótipo de papel      |      - |  18/01  |        -         |  17/01  |          -           |         -         |
+|      Verificação do planejamento do relato dos resultados do protótipo de papel      | Wildemberg Sales |  18/01  | João Pedro |  17/01  |          -           |         -         |
 |              Verificação do relato dos resultados do protótipo de papel              |       Caio Vitor |  18/01  |        -         |  17/01  |          -           |         -         |
 |       Verificação do planejamento da avaliação do protótipo de alta fidelidade       |   Lucas Lopes   |  18/01  | Philipe de Sousa |  17/01  |          -           |         -         |
 | Verificação do planejamento do relato dos resultados do protótipo de alta fidelidade |       Caio Vitor |  18/01  |        -         |  17/01  |          -           |         -         |
