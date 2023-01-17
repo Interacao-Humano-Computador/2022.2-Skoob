@@ -136,7 +136,7 @@
 
 |         Tarefa         |        Autor         | Entrega |    Revisor    | Revisão | Início da Realização | Fim da Realização |
 | :--------------------: | :------------------: | :-----: | :-----------: | :-----: | :------------------: | :---------------: |
-| Relatos dos resultados | Todos os integrantes |  25/01  | Will, Philipe |  24/01  |          -           |         -         |
+| Relatos dos resultados do protótipo de alta fidelidade | Todos os integrantes |  25/01  | Will, Philipe |  24/01  |          -           |         -         |
 
 <figcaption align="center">Fonte: Hellen Fernanda</figcaption>
 
