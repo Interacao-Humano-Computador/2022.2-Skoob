@@ -28,7 +28,7 @@
 
 ## Entrevista
 
-  <p align="justify">Para podermos realizar a entrevista, foi definido uma tabela de tarefas principais do sistema, que o entrevistado deve executar no site para que seja avaliado sua interação com o sistema, assim foram descritas na <i>Tabela 1</i>.</p>
+  <p align="justify">Para podermos realizar a entrevista, foi definido uma tabela de tarefas principais do sistema, que o entrevistado deve executar no site para que seja avaliado sua interação com o sistema, assim foram descritas na <i>Tabela 1</i>. Para a análise de tarefas, foram utilizados os artefatos de <a href="https://interacao-humano-computador.github.io/2022.2-Skoob/analise-de-requisitos/analisehierarquicadetarefas/">Análise Hierárquica de Tarefas</a> e <a href="https://interacao-humano-computador.github.io/2022.2-Skoob/analise-de-requisitos/analise-de-tarefas-concorrentes/">Árvores de tarefas Concorrentes</a>, com isso os itens da <i>Tabela 1</i> são os mesmos utilizados nos artefatos.</p>
 
 | Número |    Tarefas que podem ser executadas     |
 | :----: | :-------------------------------------: |
@@ -80,4 +80,5 @@
 | Versão | Data       | Descrição                                                   | Autor(es)                     | Revisor(es) |
 | ------ | ---------- | ----------------------------------------------------------- | ----------------------------- | ----------- |
 | 1.0    | 13/12/2022 | Criação do documento do planejamento da análise de tarefas  | Wildemberg Sales, Lucas Lopes | Hellen      |
-| 1.1    | 13/12/2022 | Finalizado o artefato do planejamento da análise de tarefas | Lucas Lopes, Wildemberg Sales | Hellen      |
+| 1.1    | 13/12/2022 | Finalizado o artefato do planejamento da análise de tarefas | Lucas Lopes, Wildemberg Sales | Hellen |
+| 1.2 | 17/01/2023 | Corrigindo a ligação entre o planejamento e o artefato de análise de tarefas | Wildemberg Sales | Hellen Fernanda |
