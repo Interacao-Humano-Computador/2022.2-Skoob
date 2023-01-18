@@ -109,6 +109,26 @@ Após análise dos responsáveis, foi decidido utilizar três usuários para as 
 
 <figcaption align='center'>Tabela 1: Perguntas da entrevista (Fonte: Autores, 2022)</figcaption>
 
+<p align="justify">Para a entrevista, será disponibilizado um segundo guia de perguntas (<i>Tabela 2</i>) para o entrevistador com perguntas relacionadas a interação humano-computador. Esse guia de perguntas foi retirado do livro IHC: Barbosa e Silva, 3° edição, 2010, caítulo 11, tabela 11.1.</p>
+
+|Número|Pergunta|Resposta|
+|:----:|:------:|:------:|
+| 1 | O quanto os usuários consideram o apoio computacional adequado para auxiliá-los na realização de suas atividades? |   |
+| 2 | Quais são os pontos fortes e fracos do sistema, na opinião dos usuários? |  |
+| 3 | A tecnologia disponível pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? |  |
+| 4 | O que é possível modificar no sistema interativo para adequá-lo melhor ao ambiente de trabalho? |  |
+| 5 | O usuário consegue operar o sistema? |  |
+| 6 | Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? |  |
+| 7 | Que parte da interface e da interação o deixa insatisfeito? |  |
+| 8 | Ele entende o que significa e para que serve cada elemento de interface? |  |
+| 9 | Ele vai entender o que deve fazer em seguida? |  |
+| 10 | Que problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos? |  |
+| 11 | Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas? |  |
+| 12 | Ele tem acesso a todas as informações oferecidas pelo sistema? |  |
+
+
+<figcaption align='center'>Tabela 2: Perguntas da entrevista relacionadas a IHC (Fonte: Autores, 2022)</figcaption>
+
 
 ## Conclusão
 Por fim, após a realização da entrevista e execução do planejamento que foi demonstrado nesse documento, espera-se que os avaliadores realizem as análises seguindo o método selecionado e assim possam produzir os resultados da avaliação do protótipo de papel.
@@ -124,9 +144,10 @@ Por fim, após a realização da entrevista e execução do planejamento que foi
 
 | Versão |    Data    |             Descrição             |    Autor    |  Revisor   |
 | :----: | :--------: | :-------------------------------: | :---------: | :--------: |
-|  1.0   | 18/12/2022 | Criação da página do protótipo de papel | Philipe | Hellen |
-|  1.1   | 19/12/2022 | Adicionando video protótipo de papel | Philipe | Hellen |
-|  1.2   | 20/12/2022 | Adição dos protótipos de papel | Wildemberg Sales, Philipe de Sousa, Lucas Lopes | Hellen |
-|  1.3   | 10/01/2023 | Mudança de estilo de entrevista | Wildemberg Sales, Philipe Sousa | Hellen | 
-|  1.4   | 12/01/2023 | Correções da verificação | Wildemberg Sales, Philipe Sousa | Hellen |
-|  1.5   | 17/01/2023 | Correções do protótipo | Wildemberg Sales | Hellen |
+|  1.0   | 18/12/2022 | Criação da página do protótipo de papel | Philipe | Hellen Fernanda  |
+|  1.1   | 19/12/2022 | Adicionando video protótipo de papel | Philipe | Hellen Fernanda  |
+|  1.2   | 20/12/2022 | Adição dos protótipos de papel | Wildemberg Sales, Philipe de Sousa, Lucas Lopes | Hellen Fernanda  |
+|  1.3   | 10/01/2023 | Mudança de estilo de entrevista | Wildemberg Sales, Philipe Sousa | Hellen Fernanda  | 
+|  1.4   | 12/01/2023 | Correções da verificação | Wildemberg Sales, Philipe Sousa | Hellen Fernanda  |
+|  1.5   | 17/01/2023 | Correções do protótipo | Wildemberg Sales | Hellen Fernanda  |
+|  1.6  | 18/01/2023 | Adicionado segunda tabela de perguntas | Wildemberg Sales | Hellen Fernanda |
