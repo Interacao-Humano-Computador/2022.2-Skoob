@@ -30,7 +30,7 @@
 
 | ID  |                                        Verificação                                         | Resposta | Foi corrigido? |
 | :-: | :----------------------------------------------------------------------------------------: | :------: | :------------: |
-| 12  |                         Os Princípios Gerais do Projeto que serão utilizados no projeto?                          |    ✖     |       ✔         |
+| 12  |                         Os Princípios Gerais que serão utilizados no projeto?                          |    ✖     |       ✔         |
 | 13  |                  Foi verificado se o topico "Correspondência com as expectativas dos usuários" está presente no site do Skoob?                  |    ✔     |                |
 | 14  |                        Foi verificado se o tópico "Simplicidade nas estruturas das tarefas" está presente no site do Skoob?                          |    ✔     |                |
 | 15  | Foi verificado se o tópico "Equilíbrio entre controle e liberdade do usuário" está presente no site do Skoob? |    ✔     |                |
