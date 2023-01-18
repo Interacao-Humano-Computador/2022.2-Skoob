@@ -18,7 +18,7 @@
 <p align="justify">Juntamente com os envolvidos, deve ser informado a data, horário e local da avaliação de cada um dos avaliados.</p>
 
 ### Problemas encontrados
-<p align="justify">Deve listar os problemas encontrados no protótipo de papel a partir da avaliação. Além disso, informar onde ocorreu, fatores de usabilidade prejudicados, descrição e justificativa do problema e sugestões de correção.</p>
+<p align="justify">Deve listar os problemas encontrados no protótipo de papel a partir da avaliação. Além disso, informar onde ocorreu, fatores de usabilidade prejudicados, descrição e justificativa do problema e sugestões de correção. </br> Os problemas serão descritos através do preenchimento das <a href="https://interacao-humano-computador.github.io/2022.2-Skoob/planejamentoAnalise/nivel2/planejamento-ava-prototipo-papel/">tabelas 1 e 2 do planjemanento da avaliação</a>.</p>
 
 ## Conclusão
 <p align="justify">Os resultados individuais deverão ser consolidados e analisados em conjunto. Nessa atividade, os avaliadores devem buscar recorrências nos resultados de acordo com o método selecionado. As recorrências são relevantes porque, ao expressarem resultados comuns a vários participantes de um grupo, permitem fazer uma distinção entre características representativas do grupo e as idiossincrasias de participantes individuais. Também é importante buscar responder ou justificar as questões que motivaram o estudo.</p>
@@ -31,3 +31,4 @@
 | Versão |    Data    |             Descrição             |    Autor    |  Revisor   |
 | :----: | :--------: | :-------------------------------: | :---------: | :--------: |
 |  1.0   | 15/12/2022 | Criação e desenvolvimento da página | Lucas Lopes, Wildemberg Sales | João Pedro |
+| 1.1 | 18/01/2023 | Detalhando mais o tópico de problemas e ligando ao artefato de planejamento | Wildemberg Sales | João Pedro |
