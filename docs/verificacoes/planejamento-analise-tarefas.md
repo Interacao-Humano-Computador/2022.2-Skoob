@@ -1,4 +1,4 @@
-### [NOME DO ARTEFATO] - Verificação
+### Planejamento da análise de tarefas - Verificação
 
 ### Introdução
 <p align="justify">Este documento tem como objetivo verificar se o artefato de <a href="https://interacao-humano-computador.github.io/2022.2-Skoob/planejamentoAnalise/nivel1/planejamento-analise-tarefas/">Planejamento da análise de tarefas</a> segue os critérios pré-estabelecidos pela disciplina de Interação Humano-Computador, bem como, ajudar os integrantes a identificar os erros e possíveis correções necessárias. Esta etapa divide as verificações em gerais e específicas, em que as gerais se tratam dos critérios que todas as páginas devem seguir. Já as específicas são critérios referentes à somente esse artefato.</p>
