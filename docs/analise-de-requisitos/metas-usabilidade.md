@@ -42,6 +42,6 @@ Para definir as metas que queremos alcançar foram discutidas as seguintes quest
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 03/12/2022 | Inicialização da página de metas | Philipe | -- |
-| 1.1 | 10/12/2022 | Adicionando metas de usabilidade | João Pedro | -- |
+| 1.0 | 03/12/2022 | Inicialização da página de metas | Philipe | Caio Vitor |
+| 1.1 | 10/12/2022 | Adicionando metas de usabilidade | João Pedro | Caio Vitor |
 
