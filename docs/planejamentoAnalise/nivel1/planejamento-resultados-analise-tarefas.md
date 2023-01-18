@@ -17,6 +17,10 @@ Já o metodo de observação consiste em observar o usuário utilizando o sistem
 
 <p align="justify">O grupo deverá definir os participantes das entrevistas. Levando em consideração que os participantes não deve possuir nem um tipo de vinculo com o entrevistador e que os mesmos estejam dentro do escopo de perfis definidos no escopo da avaliação.</p>
 
+## Data, Horário e Local
+
+<p align="justify">O grupo deverá definir com o participante da entrevista o horário, a data, e o local da entrevista de acordo com a disponibilidade do participante. Dito isto deverá ser documentado na hora de criar o artefato de resultado da entrevista todos os dados de data, horário e local que foram definidos e executado com o participante.<p>
+
 ## Abordagem
 
 <p align="justify">Quando encontrado o perfil desejado, é de extrema importância, deixar o participante por dentro de todas as etapas e detalhes. Feito isto, execute um teste piloto a fim de sanar dúvidas que poderão afetar na qualidade e integridade dos dados obtidos.</p>
@@ -100,3 +104,4 @@ Fazer cadastro/login.
 | Versão |    Data    |            Descrição            |      Autor      |  Revisor   |
 | :----: | :--------: | :-----------------------------: | :-------------: | :--------: |
 |  1.0   | 13/12/2022 | Criação da página e finalização | Hellen Fernanda | João Pedro |
+|  1.1   | 17/01/2023 | Correção do planejamento de data, horário e local de entrevista | Wildemberg Sales | João Pedro |
