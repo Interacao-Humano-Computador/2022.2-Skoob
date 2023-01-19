@@ -47,7 +47,7 @@
 
 
 ## Conclusão
-<p align="justify">O artefato contém bastante erro de padrão e, além disso, falta com alguns critérios específicos. As correções foram feitas e as sessões que fazem ausências foram incluídas.</p>
+<p align="justify">No geral não apresentou necessidade de grande mudanças no artefato apresentado. Com isso a verificação foi bastante tranquila.</p>
 
 
 ## Histórico de versão
