@@ -13,7 +13,7 @@
 <p align="justify">A visão geral pode ser omitida do processo já que todos os integrantes tem o conhecimento necessário para avaliar os artefatos individualmente, por serem conteúdos ministrados em sala de aula.</p>
 
 ## Preparação
-Foram designados para os membros do grupo os artefatos que serão inspecionados por cada um. Os Inspetores são responsáveis por elaborarem seus checklists específicos do tópico abordado e realizarem a inspeção antes de passar para o revisor. A divisão das responsabilidades e preparação para a etapa podem ser encontradas em "Planejamento" > ["Cronograma"](../planejamento/cronograma.md) > "Etapa 5 - Análise de Requisitos".
+Foram designados para os membros do grupo os artefatos que serão inspecionados por cada um. Os Inspetores são responsáveis por elaborarem seus checklists específicos do tópico abordado e realizarem a inspeção antes de passar para o revisor. A divisão das responsabilidades e preparação para a etapa podem ser encontradas em "Planejamento" > ["Cronograma"](../planejamento/cronograma.md) > "Etapa 6 - Verificação dos Artefatos".
 
 ---
 

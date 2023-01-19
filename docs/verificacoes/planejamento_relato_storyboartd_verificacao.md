@@ -16,7 +16,7 @@
 | :--: | :-------: | :------: | :------------: |
 | 1 | Contém um texto fazendo introdução ao artefato? | ✔ |  |
 | 2 | Os textos estão ortograficamente corretos? | ✔ |  |
-| 3 | Os textos estão em formato justificado?<br><i>&lt;p align="justify"&gt;&lt;/p&gt;</i> | ✖ |✔  |
+| 3 | Os textos estão em formato justificado?<br><i>&lt;p align="justify"&gt;&lt;/p&gt;</i> | ✖ |  |
 | 4 | As tabelas e/ou figuras contém legenda (título e fonte)? | ✖ | Não há tabelas ou imagens neste artefato |
 | 5 | As legendas das figuras e tabelas estão conforme padrão?<br><i>&lt;figcaption align="center"&gt;&lt;/figcaption&gt;</i> | ✔ |  |
 | 6 | As tabelas e/ou figuras são chamadas dentro dos textos? | ✖ | Não há tabelas ou imagens neste artefato |
@@ -47,9 +47,7 @@
 
 
 ## Conclusão
-<p align="justify">Os erros do artefato em sua grande maioria se resumiam na forma como o artefato foi escrito e sua padronização. Em geral, o planejamento do relato do storyboard esta bom, ressalva as observações propostas neste artefato.</p>
-
-
+<p align="justify">O artefato contém bastante erro de padrão e, além disso, falta com alguns critérios específicos. As correções foram feitas e as sessões que fazem ausências foram incluídas.</p>
 
 
 ## Histórico de versão
