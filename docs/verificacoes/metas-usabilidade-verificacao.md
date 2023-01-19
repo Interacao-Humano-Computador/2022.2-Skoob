@@ -63,8 +63,7 @@
 
 
 ## Conclusão
-<p align="justify">O artefato contém bastante erro de padrão e, além disso, falta com alguns critérios específicos. As correções foram feitas e as sessões que fazem ausências foram incluídas.</p>
-
+<p align="justify">No geral o documento apresentou poucos erros devido também a sua simplicidade, aos checklist que não foram cumpridos foi por causa da própria metodologia abordada já que não apresentou nenhuma tabela ou figuras para a demonstração das metas de usabilidade que o projeto almeja.</p>
 
 
 
