@@ -111,20 +111,18 @@ Após análise dos responsáveis, foi decidido utilizar três usuários para as 
 
 <p align="justify">Para a entrevista, será disponibilizado um segundo guia de perguntas (<i>Tabela 2</i>) para o entrevistador com perguntas relacionadas a interação humano-computador. Esse guia de perguntas foi retirado do livro IHC: Barbosa e Silva, 3° edição, 2010, caítulo 11, tabela 11.1.</p>
 
-|Número|Pergunta|Resposta|
-|:----:|:------:|:------:|
-| 1 | O quanto os usuários consideram o apoio computacional adequado para auxiliá-los na realização de suas atividades? |   |
-| 2 | Quais são os pontos fortes e fracos do sistema, na opinião dos usuários? |  |
-| 3 | A tecnologia disponível pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? |  |
-| 4 | O que é possível modificar no sistema interativo para adequá-lo melhor ao ambiente de trabalho? |  |
-| 5 | O usuário consegue operar o sistema? |  |
-| 6 | Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? |  |
-| 7 | Que parte da interface e da interação o deixa insatisfeito? |  |
-| 8 | Ele entende o que significa e para que serve cada elemento de interface? |  |
-| 9 | Ele vai entender o que deve fazer em seguida? |  |
-| 10 | Que problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos? |  |
-| 11 | Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas? |  |
-| 12 | Ele tem acesso a todas as informações oferecidas pelo sistema? |  |
+|Número|Pergunta|
+|:----:|:------:|
+| 1 | Quais são os pontos fortes e fracos do sistema, na opinião dos usuários? |
+| 2 | A tecnologia disponível pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? |
+| 3 | O que é possível modificar no sistema interativo para adequá-lo melhor ao ambiente de trabalho? |
+| 4 | O usuário consegue operar o sistema? | 
+| 5 | Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? | 
+| 6 | Que parte da interface e da interação o deixa insatisfeito? | 
+| 7 | Ele entende o que significa e para que serve cada elemento de interface? |  
+| 8 | Ele vai entender o que deve fazer em seguida? |  
+| 9 | Que problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos? |  
+| 10 | Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas? |  
 
 
 <figcaption align='center'>Tabela 2: Perguntas da entrevista relacionadas a IHC (Fonte: Autores, 2022)</figcaption>
