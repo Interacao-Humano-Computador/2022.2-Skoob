@@ -68,6 +68,24 @@ O acrônimo DECIDE pode ser expandido para os seguintes tópicos:
 | 6 | Alguma sugestão de melhoria para a realização das tarefas? | Pergunta aberta |
 <figcaption align='center'>Tabela 1: Perguntas da entrevista (Fonte: Autores, 2022)</figcaption>
 
+<p align="justify">Para a entrevista, será disponibilizado um segundo guia de perguntas (<i>Tabela 2</i>) para o entrevistador com perguntas relacionadas a interação humano-computador. Esse guia de perguntas foi retirado do livro IHC: Barbosa e Silva, 3° edição, 2010, caítulo 11, tabela 11.1.</p>
+
+|Número|Pergunta|
+|:----:|:------:|
+| 1 | Quais são os pontos fortes e fracos do sistema, na opinião dos usuários? |
+| 2 | A tecnologia disponível pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? |
+| 3 | O que é possível modificar no sistema interativo para adequá-lo melhor ao ambiente de trabalho? |
+| 4 | O usuário consegue operar o sistema? | 
+| 5 | Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? | 
+| 6 | Que parte da interface e da interação o deixa insatisfeito? | 
+| 7 | Ele entende o que significa e para que serve cada elemento de interface? |  
+| 8 | Ele vai entender o que deve fazer em seguida? |  
+| 9 | Que problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos? |  
+| 10 | Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas? |  
+
+
+<figcaption align='center'>Tabela 2: Perguntas da entrevista relacionadas a IHC (Fonte: Autores, 2022)</figcaption>
+
 
 ### Protótipo de Alta Fidelidade
 <p align="justify">O desenvolvimento do Protótipo de Alta Fidelidade levou em consideração os aprendizados e  resultados da avaliação da prototipação de baixa fidelidade como também a prototipação no papel.</p>
@@ -85,3 +103,4 @@ Após a realização da entrevista e execução do planejamento que foi demonstr
 | :----: | :--------: | :-------------------------------: | :---------: | :--------: |
 |  1.0   | 17/12/2022 | Criação e desenvolvimento da página | João Pedro, Caio Vitor | Wildemberg  |
 |  1.1   | 13/01/2023 | Correções da verificação | Lucas Lopes | Wildemberg  |
+|  1.2  | 22/01/2023 | Adicionando segunda tabela de perguntas | João Pedro | Wildemberg Sales |
