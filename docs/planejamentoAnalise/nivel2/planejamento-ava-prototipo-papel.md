@@ -109,7 +109,7 @@ Após análise dos responsáveis, foi decidido utilizar três usuários para as 
 
 <figcaption align='center'>Tabela 1: Perguntas da entrevista (Fonte: Autores, 2022)</figcaption>
 
-<p align="justify">Para a entrevista, será disponibilizado um segundo guia de perguntas (<i>Tabela 2</i>) para o entrevistador com perguntas relacionadas a interação humano-computador. Esse guia de perguntas foi retirado do livro IHC: Barbosa e Silva, 3° edição, 2010, caítulo 11, tabela 11.1.</p>
+<p align="justify">Para a entrevista, será disponibilizado um segundo guia de perguntas (<i>Tabela 2</i>) para o entrevistador com perguntas relacionadas a interação humano-computador. Esse guia de perguntas foi retirado do livro IHC: Barbosa e Silva, 3° edição, 2010, caítulo 11, tabela 11.1, desenvolvido por Sharp et al., 2007.</p>
 
 |Número|Pergunta|
 |:----:|:------:|
