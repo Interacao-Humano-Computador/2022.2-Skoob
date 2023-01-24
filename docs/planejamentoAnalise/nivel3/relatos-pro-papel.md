@@ -92,7 +92,7 @@ Abaixo, nas <i>Figura 1 </i>, apresentamos todas as telas feitas no protótipo d
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hv3os__99IU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Resultado
-<p align="justify">De acordo com o entrevistado, ele sentiu dificuldades em entender o menu do livro em relação a tarefa de avaliar o livro com estrelas, mas ainda assim disse que o protótipo de mostrou eficaz e que não tem sugestões de melhoria ou mudanças a se fazerem.</p>
+<p align="justify">De acordo com o entrevistado, ele sentiu dificuldades em entender o menu do livro em relação a tarefa de avaliar o livro com estrelas, mas ainda assim disse que o protótipo de mostrou eficaz e que não tem sugestões de melhoria ou mudanças a se fazerem. <br> Foi feito um arquivo com a análise das respostas dos usuários e pela observação de tais, nele está explícito as metas de usabilidade e um conjunto de tabelas que explicam melhor o que foi avaliado de cada um deles. Segue o link para acessar o arquivo: <a href="https://docs.google.com/document/d/1ynshIp3w_AVx2zpHuadem9GzslUjlIvYBi75_jY6blw/edit?usp=sharing">LINK</a></p>
 
 ## 5. Problemas encontrados
 
@@ -114,8 +114,9 @@ Portanto após a análide das entrevistas, pode-se concluir que o protótipo de 
 
 | Versão |    Data    |             Descrição             |    Autor    |  Revisor   |
 | :----: | :--------: | :-------------------------------: | :---------: | :--------: |
-|  1.0   | 09/01/2023 | Criação e desenvolvimento da página | Philipe, Wildemberg Sales | Hellen |
-|  1.1   | 09/01/2023 | Adicão de tabelas  | Philipe, Wildemberg Sales | Hellen |
-|  1.2   | 11/01/2023 | Adicão de entrevistas  | Philipe, Wildemberg Sales | Hellen |
-| 1.3 | 17/01/2023 | Atualizando protótipo | Wildemberg Sales | Hellen |
+|  1.0   | 09/01/2023 | Criação e desenvolvimento da página | Philipe, Wildemberg Sales | Hellen Fernanda |
+|  1.1   | 09/01/2023 | Adicão de tabelas  | Philipe, Wildemberg Sales | Hellen Fernanda |
+|  1.2   | 11/01/2023 | Adicão de entrevistas  | Philipe, Wildemberg Sales | Hellen Fernanda |
+| 1.3 | 17/01/2023 | Atualizando protótipo | Wildemberg Sales | Hellen Fernanda |
+| 1.4 | 24/01/2023 | Adicionando o link para o arquivo de respostas aos testes | Wildemberg Sales, Philipe Sousa | Hellen Fernanda
 
