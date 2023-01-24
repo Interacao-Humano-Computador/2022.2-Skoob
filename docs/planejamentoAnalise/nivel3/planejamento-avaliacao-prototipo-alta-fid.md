@@ -83,9 +83,9 @@ O acrônimo DECIDE pode ser expandido para os seguintes tópicos:
 | 9 | Que problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos? |  
 | 10 | Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas? |  
 
-
 <figcaption align='center'>Tabela 2: Perguntas da entrevista relacionadas a IHC (Fonte: Autores, 2022)</figcaption>
 
+Pode-se ressaltar que para a análise das entrevistas, os responsáveis deverão criar os relatos analisando questões como tempo para conclusão da tarefa, número de erros cometidos, número de acessos ao sistema de ajuda, número de usuários que não conseguiram realizar a tarefa, número de vezes que os usuários se desviaram do caminho mais eficiente, dentre as outras perguntas especificadas nas tabalas anteriores.
 
 ### Protótipo de Alta Fidelidade
 <p align="justify">O desenvolvimento do Protótipo de Alta Fidelidade levou em consideração os aprendizados e  resultados da avaliação da prototipação de baixa fidelidade como também a prototipação no papel.</p>
@@ -104,3 +104,4 @@ Após a realização da entrevista e execução do planejamento que foi demonstr
 |  1.0   | 17/12/2022 | Criação e desenvolvimento da página | João Pedro, Caio Vitor | Wildemberg  |
 |  1.1   | 13/01/2023 | Correções da verificação | Lucas Lopes | Wildemberg  |
 |  1.2  | 22/01/2023 | Adicionando segunda tabela de perguntas | João Pedro | Wildemberg Sales |
+|  1.3  | 24/01/2023 | Adiconado especificaçõe do que os entrevistadores devem analisar | Wildemberg Sales | Lucas Lopes |
