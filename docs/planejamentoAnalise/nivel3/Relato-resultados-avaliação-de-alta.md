@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-<p align="justify">O protótipo de alta fidelidade é uma ferramenta que permite aos integrantes de um projeto analisar as alterações realizadas em um nível técnico avançado antes que o projeto esteja de fato concluído. Avaliando assim se as alterações realizadas foram oque já eram esperadas já que tendo essa noção das alterações será mais objetivo e conclusivo a alteração no produto final. Os protótipos são ferramentas que possibilitam que os envolvidos no projeto interajam com um produto imaginado visando a adquirir alguma experiência de como utilizá-lo em um ambiente real. Nessa etapa do projeto será utilizado protótipo de alta fidelidade, que se assemelha bastante ao produto final em termos de aparência visual, interatividade e navegação.</p>
+<p align="justify">O protótipo de alta fidelidade é uma ferramenta que permite aos integrantes de um projeto analisar as alterações realizadas em um nível técnico avançado antes que o projeto esteja de fato concluído. Avaliando assim se as alterações realizadas foram o que eram esperadas, já que tendo essa noção das alterações será mais objetivo e conclusivo a alteração no produto final. Os protótipos são ferramentas que possibilitam que os envolvidos no projeto interajam com um produto imaginado visando a adquirir alguma experiência de como utilizá-lo em um ambiente real. Nessa etapa do projeto será utilizado protótipo de alta fidelidade, que se assemelha bastante ao produto final em termos de aparência visual, interatividade e navegação.</p>
 
 ## 2. Objetivo 
 
@@ -96,7 +96,7 @@ Abaixo, nas <i>Figura 1 </i>, apresentamos todas as telas feitas no Protótipo d
 ### Resultado
 <p align="justify">Segundo o relato do entrevistado, o protótipo de alta fidelidade apresentou-se de qualidade satisfatória e não houve dificuldade na realização das tarefas propostas. Contudo, o usuário sugeriu a implementação de uma funcionalidade adicional, uma opção de voltar para a tela anterior após avaliar um livro.</p>
 
-### 6.2 Teste de usabilidade 3 
+### 6.3 Teste de usabilidade 3 
 
 <p align="justify">Na <i>Tabela 5</i>, contém as informações sobre o segundo teste.</p>
 
@@ -105,20 +105,23 @@ Abaixo, nas <i>Figura 1 </i>, apresentamos todas as telas feitas no Protótipo d
 |  Sidney Fernando  | João Pedro | Wildemberg Sales |24/01/2023 | 21:10 |Remoto |
 <figcaption align='center'> Tabela 4 - Entrevista 3 (Fonte: Autores, 2022)</figcaption>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aP3V2oNtIgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div style="text-align:center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/aP3V2oNtIgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ### Resultado
+
 <p align="justify">Segundo o relato do entrevistador, o usuário não encontrou nenhum problema para realizar as tarefas, concluiu todas em um curto período de tempo e sem dificuldades, e não há sugestões de melhorias para o protótipo de alta fidelidade.</p>
 
 ## 7. Problemas encontrados
 
-Após a análise das entrevistas e os relatos dos resultados, o sistema se mostrou eficaz em sua utilização, não apresentou defeitos em suas funcionalidades e todos os usuários conseguiram executar as tarefas da <i>Tabela 1</i> com bastante facilidade e com ótimo rendimento de tempo. <br> Segue o link para o arquivo de respostas a <a href="https://interacao-humano-computador.github.io/2022.2-Skoob/planejamentoAnalise/nivel3/planejamento-avaliacao-prototipo-alta-fid/"><i>Tabela 2</i> do planejamento da avaliação do protótipo de alta fidelidade</a>, que engloba uma análise de usabilidade do sistema na perspectiva dos entrevistadores em relação a como os usuários utilizaram o sistema: <a href="https://docs.google.com/document/d/1NKfSKlaskmcfNvDr2tsxi4XnL_rqAoP24mIcXQKJZIE/edit?usp=sharing">LINK</a>
+<p align="justify">Após a análise das entrevistas e os relatos dos resultados, o sistema se mostrou eficaz em sua utilização, não apresentou defeitos em suas funcionalidades e todos os usuários conseguiram executar as tarefas da <i>Tabela 1</i> com bastante facilidade e com ótimo rendimento de tempo. <br> Aqui está o link para o arquivo que contém as respostas da <a href="https://interacao-humano-computador.github.io/2022.2-Skoob/planejamentoAnalise/nivel3/planejamento-avaliacao-prototipo-alta-fid/#perguntas"><i>Tabela 2</i></a> referente ao planejamento da avaliação do protótipo de alta fidelidade, que engloba uma análise de usabilidade do sistema na perspectiva dos entrevistadores em relação a como os usuários utilizaram o sistema:</p> <a href="https://docs.google.com/document/d/1NKfSKlaskmcfNvDr2tsxi4XnL_rqAoP24mIcXQKJZIE/edit?usp=sharing">LINK</a>
 
 
 ## Conclusão
 
-Apesar de haver algumas falhas de Design no próprio sistema como as cores e a funcionalidade de voltar.
-Podemos concluir com exatidão que o prototípo de alta fidelidade conclui seu objetivo, Concluindo as tarefas listadas com sucesso pelos usuários.
+<p align="justify">Apesar de haver algumas falhas de Design no próprio sistema como as cores e a funcionalidade de voltar.
+Podemos concluir com exatidão que o prototípo de alta fidelidade conclui seu objetivo, Concluindo as tarefas listadas com sucesso pelos usuários.</p>
 
 ## Referências
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
@@ -130,7 +133,7 @@ Podemos concluir com exatidão que o prototípo de alta fidelidade conclui seu o
 | Versão |    Data    |             Descrição             |    Autor    |  Revisor   |
 | :----: | :--------: | :-------------------------------: | :---------: | :--------: |
 |  1.0   | 23/12/2022 | Criação da página | Philipe | Philipe, Wildemberg Sales|
-|  1.2   | 11/01/2023 | Adicão de entrevistas e teste piloto   | Philipe, Caio | Hellen Fernanda |
+|  1.2   | 24/01/2023 | Adicão de entrevistas e teste piloto   | Philipe, Caio | Hellen Fernanda |
 |  1.3  | 24/01/2023 | Adicionando terceira entrevista, organizando as tarefas do documento, criando conclusão de problemas do protótipo | João Pedro, Wildemberg Sales, Lucas Lopes | Caio Vitor | 
 |  1.4  | 25/01/2023 | Adicionando hiperlink para o arquivo | Hellen Fernanda | Wildemberg Sales |
 |  1.5  | 25/01/2023 | Adicionando conclusão | Caio Vitor| Wildemberg Sales |
