@@ -62,7 +62,7 @@ Abaixo, nas <i>Figura 1 </i>, apresentamos todas as telas feitas no protótipo d
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LZOiOIQZa3c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Resultado
+#### Resultado
 <p align="justify">De acordo com o entrevistado, o protótipo de baixa fidelidade está de boa qualidade, não apresentou dificuldades em executar as tarefas estabelecidas, e não tem opniões ou sugestões sobre mudanças.</p>
 
 ### 4.2 Teste de usabilidade 2 
@@ -76,7 +76,7 @@ Abaixo, nas <i>Figura 1 </i>, apresentamos todas as telas feitas no protótipo d
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KUDNRKJ3Y98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Resultado
+#### Resultado
 <p align="justify">De acordo com o entrevistado, ele sentiu dificuldades de entender o local de favoritar um livro, mas não possui sugestões de melhoria e ou mudanças no protótipo.</p>
 
 
@@ -91,7 +91,7 @@ Abaixo, nas <i>Figura 1 </i>, apresentamos todas as telas feitas no protótipo d
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hv3os__99IU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Resultado
+#### Resultado
 <p align="justify">De acordo com o entrevistado, ele sentiu dificuldades em entender o menu do livro em relação a tarefa de avaliar o livro com estrelas, mas ainda assim disse que o protótipo de mostrou eficaz e que não tem sugestões de melhoria ou mudanças a se fazerem. <br> Foi feito um arquivo com a análise das respostas dos usuários e pela observação de tais, nele está explícito as metas de usabilidade e um conjunto de tabelas que explicam melhor o que foi avaliado de cada um deles. Segue o link para acessar o arquivo: <a href="https://docs.google.com/document/d/1ynshIp3w_AVx2zpHuadem9GzslUjlIvYBi75_jY6blw/edit?usp=sharing">LINK</a></p>
 
 ## 5. Problemas encontrados

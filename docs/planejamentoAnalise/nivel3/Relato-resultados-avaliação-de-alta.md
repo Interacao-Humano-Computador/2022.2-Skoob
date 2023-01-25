@@ -76,7 +76,7 @@ Abaixo, nas <i>Figura 1 </i>, apresentamos todas as telas feitas no Protótipo d
 </div>
 
 
-### Resultado
+#### Resultado
 <p align="justify">De acordo com o entrevistado, o protótipo de alta fidelidade está de boa qualidade, não apresentou dificuldades em executar as tarefas estabelecidas. Entretanto o usuário relatou dificuldade visual pela interface ter cores muito sólidas.</p>
 
 
@@ -93,7 +93,7 @@ Abaixo, nas <i>Figura 1 </i>, apresentamos todas as telas feitas no Protótipo d
     <iframe width="560" height="315" src="https://www.youtube.com/embed/-mKqZ67SnJM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-### Resultado
+#### Resultado
 <p align="justify">Segundo o relato do entrevistado, o protótipo de alta fidelidade apresentou-se de qualidade satisfatória e não houve dificuldade na realização das tarefas propostas. Contudo, o usuário sugeriu a implementação de uma funcionalidade adicional, uma opção de voltar para a tela anterior após avaliar um livro.</p>
 
 ### 6.3 Teste de usabilidade 3 
@@ -109,7 +109,7 @@ Abaixo, nas <i>Figura 1 </i>, apresentamos todas as telas feitas no Protótipo d
     <iframe width="560" height="315" src="https://www.youtube.com/embed/aP3V2oNtIgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-### Resultado
+#### Resultado
 
 <p align="justify">Segundo o relato do entrevistador, o usuário não encontrou nenhum problema para realizar as tarefas, concluiu todas em um curto período de tempo e sem dificuldades, e não há sugestões de melhorias para o protótipo de alta fidelidade.</p>
 
