@@ -117,6 +117,8 @@ Após a análise das entrevistas e os relatos dos resultados, o sistema se mostr
 
 ## Conclusão
 
+Apesar de haver algumas falhas de Design no próprio sistema como as cores e a funcionalidade de voltar.
+Podemos concluir com exatidão que o prototípo de alta fidelidade conclui seu objetivo, Concluindo as tarefas listadas com sucesso pelos usuários.
 
 ## Referências
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
@@ -131,3 +133,4 @@ Após a análise das entrevistas e os relatos dos resultados, o sistema se mostr
 |  1.2   | 11/01/2023 | Adicão de entrevistas e teste piloto   | Philipe, Caio | Hellen Fernanda |
 |  1.3  | 24/01/2023 | Adicionando terceira entrevista, organizando as tarefas do documento, criando conclusão de problemas do protótipo | João Pedro, Wildemberg Sales, Lucas Lopes | Caio Vitor | 
 |  1.4  | 25/01/2023 | Adicionando hiperlink para o arquivo | Hellen Fernanda | Wildemberg Sales |
+|  1.5  | 25/01/2023 | Adicionando conclusão | Caio Vitor| Wildemberg Sales |
