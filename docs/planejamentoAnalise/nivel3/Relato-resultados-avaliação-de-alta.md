@@ -4,10 +4,14 @@
 
 <p align="justify">O protótipo de alta fidelidade é uma ferramenta que permite aos integrantes de um projeto analisar as alterações realizadas em um nível técnico avançado antes que o projeto esteja de fato concluído. Avaliando assim se as alterações realizadas foram oque já eram esperadas já que tendo essa noção das alterações será mais objetivo e conclusivo a alteração no produto final. Os protótipos são ferramentas que possibilitam que os envolvidos no projeto interajam com um produto imaginado visando a adquirir alguma experiência de como utilizá-lo em um ambiente real. Nessa etapa do projeto será utilizado protótipo de alta fidelidade, que se assemelha bastante ao produto final em termos de aparência visual, interatividade e navegação.</p>
 
-## 2. Metodologia 
+## 2. Objetivo 
+
+<p align="justify">O objetivo principal desta avaliação é identificar problemas de usabilidade e melhorar a qualidade da interface. Isso pode incluir problemas com a navegação, compreensão das interações esperadas, organização da informação e apresentação visual. Como foi descrito no documento de <a href="https://interacao-humano-computador.github.io/2022.2-Skoob/planejamentoAnalise/nivel3/planejamento-relato-prototipo-alta-fid/" target="_blank">Planejamento</a> foi utilizado a técnica de entrevista. </p>
+
+## 3. Metodologia 
 
 <p  align="justify">Teste de usabilidade de Protótipo de Alta Fidelidade é uma técnica de avaliação de usabilidade, onde o usuário interage com o Protótipo de Alta Fidelidade enquanto o designer ou o pesquisador observa e registra as suas dificuldades, comentários e questionamentos. É uma forma eficaz e rápida de identificar problemas de usabilidade antes de investir tempo e dinheiro na implementação de uma interface.</p>
-<p align="justify">O objetivo principal desta avaliação é identificar problemas de usabilidade e melhorar a qualidade da interface. Isso pode incluir problemas com a navegação, compreensão das interações esperadas, organização da informação e apresentação visual. Como foi descrito no documento de <a href="https://interacao-humano-computador.github.io/2022.2-Skoob/planejamentoAnalise/nivel3/planejamento-relato-prototipo-alta-fid/" target="_blank">Planejamento</a> foi utilizado a técnica de entrevista. A entrevista ocorreu de forma presencialmente em um ambiente controlado para que a coleta de dados seja mais rica de informações, nela foi apresentado o projeto para o usuário e disponibilizado para o participante o protótipo de papel, juntamente com a leitura do termo de consentimento.</p>
+<p align="justify">A entrevista ocorreu de forma remota, nela foi apresentado o projeto para o usuário e disponibilizado para o participante o protótipo de alta fidelidade, juntamente com a leitura do termo de consentimento.</p>
 
 <p align="justify">Na <i>Tabela 1</i> segue a listagem das tarefas que foram realizadas pelos participante, as tarefas estão descritas no artefato de <a href="https://interacao-humano-computador.github.io/2022.2-Skoob/analise-de-requisitos/analise-de-tarefas-concorrentes/" target ="_blank">Analise de tarefas</a>. Após ter sido realizadas as tarefas pelo participante, o entrevistador fez algumas perguntas sobre a experiência que o participante teve. Na <i>Tabela 2</i> encontram-se as perguntas feitas na entrevista.</p>
 <figcaption align='center'>Tabela 1 - Tarefas realizadas </figcaption>
@@ -33,28 +37,60 @@
 | 6 | Alguma sugestão de melhoria para a realização das tarefas? | Pergunta aberta |
 <figcaption align='center'>Tabela 1: Perguntas da entrevista (Fonte: Autores, 2022)</figcaption>
 
-## 3.Protótipo de Alta Fidelidade
+## 4.Protótipo de Alta Fidelidade
 Abaixo, nas <i>Figura 1 </i>, apresentamos todas as telas feitas no Protótipo de Alta Fidelidade. Ele representa a navegação necessária para realizar as tarefas descritas na <i>Tabela 1.</i>
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fb6my9G5oDeIav79J8XkE0I%2FskoobAltaFidelidade%3Fnode-id%3D0%253A1%26t%3DKzPAX82yGBG1iv4y-1" allowfullscreen></iframe>
 
-## 4. Aplicação dos Teste de Usabilidade
 
-### 4.1 Teste de usabilidade 1 
+## 5. Teste Piloto
+
+<p align="justify">O objetivo do teste piloto é avaliar a eficiência do planejamento da avaliação e determinar se os dados coletados são suficientes para responder às questões e objetivos estabelecidos. A equipe conduziu uma simulação da aplicação seguindo a metodologia previamente estabelecida. Durante o teste, um membro da equipe se colocou no papel de usuário, enquanto outro o guiou através do processo. O vídeo a seguir ilustra como o teste piloto foi realizado.</p>
+
+
+<div style="text-align:center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/1EHdIjRY_Tw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+## 6. Aplicação dos Teste de Usabilidade
+
+<p align="justify">De acordo com Krug(2006), com três ou quatro usuários a maioria dos problemas é detectado, tornando possível fazer a análise no mesmo dia. Baseado nessa afirmação, realizamos o teste com três participantes.</p>
+
+### 6.1 Teste de usabilidade 1 
 
 <p align="justify">Na <i>Tabela 3</i>, contém as informações sobre o primeiro teste.</p>
 
-| Participante |    Avaliador   |        Data           |    Horário     |  Local  |
-| :----: | :--------: | :-------------------------------: | :---------: | :--------: |
-|  Wagner  | Caio Vitor  | 24/01/2023 | 21:00 |Remoto |
+| Participante |    Avaliador   | Integrante auxiliar |        Data           |    Horário     |  Local  |
+| :----: | :--------: |:-----:| :-------------------------------: | :---------: | :--------: |
+|  Wagner  | Caio Vitor  | Wildemberg Sales | 24/01/2023 | 21:00 |Remoto |
 <figcaption align='center'> Tabela 3 - Entrevista 1 (Fonte: Autores, 2022)</figcaption>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZfJTEVlcxhI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div style="text-align:center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ZfJTEVlcxhI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 
 ### Resultado
-<p align="justify">De acordo com o entrevistado, o protótipo de baixa fidelidade está de boa qualidade, não apresentou dificuldades em executar as tarefas estabelecidas,Entretanto o usuário relatou dificuldade visual pela interface ter cores muit sólidas.</p>
+<p align="justify">De acordo com o entrevistado, o protótipo de alta fidelidade está de boa qualidade, não apresentou dificuldades em executar as tarefas estabelecidas,Entretanto o usuário relatou dificuldade visual pela interface ter cores muito sólidas.</p>
 
 
-## 5. Problemas encontrados
+### 6.2 Teste de usabilidade 2 
+
+<p align="justify">Na <i>Tabela 4</i>, contém as informações sobre o segundo teste.</p>
+
+| Participante |    Avaliador   | Integrante auxiliar |        Data           |    Horário     |  Local  |
+| :----: | :--------: |:-----:| :-------------------------------: | :---------: | :--------: |
+|  Paulo  | Wildemberg Sales | Philipe |24/01/2023 | 20:30 |Remoto |
+<figcaption align='center'> Tabela 4 - Entrevista 2 (Fonte: Autores, 2022)</figcaption>
+
+<div style="text-align:center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/-mKqZ67SnJM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+### Resultado
+<p align="justify">Segundo o relato do entrevistado, o protótipo de alta fidelidade apresentou-se de qualidade satisfatória e não houve dificuldade na realização das tarefas propostas. Contudo, o usuário sugeriu a implementação de uma funcionalidade adicional, uma opção de voltar para a tela anterior após avaliar um livro.</p>
+
+
+## 7. Problemas encontrados
 
 
 
@@ -66,22 +102,10 @@ Abaixo, nas <i>Figura 1 </i>, apresentamos todas as telas feitas no Protótipo d
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
 
 > KRUG, Steve. Não Me Faça Pensar. Rio de Janeiro: Alta Books, 2006
-## Histórico de versão
-
-| Versão |    Data    |             Descrição             |    Autor    |  Revisor   |
-| :----: | :--------: | :-------------------------------: | :---------: | :--------: |
-|  1.0   | 09/01/2023 | Criação e desenvolvimento da página | Philipe, Wildemberg Sales | Hellen Fernanda |
-|  1.1   | 09/01/2023 | Adicão de tabelas  | Philipe, Wildemberg Sales | Hellen Fernanda |
-|  1.2   | 11/01/2023 | Adicão de entrevistas  | Philipe, Wildemberg Sales | Hellen Fernanda |
-| 1.3 | 17/01/2023 | Atualizando protótipo | Wildemberg Sales | Hellen Fernanda |
-| 1.4 | 24/01/2023 | Adicionando o link para o arquivo de respostas aos testes | Wildemberg Sales, Philipe Sousa | Hellen Fernanda
-
-
-## Referências
-> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
 
 ## Histórico de versão
 
 | Versão |    Data    |             Descrição             |    Autor    |  Revisor   |
 | :----: | :--------: | :-------------------------------: | :---------: | :--------: |
 |  1.0   | 23/12/2022 | Criação da página | Philipe | Philipe, Wildemberg Sales|
+|  1.2   | 11/01/2023 | Adicão de entrevistas e teste piloto   | Philipe, Caio | Hellen Fernanda |
