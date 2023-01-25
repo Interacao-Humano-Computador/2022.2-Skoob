@@ -14,18 +14,18 @@
 <p align="justify">A entrevista ocorreu de forma remota, nela foi apresentado o projeto para o usuário e disponibilizado para o participante o protótipo de alta fidelidade, juntamente com a leitura do termo de consentimento.</p>
 
 <p align="justify">Na <i>Tabela 1</i> segue a listagem das tarefas que foram realizadas pelos participante, as tarefas estão descritas no artefato de <a href="https://interacao-humano-computador.github.io/2022.2-Skoob/analise-de-requisitos/analise-de-tarefas-concorrentes/" target ="_blank">Analise de tarefas</a>. Após ter sido realizadas as tarefas pelo participante, o entrevistador fez algumas perguntas sobre a experiência que o participante teve. Na <i>Tabela 2</i> encontram-se as perguntas feitas na entrevista.</p>
-<figcaption align='center'>Tabela 1 - Tarefas realizadas </figcaption>
 
 ## Tarefas
-- [Pesquisar um livro](https://interacao-humano-computador.github.io/2022.2-Skoob/analise-de-requisitos/analise-de-tarefas-concorrentes/)
-- [Responder se já leu o livro selecionado](https://interacao-humano-computador.github.io/2022.2-Skoob/analise-de-requisitos/analise-de-tarefas-concorrentes/)
-- [Salvar um livro como interesse](https://interacao-humano-computador.github.io/2022.2-Skoob/analise-de-requisitos/analise-de-tarefas-concorrentes/)
-- [Avaliar um livro](https://interacao-humano-computador.github.io/2022.2-Skoob/analise-de-requisitos/analise-de-tarefas-concorrentes/)
+
+| Tarefas |
+|:--:|
+|Pesquiar um livro|
+|Avaliar um livro|
+|Favoritar um livro|
+<figcaption align='center'>Tabela 1 - Tarefas realizadas </figcaption>
 
 
-<figcaption align='center'>Tabela 2 - Perguntas da entrevista </figcaption>
-
-<p align="justify">Para que a entrevista seja objetiva,será disponibilizado um guia de perguntas(<i>Tabela 1</i>) para o entrevistador. Vale a pena ressaltar que esse guia de perguntas é apenas uma sugestão e o entrevistador pode adicionar mais perguntas para agregar à entrevista.</p>
+<p align="justify">Para que a entrevista seja objetiva,será disponibilizado um guia de perguntas(<i>Tabela 2</i>) para o entrevistador. Vale a pena ressaltar que esse guia de perguntas é apenas uma sugestão e o entrevistador pode adicionar mais perguntas para agregar à entrevista.</p>
 
 | Número | Pergunta | Opções de resposta |
 |--|--|--|
@@ -35,7 +35,8 @@
 | 4 | Em uma escala de 1 a 5, onde 1 equivale a muito fácil e 5 a muito difícil, você acha que as funcionalidades do sistema estão de fácil compreensão para sua utilização? | 1 a 5 |
 | 5 | Você considera que o sistema se mostrou eficaz? | Sim/Não |
 | 6 | Alguma sugestão de melhoria para a realização das tarefas? | Pergunta aberta |
-<figcaption align='center'>Tabela 1: Perguntas da entrevista (Fonte: Autores, 2022)</figcaption>
+
+<figcaption align='center'>Tabela 2 - Perguntas da entrevista </figcaption>
 
 ## 4.Protótipo de Alta Fidelidade
 Abaixo, nas <i>Figura 1 </i>, apresentamos todas as telas feitas no Protótipo de Alta Fidelidade. Ele representa a navegação necessária para realizar as tarefas descritas na <i>Tabela 1.</i>
@@ -61,7 +62,7 @@ Abaixo, nas <i>Figura 1 </i>, apresentamos todas as telas feitas no Protótipo d
 
 | Participante |    Avaliador   | Integrante auxiliar |        Data           |    Horário     |  Local  |
 | :----: | :--------: |:-----:| :-------------------------------: | :---------: | :--------: |
-|  Wagner  | Caio Vitor  | Wildemberg Sales | 24/01/2023 | 21:00 |Remoto |
+|  Walter Gabriel  | Caio Vitor  | Wildemberg Sales | 24/01/2023 | 21:00 |Remoto |
 <figcaption align='center'> Tabela 3 - Entrevista 1 (Fonte: Autores, 2022)</figcaption>
 
 <div style="text-align:center;">
@@ -70,7 +71,7 @@ Abaixo, nas <i>Figura 1 </i>, apresentamos todas as telas feitas no Protótipo d
 
 
 ### Resultado
-<p align="justify">De acordo com o entrevistado, o protótipo de alta fidelidade está de boa qualidade, não apresentou dificuldades em executar as tarefas estabelecidas,Entretanto o usuário relatou dificuldade visual pela interface ter cores muito sólidas.</p>
+<p align="justify">De acordo com o entrevistado, o protótipo de alta fidelidade está de boa qualidade, não apresentou dificuldades em executar as tarefas estabelecidas. Entretanto o usuário relatou dificuldade visual pela interface ter cores muito sólidas.</p>
 
 
 ### 6.2 Teste de usabilidade 2 
@@ -79,7 +80,7 @@ Abaixo, nas <i>Figura 1 </i>, apresentamos todas as telas feitas no Protótipo d
 
 | Participante |    Avaliador   | Integrante auxiliar |        Data           |    Horário     |  Local  |
 | :----: | :--------: |:-----:| :-------------------------------: | :---------: | :--------: |
-|  Paulo  | Wildemberg Sales | Philipe |24/01/2023 | 20:30 |Remoto |
+|  Paulo Victor  | Wildemberg Sales | Philipe |24/01/2023 | 20:30 |Remoto |
 <figcaption align='center'> Tabela 4 - Entrevista 2 (Fonte: Autores, 2022)</figcaption>
 
 <div style="text-align:center;">
@@ -89,10 +90,23 @@ Abaixo, nas <i>Figura 1 </i>, apresentamos todas as telas feitas no Protótipo d
 ### Resultado
 <p align="justify">Segundo o relato do entrevistado, o protótipo de alta fidelidade apresentou-se de qualidade satisfatória e não houve dificuldade na realização das tarefas propostas. Contudo, o usuário sugeriu a implementação de uma funcionalidade adicional, uma opção de voltar para a tela anterior após avaliar um livro.</p>
 
+### 6.2 Teste de usabilidade 3 
+
+<p align="justify">Na <i>Tabela 5</i>, contém as informações sobre o segundo teste.</p>
+
+| Participante |    Avaliador   | Integrante auxiliar |        Data           |    Horário     |  Local  |
+| :----: | :--------: |:-----:| :-------------------------------: | :---------: | :--------: |
+|  Sidney Fernando  | João Pedro | Wildemberg Sales |24/01/2023 | 21:10 |Remoto |
+<figcaption align='center'> Tabela 4 - Entrevista 3 (Fonte: Autores, 2022)</figcaption>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aP3V2oNtIgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Resultado
+<p align="justify">Segundo o relato do entrevistador, o usuário não encontrou nenhum problema para realizar as tarefas, concluiu todas em um curto período de tempo e sem dificuldades, e não há sugestões de melhorias para o protótipo de alta fidelidade.</p>
 
 ## 7. Problemas encontrados
 
-
+Após a análise das entrevistas e os relatos dos resultados, o sistema se mostrou eficaz em sua utilização, não apresentou defeitos em suas funcionalidades e todos os usuários conseguiram executar as tarefas da <i>Tabela 1</i> com bastante facilidade e com ótimo rendimento de tempo. <br> Segue o link para o arquivo de respostas a <a href="https://interacao-humano-computador.github.io/2022.2-Skoob/planejamentoAnalise/nivel3/planejamento-avaliacao-prototipo-alta-fid/"><i>Tabela 2</i> do planejamento da avaliação do protótipo de alta fidelidade</a>, que engloba uma análise de usabilidade do sistema na perspectiva dos entrevistadores em relação a como os usuários utilizaram o sistema: <a href="">LINK</a>
 
 
 ## Conclusão
@@ -109,3 +123,4 @@ Abaixo, nas <i>Figura 1 </i>, apresentamos todas as telas feitas no Protótipo d
 | :----: | :--------: | :-------------------------------: | :---------: | :--------: |
 |  1.0   | 23/12/2022 | Criação da página | Philipe | Philipe, Wildemberg Sales|
 |  1.2   | 11/01/2023 | Adicão de entrevistas e teste piloto   | Philipe, Caio | Hellen Fernanda |
+|  1.3  | Adicionando terceira entrevista, organizando as tarefas do documento, criando conclusão de problemas do protótipo | João Pedro, Wildemberg Sales, Lucas Lopes | 
