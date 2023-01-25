@@ -17,11 +17,17 @@
 
 ## Tarefas
 
+<center>
+
 | Tarefas |
 |:--:|
 |Pesquiar um livro|
 |Avaliar um livro|
 |Favoritar um livro|
+
+</center>
+
+
 <figcaption align='center'>Tabela 1 - Tarefas realizadas </figcaption>
 
 
@@ -106,7 +112,7 @@ Abaixo, nas <i>Figura 1 </i>, apresentamos todas as telas feitas no Protótipo d
 
 ## 7. Problemas encontrados
 
-Após a análise das entrevistas e os relatos dos resultados, o sistema se mostrou eficaz em sua utilização, não apresentou defeitos em suas funcionalidades e todos os usuários conseguiram executar as tarefas da <i>Tabela 1</i> com bastante facilidade e com ótimo rendimento de tempo. <br> Segue o link para o arquivo de respostas a <a href="https://interacao-humano-computador.github.io/2022.2-Skoob/planejamentoAnalise/nivel3/planejamento-avaliacao-prototipo-alta-fid/"><i>Tabela 2</i> do planejamento da avaliação do protótipo de alta fidelidade</a>, que engloba uma análise de usabilidade do sistema na perspectiva dos entrevistadores em relação a como os usuários utilizaram o sistema: <a href="">LINK</a>
+Após a análise das entrevistas e os relatos dos resultados, o sistema se mostrou eficaz em sua utilização, não apresentou defeitos em suas funcionalidades e todos os usuários conseguiram executar as tarefas da <i>Tabela 1</i> com bastante facilidade e com ótimo rendimento de tempo. <br> Segue o link para o arquivo de respostas a <a href="https://interacao-humano-computador.github.io/2022.2-Skoob/planejamentoAnalise/nivel3/planejamento-avaliacao-prototipo-alta-fid/"><i>Tabela 2</i> do planejamento da avaliação do protótipo de alta fidelidade</a>, que engloba uma análise de usabilidade do sistema na perspectiva dos entrevistadores em relação a como os usuários utilizaram o sistema: <a href="https://docs.google.com/document/d/1NKfSKlaskmcfNvDr2tsxi4XnL_rqAoP24mIcXQKJZIE/edit?usp=sharing">LINK</a>
 
 
 ## Conclusão
@@ -123,4 +129,5 @@ Após a análise das entrevistas e os relatos dos resultados, o sistema se mostr
 | :----: | :--------: | :-------------------------------: | :---------: | :--------: |
 |  1.0   | 23/12/2022 | Criação da página | Philipe | Philipe, Wildemberg Sales|
 |  1.2   | 11/01/2023 | Adicão de entrevistas e teste piloto   | Philipe, Caio | Hellen Fernanda |
-|  1.3  | Adicionando terceira entrevista, organizando as tarefas do documento, criando conclusão de problemas do protótipo | João Pedro, Wildemberg Sales, Lucas Lopes | 
+|  1.3  | 24/01/2023 | Adicionando terceira entrevista, organizando as tarefas do documento, criando conclusão de problemas do protótipo | João Pedro, Wildemberg Sales, Lucas Lopes | Caio Vitor | 
+|  1.4  | 25/01/2023 | Adicionando hiperlink para o arquivo | Hellen Fernanda | Wildemberg Sales |
