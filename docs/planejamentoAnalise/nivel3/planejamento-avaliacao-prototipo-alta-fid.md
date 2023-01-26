@@ -97,6 +97,8 @@ Pode-se ressaltar que para a análise das entrevistas, os responsáveis deverão
 Após a realização da entrevista e execução do planejamento que foi demonstrado nesse documento, espera-se que os avaliadores realizem as análises seguindo o método selecionado e assim possam produzir os resultados da avaliação do protótipo de papel.
 
 ## Referências
+> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
+
 > KRUG, Steve. Não Me Faça Pensar. Rio de Janeiro: Alta Books, 2006.
 
 ## Histórico de versão
