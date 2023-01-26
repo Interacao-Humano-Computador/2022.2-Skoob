@@ -72,8 +72,8 @@
 |                                  Tarefa                                   |      Autor       | Entrega |  Revisor   | Revisão | Início da Realização | Fim da Realização |
 | :-----------------------------------------------------------------------: | :--------------: | :-----: | :--------: | :-----: | :------------------: | :---------------: |
 |                  Planejamento da Avaliação do Storyboard                  | João Pedro, Caio |  14/12  |   Lucas    |  13/12  |        13/12         |       13/12       |
-|     Planejamento do relato dos resultados da avaliação do Storyboard      |     Philipe      |  14/12  |    Will    |  13/12  |        13/12         |       13/12       |
-|              Planejamento da Avaliação do Análise de tarefas              |   Lucas, Will    |  14/12  |   Hellen   |  13/12  |        13/12         |       13/12       |
+|     Planejamento do relato dos resultados da avaliação do Storyboard      |     Philipe      |  14/12  |    Wildemberg Sales    |  13/12  |        13/12         |       13/12       |
+|              Planejamento da Avaliação do Análise de tarefas              |   Lucas, Wildemberg Sales    |  14/12  |   Hellen   |  13/12  |        13/12         |       13/12       |
 | Planejamento do relato dos resultados da avaliação do Análise de tarefas. |      Hellen      |  14/12  | João Pedro |  13/12  |        13/12         |       13/12       |
 
 <figcaption align="center">Fonte: Hellen Fernanda</figcaption>
@@ -84,10 +84,10 @@
 
 |                                  Tarefa                                  |      Autor       | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
 | :----------------------------------------------------------------------: | :--------------: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
-|                   Relato dos resultados do Story Board                   | Caio, João Pedro |  19/12  |  Will   |  18/01  |          -           |         -         |
-|                            Análise de tarefas                            | Hellen Fernanda  |  19/01  | Phelipe |  18/12  |          -           |         -         |
+|                   Relato dos resultados do Story Board                   | Caio, João Pedro |  19/12  |  Wildemberg Sales   |  18/01  |     17/12/2022       |     17/12/2022     |
+|                            Análise de tarefas                            | Hellen Fernanda  |  19/01  | Phelipe |  18/12  |   13/12/2022     |    14/12/2022   |
 |             Planejamento da Avaliação do Protótipo de Papel              |     Philipe      |  20/12  | Hellen  |  19/12  |        18/12         |       19/12       |
-| Planejamento do relato dos resultados da avaliação do Protótipo de Papel |   Lucas, Will    |  19/12  |  Caio   |  18/12  |          -           |         -         |
+| Planejamento do relato dos resultados da avaliação do Protótipo de Papel |   Lucas, Wildemberg Sales    |  19/12  |  Caio   |  18/12  |    15/12/2022	   |   18/12/2022	   |
 
 <figcaption align="center">Fonte: Hellen Fernanda</figcaption>
 
@@ -97,24 +97,24 @@
 
 |                                        Tarefa                                        |      Autor      | Entrega |     Revisor      | Revisão | Início da Realização | Fim da Realização |
 | :----------------------------------------------------------------------------------: | :-------------: | :-----: | :--------------: | :-----: | :------------------: | :---------------: |
-|  Verificação do perfil do usuário   | Hellen Fernanda |  18/01  |   Lucas Lopes    |  17/01  |          -           |         -         |
-|  Verificação dos aspectos éticos  |   Lucas Lopes   |  18/01  | Philipe de Sousa |  17/01  |          -           |         -         |
-|  Verificação de personas   | Hellen Fernanda |  18/01  |   Lucas Lopes    |  17/01  |          -           |         -         |
-|  Verificação dos princípios gerais de projeto  |        Philipe        |  18/01  |        Hellen         |  17/01  |          -           |         -         |
-|                         Verificação das metas de usabilidade                         | João Pedro  |  18/01  |  Wildemberg Sales   |  17/01  |          -           |         -         |
-|                            Verificação do guia de estilo                             | Hellen Fernanda |  18/01  |   Lucas Lopes    |  17/01  |          -           |         -         |
-|                    Verificação das características da plataforma                     |        Philipe        |  18/01  |        -         |  17/01  |          -           |         -         |
-|                Verificação do planejamento da avaliação do Storyboard                |        Philipe        |  18/01  |        -         |  17/01  |          -           |         -         |
-|          Verificação do planejamento do relato dos resultado do Storyboard           |        João Pedro        |  18/01  |        Wildemberg Sales         |  17/01  |          -           |         -         |
-|            Verificação do planejamento da avaliação da análise de tarefas            | Wildemberg Sales |  18/01  | João Pedro |  17/01  |          -           |         -         |
-|      Verificação do planejamento do relato dos resultado da análise de tarefas       | Wildemberg Sales |  18/01  | João Pedro |  17/01  |          -           |         -         |
-|                 Verificação dos relatos dos resultados do Storyboard                 |        Caio Vitor        |  18/01  |        -         |  17/01  |          -           |         -         |
-|                          Verificação da análise de tarefas                           |          João Pedro     |  18/01  |        Hellen         |  17/01  |          -           |         -         |
-|            Verificação do planejamento da avaliação do protótipo de papel            |   Lucas Lopes   |  18/01  | Philipe de Sousa |  17/01  |          -           |         -         |
-|      Verificação do planejamento do relato dos resultados do protótipo de papel      | Wildemberg Sales |  18/01  | João Pedro |  17/01  |          -           |         -         |
-|              Verificação do relato dos resultados do protótipo de papel              |       Caio Vitor |  18/01  |        -         |  17/01  |          -           |         -         |
-|       Verificação do planejamento da avaliação do protótipo de alta fidelidade       |   Lucas Lopes   |  18/01  | Philipe de Sousa |  17/01  |          -           |         -         |
-| Verificação do planejamento do relato dos resultados do protótipo de alta fidelidade |       Caio Vitor |  18/01  |        -         |  17/01  |          -           |         -         |
+|  Verificação do perfil do usuário   | Hellen Fernanda |  18/01  |   Lucas Lopes    |  17/01  | 13/01/2023    |  13/01/2023   |
+|  Verificação dos aspectos éticos  |   Lucas Lopes   |  18/01  | Philipe de Sousa |  17/01  |  12/01/2023  |  12/01/2023    |
+|  Verificação de personas   | Hellen Fernanda |  18/01  |   Lucas Lopes    |  17/01  | 13/01/2023  | 13/01/2023   |
+|  Verificação dos princípios gerais de projeto  |        Philipe        |  18/01  |        Hellen         |  17/01  | 16/01/2023      |  16/01/2023   |
+|                         Verificação das metas de usabilidade                         | João Pedro  |  18/01  |  Wildemberg Sales   |  17/01  |  17/01/2023   | 17/01/2023  |
+|                            Verificação do guia de estilo                             | Hellen Fernanda |  18/01  |   Lucas Lopes    |  17/01  |  13/01/2023	  | 13/01/2023	 |
+|                    Verificação das características da plataforma                     |        Philipe        |  18/01  |     Hellen Fernanda      |  17/01  |  16/01/2023  | 16/01/2023  |
+|                Verificação do planejamento da avaliação do Storyboard                |        Philipe        |  18/01  | Hellen Fernanda |  17/01  | 16/01/2023 | 16/01/2023 |
+|          Verificação do planejamento do relato dos resultado do Storyboard           |        João Pedro        |  18/01  |        Wildemberg Sales         |  17/01  |   12/01/2023  |   12/01/2023   |
+|            Verificação do planejamento da avaliação da análise de tarefas            | Wildemberg Sales |  18/01  | João Pedro |  17/01  |  17/01/2023  | 17/01/2023  |
+|      Verificação do planejamento do relato dos resultado da análise de tarefas       | Wildemberg Sales |  18/01  | João Pedro |  17/01  | 17/01/2023 | 17/01/2023 |
+|                 Verificação dos relatos dos resultados do Storyboard                 |        Caio Vitor        |  18/01  |  Philipe de Sousa  |  17/01  |   16/01/2023 | 16/01/2023 |
+|                          Verificação da análise de tarefas                           |          João Pedro     |  18/01  |        Hellen         |  17/01  | 12/01/2023 | 12/01/2023 |
+|            Verificação do planejamento da avaliação do protótipo de papel            |   Lucas Lopes   |  18/01  | Philipe de Sousa |  17/01  | 12/01/2023 | 12/01/2023 |
+|      Verificação do planejamento do relato dos resultados do protótipo de papel      | Wildemberg Sales |  18/01  | João Pedro |  17/01  |  17/01/2023 | 17/01/2023 |
+|              Verificação do relato dos resultados do protótipo de papel              |       Caio Vitor |  18/01  | Philipe de Sousa |  17/01  | 16/01/2023 | 16/01/2023 |
+|       Verificação do planejamento da avaliação do protótipo de alta fidelidade       |   Lucas Lopes   |  18/01  | Philipe de Sousa |  17/01  |  	13/01/2023 | 	13/01/2023 |
+| Verificação do planejamento do relato dos resultados do protótipo de alta fidelidade |   Caio Vitor |  18/01  | Philipe de Sousa |  17/01  | 16/01/2023 |  16/01/2023  |
 
 <figcaption align="center">Fonte: Hellen Fernanda</figcaption>
 
@@ -124,9 +124,9 @@
 
 |                                       Tarefa                                       |      Autor       | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
 | :--------------------------------------------------------------------------------: | :--------------: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
-|                    Relato dos resultados do Protótipo de Papel                     |  Philipe, Will   |  11/01  | Hellen  |  10/01  |          -           |         -         |
-|             Planejamento da Avaliação do protótipo de alta fidelidade              | Caio, João Pedro |  11/01  |  Will   |  10/01  |          -           |         -         |
-| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade |  Hellen, Lucas   |  11/01  | Phelipe |  10/01  |          -           |         -         |
+|                    Relato dos resultados do Protótipo de Papel                     |  Philipe, Wildemberg Sales   |  11/01  | Hellen  |  10/01  |  09/01/2023  |  24/01/2023  |
+|             Planejamento da Avaliação do protótipo de alta fidelidade              | Caio, João Pedro |  11/01  |  Wildemberg Sales   |  10/01  |  17/12/2022  | 26/12/2022 |
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade |  Hellen, Lucas   |  11/01  | Phelipe |  10/01  |  23/12/2022 | 23/12/2022 |
 
 <figcaption align="center">Fonte: Hellen Fernanda</figcaption>
 
@@ -136,7 +136,7 @@
 
 |         Tarefa         |        Autor         | Entrega |    Revisor    | Revisão | Início da Realização | Fim da Realização |
 | :--------------------: | :------------------: | :-----: | :-----------: | :-----: | :------------------: | :---------------: |
-| Relatos dos resultados do protótipo de alta fidelidade | Todos os integrantes |  25/01  | Will, Philipe |  24/01  |          -           |         -         |
+| Relatos dos resultados do protótipo de alta fidelidade | Wildemberg Sales, Lucas Lopes, Hellen Fernanda, João Pedro, Caio Vitor, Philipe de Sousa |  25/01  | Wildemberg Sales, Philipe |  24/01  | 23/12/2023 | 26/12/2022 |
 
 <figcaption align="center">Fonte: Hellen Fernanda</figcaption>
 
@@ -146,7 +146,7 @@
 
 |            Tarefa            |        Autor         | Entrega |       Revisor        | Revisão | Início da Realização | Fim da Realização |
 | :--------------------------: | :------------------: | :-----: | :------------------: | :-----: | :------------------: | :---------------: |
-| Apresentação do projeto fina | Todos os integrantes |  01/02  | Todos os integrantes |  30/01  |          -           |         -         |
+| Apresentação do projeto fina | Wildemberg Sales, Lucas Lopes, Hellen Fernanda, João Pedro, Caio Vitor, Philipe de Sousa |  01/02  | - |  30/01  |          -           |         -         |
 
 <figcaption align="center">Fonte: Hellen Fernanda</figcaption>
 
@@ -158,6 +158,7 @@
 |  1.1   | 20/11/2022 |           Finalização do cronograma inicial           | Hellen Fernanda  |   Caio Vitor    |
 |  1.2   | 22/11/2022 |      Finalização do cronograma de todo semestre       | Hellen Fernanda  |   Caio Vitor    |
 |  1.3   | 12/01/2023 | Atualizando o cronograma da verificação dos artefatos | Wlidemberg Sales | Hellen Fernanda |
+|  1.4   | 26/01/2023 | Atualizando o cronograma com datas de início e fim de cada artefato | Wlidemberg Sales | Hellen Fernanda |
 
 ## Referências
 
