@@ -6,14 +6,14 @@
 
 ## 2. Objetivo 
 
-<p align="justify">O objetivo principal desta avaliação é identificar problemas de usabilidade e melhorar a qualidade da interface. Isso pode incluir problemas com a navegação, compreensão das interações esperadas, organização da informação e apresentação visual. Como foi descrito no documento de <a href="https://interacao-humano-computador.github.io/2022.2-Skoob/planejamentoAnalise/nivel3/planejamento-relato-prototipo-alta-fid/" target="_blank">Planejamento</a> foi utilizado a técnica de entrevista. </p>
+<p align="justify">O objetivo principal desta avaliação é identificar problemas de usabilidade e melhorar a qualidade da interface. Isso pode incluir problemas com a navegação, compreensão das interações esperadas, organização da informação e apresentação visual. Como foi descrito no documento de <a href="https://interacao-humano-computador.github.io/2022.2-Skoob/planejamentoAnalise/nivel3/planejamento-relato-prototipo-alta-fid/" target="_blank">Planejamento</a> foi utilizado o teste de usabilidade juntamento com a técnica de entrevista que utiliza a <i>Tabela 2</i> como base de suas perguntas, a qual é feita a cada tarefa realizada. </p>
 
 ## 3. Metodologia 
 
 <p  align="justify">Teste de usabilidade de Protótipo de Alta Fidelidade é uma técnica de avaliação de usabilidade, onde o usuário interage com o Protótipo de Alta Fidelidade enquanto o designer ou o pesquisador observa e registra as suas dificuldades, comentários e questionamentos. É uma forma eficaz e rápida de identificar problemas de usabilidade antes de investir tempo e dinheiro na implementação de uma interface.</p>
 <p align="justify">A entrevista ocorreu de forma remota, nela foi apresentado o projeto para o usuário e disponibilizado para o participante o protótipo de alta fidelidade, juntamente com a leitura do termo de consentimento.</p>
 
-<p align="justify">Na <i>Tabela 1</i> segue a listagem das tarefas que foram realizadas pelos participante, as tarefas estão descritas no artefato de <a href="https://interacao-humano-computador.github.io/2022.2-Skoob/analise-de-requisitos/analise-de-tarefas-concorrentes/" target ="_blank">Analise de tarefas</a>. Após ter sido realizadas as tarefas pelo participante, o entrevistador fez algumas perguntas sobre a experiência que o participante teve. Na <i>Tabela 2</i> encontram-se as perguntas feitas na entrevista.</p>
+<p align="justify">Na <i>Tabela 1</i> segue a listagem das tarefas que foram realizadas pelos participante, as tarefas estão descritas no artefato de <a href="https://interacao-humano-computador.github.io/2022.2-Skoob/analise-de-requisitos/analise-de-tarefas-concorrentes/" target ="_blank">Analise de tarefas</a> e no artefato de <a href="https://interacao-humano-computador.github.io/2022.2-Skoob/planejamentoAnalise/nivel1/storyboards/">Storyboard</a>. Após ter sido realizadas as tarefas pelo participante, o entrevistador fez algumas perguntas sobre a experiência que o participante teve. Na <i>Tabela 2</i> encontram-se as perguntas feitas na entrevista.</p>
 
 ## Tarefas
 
@@ -60,7 +60,7 @@ Abaixo, nas <i>Figura 1 </i>, apresentamos todas as telas feitas no Protótipo d
 
 ## 6. Aplicação dos Teste de Usabilidade
 
-<p align="justify">De acordo com Krug(2006), com três ou quatro usuários a maioria dos problemas é detectado, tornando possível fazer a análise no mesmo dia. Baseado nessa afirmação, realizamos o teste com três participantes.</p>
+<p align="justify">De acordo com Krug(2006), com três ou quatro usuários a maioria dos problemas é detectado, tornando possível fazer a análise no mesmo dia. Baseado nessa afirmação, realizamos o teste com três participantes, optando por escolher usuários diferentes dos que realizaram o teste de usabilidade do protótipo de papel, para que o grupo conseguisse resultados melhores.</p>
 
 ### 6.1 Teste de usabilidade 1 
 
@@ -137,3 +137,4 @@ Podemos concluir com exatidão que o prototípo de alta fidelidade conclui seu o
 |  1.3  | 24/01/2023 | Adicionando terceira entrevista, organizando as tarefas do documento, criando conclusão de problemas do protótipo | João Pedro, Wildemberg Sales, Lucas Lopes | Caio Vitor | 
 |  1.4  | 25/01/2023 | Adicionando hiperlink para o arquivo | Hellen Fernanda | Wildemberg Sales |
 |  1.5  | 25/01/2023 | Adicionando conclusão | Caio Vitor| Wildemberg Sales |
+|  1.6  | 26/01/2023 | Corrigindo erros na metodologia e especificando a escolha dos participantes | Wildemberg Sales, Caio Vitor, Lucas Lopes | João Pedro | 
