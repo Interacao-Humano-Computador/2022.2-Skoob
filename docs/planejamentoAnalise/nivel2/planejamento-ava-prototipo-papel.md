@@ -8,7 +8,7 @@
 
 ## Metodologia
 <p align="justify">
-A metodologia selecionada, após análise, foi a entrevista. Utilizando-se dessa técnica, planeja-se que o avaliador instrua o usuário na entrevista para a realização das tarefas, assim como na execução do planejamento.
+A metodologia selecionada foi o teste de usabilidade do protótipo e a entrevista para complementação da análise. Utilizando-se dessa técnica, planeja-se que o avaliador instrua o usuário na entrevista para a realização das tarefas, assim como na execução do planejamento.
 </p>
 
 <p align="justify">
