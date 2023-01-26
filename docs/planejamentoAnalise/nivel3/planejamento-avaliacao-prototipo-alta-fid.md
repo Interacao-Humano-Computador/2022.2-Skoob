@@ -13,7 +13,7 @@ A avaliação de IHC é uma atividade essencial nos processos de desenvolvimento
 </p>
 
 ## Metodologia
-<p align = "justify">O planejamento de avaliação do protótipo em papel foi baseado no  livro Interação Humano-Computador de Simone Barbosa e Bruno Silva. Dessa forma, para realização da avaliação será por meio de uma <b>Entrevista,</b> seguindo as atividades:</p>
+<p align = "justify">O planejamento de avaliação do protótipo em papel foi baseado no  livro Interação Humano-Computador de Simone Barbosa e Bruno Silva. Dessa forma, para realização da avaliação será por meio de um teste de usabilidade, juntamento com a técnica de entrevista, seguindo as atividades:</p>
 - Preparação;
 - Coleta e interpretação de dados;
 - Relato dos resultados.
@@ -107,3 +107,4 @@ Após a realização da entrevista e execução do planejamento que foi demonstr
 |  1.1   | 13/01/2023 | Correções da verificação | Lucas Lopes | Wildemberg  |
 |  1.2  | 22/01/2023 | Adicionando segunda tabela de perguntas | João Pedro | Wildemberg Sales |
 |  1.3  | 24/01/2023 | Adiconado especificaçõe do que os entrevistadores devem analisar | Wildemberg Sales | Lucas Lopes |
+|  1.4  | 26/01/2023 | Ajustando metodologia da avaliação | Wildemberg Sales, Caio Vitor, Lucas Lopes | João Pedro |
