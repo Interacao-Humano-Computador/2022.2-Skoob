@@ -22,6 +22,7 @@ Esta página é destinada à apresentação da Etapa 5 do projeto de Interação
     <li>Philipe de Sousa</li>
     <li>Caio Vitor</li>
     <li>João Pedro</li>
+    <li>Hellen Fernanda</li>
 </ol>
 
 ### Gravação
