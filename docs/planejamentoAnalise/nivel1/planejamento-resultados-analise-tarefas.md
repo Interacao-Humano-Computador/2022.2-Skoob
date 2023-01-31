@@ -19,7 +19,7 @@ Já o metodo de observação consiste em observar o usuário utilizando o sistem
 
 ## Data, Horário e Local
 
-<p align="justify">O grupo deverá definir com o participante da entrevista o horário, a data, e o local da entrevista de acordo com a disponibilidade do participante. Dito isto deverá ser documentado na hora de criar o artefato de resultado da entrevista todos os dados de data, horário e local que foram definidos e executado com o participante.<p>
+<p align="justify">O grupo deverá definir com o participante da entrevista o horário, a data, e o local da entrevista de acordo com a disponibilidade do participante. Dito isto deverá ser documentado na hora de criar o artefato de resultado da entrevista todos os dados de data, horário e local que foram definidos e executado com o participante.</p>
 
 ## Abordagem
 
