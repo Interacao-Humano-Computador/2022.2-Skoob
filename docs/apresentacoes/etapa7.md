@@ -12,6 +12,18 @@ Esta página é destinada à apresentação da Etapa 7 do projeto de Interação
 </ol>
 
 ## Apresentação
+
+### Presentes
+<ol>
+    <li>Lucas Lopes</li>
+    <li>Wildemberg Sales</li>
+    <li>Philipe de Sousa</li>
+    <li>Caio Vitor</li>
+    <li>João Pedro</li>
+    <li>Hellen Fernanda</li>
+</ol>
+
+### Gravação
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xxrY9dq8uVw?start=6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Histórico de versão
