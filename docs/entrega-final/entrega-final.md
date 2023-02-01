@@ -41,9 +41,10 @@
 <figcaption align="center">Tabela 1: Informações dos artefatos. (Fonte: Autores, 2022)</figcaption>
 
 ## Conclusão
-<p align="justify"></p>
+<p align="justify">Ao executar o projeto da disciplica, os autores obtiveram os conhecimentos e técnicas de cada tópico da Interação Humano-Computador, destacando as principais teorias de fundamento, métodos e técnicas utilizadas para a concepção e desenvolvimento de sistemas e avaliação de uso, neste caso, utilizando o site Skoob.</p>
 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 31/01/2023 | Criação da página | Lucas Lopes | Philipe de Sousa |
+| 1.1 | 01/02/2023 | Inclusão da conclusão | Lucas Lopes | Philipe de Sousa |
