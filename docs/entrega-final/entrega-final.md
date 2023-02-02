@@ -42,7 +42,7 @@
 
 ## Facilidades e Dificuldades do Projeto
 
-### Caio Vitor :
+### Caio Vitor
 * Facilidades: O projeto foi de legal de fazer pois complementou o que eu tinha aprendido em mds, e isso foi muito importante pois consegui criar uma base mais forte ainda
 * Dificuldades: Tive algumas dificuldades no projeto principalmente na etapa de prototipação com o Figma. pois não tinha contexto algum de como utilizar a ferramenta, mas consegui ser auxiliado pelos outros membros do nosso projeto.
 
@@ -50,15 +50,16 @@
 * Facilidades: foi tranquilo achar conteudos relacionados e artefatos já desenvolvido, dando uma base sólida na hora da produção dos artefatos do nosso grupo. Além disso, o grupo foi bastante compreensivo e não houve atritos na maioria das reuniões.
 * Dificuldades: minha maior dificuldade foi consiliar o tempo necessário para produção do trabalho e das gravações com meu dia a dia.
 
-### Lucas Lopes
-* Facilidade: Particularmente, tive bastante facilidade em entender a estrutura do projeto e suas entregas, o que me ajudou a manter um processo contínuo de desenvolvimento. Também, tive aptidão com artefatos que envolviam design em si pois tenho bastante afinidade com o assunto e me indentifico muito com o desenvolvimento front-end.
-* Dificuldade: Acredito que minha maior dificuldade foi conciliar as outras disciplinas com as constantes entregas deste projeto, o que tornou o processo um pouco cansativo e desgastante, de certa forma. Além disso, tive um pouco de dificuldade em absorver a estrutura e elementos necessários nos planejamentos.
+### João Pedro
+* Facilidades: Tive certa facilidade em reconhecer o objetivo de cada artefato e com a metodologia abordada pode ajudar no desenvolvimento da aplicação.
+* Dificuldades: Uma dificuldade que eu tive foi conciliar a disciplina com demandas de outras disciplinas mais trabalho, tirando isso, foi exceção alguns artefatos sobre a metodologia abordada não achar muito material sobre os assuntos abordados, além dos livros exigidos pela disciplina as vezes ser de difícil acesso.
+Acredito que minha maior dificuldade foi conciliar as outras disciplinas com as constantes entregas deste projeto, o que tornou o processo um pouco cansativo e desgastante, de certa forma. Além disso, tive um pouco de dificuldade em absorver a estrutura e elementos necessários nos planejamentos.
 
 ### Lucas Lopes
-* Facilidade: Particularmente, tive bastante facilidade em entender a estrutura do projeto e suas entregas, o que me ajudou a manter um processo contínuo de desenvolvimento. Também, tive aptidão com artefatos que envolviam design em si pois tenho bastante afinidade com o assunto e me indentifico muito com o desenvolvimento front-end.
-* Dificuldade: Acredito que minha maior dificuldade foi conciliar as outras disciplinas com as constantes entregas deste projeto, o que tornou o processo um pouco cansativo e desgastante, de certa forma. Além disso, tive um pouco de dificuldade em absorver a estrutura e elementos necessários nos planejamentos. 
+* Facilidades: Particularmente, tive bastante facilidade em entender a estrutura do projeto e suas entregas, o que me ajudou a manter um processo contínuo de desenvolvimento. Também, tive aptidão com artefatos que envolviam design em si pois tenho bastante afinidade com o assunto e me indentifico muito com o desenvolvimento front-end.
+* Dificuldades: Acredito que minha maior dificuldade foi conciliar as outras disciplinas com as constantes entregas deste projeto, o que tornou o processo um pouco cansativo e desgastante, de certa forma. Além disso, tive um pouco de dificuldade em absorver a estrutura e elementos necessários nos planejamentos. 
 
-### Wildemberg Sales:
+### Wildemberg Sales
 * Facilidades: O projeto correu de forma tranquila, sem problemas para realizar os artefatos, conseguimos entregar sempre nas datas previstas, conseguimos corrigir rapidamente nossos artefatos quando apresentavam problemas;
 * Dificuldades: Obtive dificuldades na hora de realizar a verificação dos artefatos que me foram definidos por não saber o quão bom estava minha verificação, tive alguns problemas na hora de realizar a mesclagem das questões de usabilidade de Sharp com as Heurísticas de Nielsen, mas foram supridas depois de entender a estrutura;
 
