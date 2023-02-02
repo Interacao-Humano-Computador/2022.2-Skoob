@@ -1,0 +1,2352 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../teste-piloto-analise-tarefas/">
+      
+      
+        <link rel="next" href="../../nivel1/storyboards/">
+      
+      <link rel="icon" href="../../../assets/logo.png">
+      <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-9.0.9">
+    
+    
+      
+        <title>Relato dos resultados da Analise de Tarefas - Skoob</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.0d440cfe.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.2505c338.min.css">
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,400i,700,700i%7Csans-serif:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Montserrat";--md-code-font:"sans-serif"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="light-blue" data-md-color-accent="white">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#analises-de-tarefas" class="md-skip">
+          Ir para o conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabeçalho">
+    <a href="../../.." title="Skoob" class="md-header__button md-logo" aria-label="Skoob" data-md-component="logo">
+      
+  <img src="../../../assets/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Skoob
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Relato dos resultados da Analise de Tarefas
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Pesquisar">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Limpar" aria-label="Limpar" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando a pesquisa
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Interacao-Humano-Computador/2022.2-Skoob" title="Ir ao repositório" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2022.2-Skoob
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Abas" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../../.." class="md-tabs__link">
+      Início
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../planejamento/reunioes/" class="md-tabs__link">
+        Planejamento
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../analise-de-requisitos/analise-de-tarefas-concorrentes/" class="md-tabs__link">
+        Análise de Requisitos
+      </a>
+    </li>
+  
+
+  
+
+      
+        
+  
+  
+    
+  
+
+
+  
+  
+  
+    
+
+  
+  
+  
+    
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../nivel1/planejamento-analise-tarefas/" class="md-tabs__link md-tabs__link--active">
+        Design, Avaliação e Desenvolvimento
+      </a>
+    </li>
+  
+
+  
+
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../verificacoes/modelo-padrao/" class="md-tabs__link">
+        Verificação
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../atas-das-reunioes/reuniao1/" class="md-tabs__link">
+        Atas das Reuniões
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../apresentacoes/etapa1/" class="md-tabs__link">
+        Apresentações
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../entrega-final/entrega-final/" class="md-tabs__link">
+        Apresentação Final
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navegação" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Skoob" class="md-nav__button md-logo" aria-label="Skoob" data-md-component="logo">
+      
+  <img src="../../../assets/logo.png" alt="logo">
+
+    </a>
+    Skoob
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Interacao-Humano-Computador/2022.2-Skoob" title="Ir ao repositório" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2022.2-Skoob
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        Início
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+          Planejamento
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Planejamento
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../planejamento/reunioes/" class="md-nav__link">
+        Reuniões
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../planejamento/metodologia/" class="md-nav__link">
+        Metodologia
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../planejamento/ferramentas/" class="md-nav__link">
+        Ferramentas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../planejamento/processoDesign/" class="md-nav__link">
+        Processo Design
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../planejamento/cronograma/" class="md-nav__link">
+        Cronograma
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../planejamento/SitesAvaliados/" class="md-nav__link">
+        Lista de Sites Avaliados
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+          Análise de Requisitos
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Análise de Requisitos
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_1" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3_1" id="__nav_3_1_label" tabindex="0">
+          Análise de Tarefas
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_1_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_3_1">
+          <span class="md-nav__icon md-icon"></span>
+          Análise de Tarefas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../analise-de-requisitos/analise-de-tarefas-concorrentes/" class="md-nav__link">
+        Árvores de Tarefas Concorrentes
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../analise-de-requisitos/analisehierarquicadetarefas/" class="md-nav__link">
+        Análise Hierárquica de tarefas
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../analise-de-requisitos/aspectos-eticos/" class="md-nav__link">
+        Aspectos Éticos
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../analise-de-requisitos/perfil-do-usuario/" class="md-nav__link">
+        Perfil do Usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../analise-de-requisitos/personas/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../analise-de-requisitos/caracteristicas-da-plataforma/" class="md-nav__link">
+        Caract. da Plataforma
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../analise-de-requisitos/metas-usabilidade/" class="md-nav__link">
+        Metas de Usabilidade
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../analise-de-requisitos/principios-gerais-de-projeto/" class="md-nav__link">
+        Principios Gerais de Projeto
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../analise-de-requisitos/guia-de-estilo/" class="md-nav__link">
+        Guia de Estilo
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" checked>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+          Design, Avaliação e Desenvolvimento
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="true">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Design, Avaliação e Desenvolvimento
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_1" checked>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4_1" id="__nav_4_1_label" tabindex="0">
+          Nível 1
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_1_label" aria-expanded="true">
+        <label class="md-nav__title" for="__nav_4_1">
+          <span class="md-nav__icon md-icon"></span>
+          Nível 1
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_1_1" checked>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4_1_1" id="__nav_4_1_1_label" tabindex="0">
+          Análise de tarefas
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_4_1_1_label" aria-expanded="true">
+        <label class="md-nav__title" for="__nav_4_1_1">
+          <span class="md-nav__icon md-icon"></span>
+          Análise de tarefas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../nivel1/planejamento-analise-tarefas/" class="md-nav__link">
+        Planejamento da Análise de Tarefas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../nivel1/planejamento-resultados-analise-tarefas/" class="md-nav__link">
+        Planejamento dos Resultados das Análises de Tarefas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../teste-piloto-analise-tarefas/" class="md-nav__link">
+        Relato dos resultados do Teste-piloto
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Relato dos resultados da Analise de Tarefas
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Relato dos resultados da Analise de Tarefas
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#objetivo" class="md-nav__link">
+    Objetivo
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    Metodologia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#participantes" class="md-nav__link">
+    Participantes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dados-obtidos" class="md-nav__link">
+    Dados obtidos
+  </a>
+  
+    <nav class="md-nav" aria-label="Dados obtidos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#entrevista-1-luana-ribeiro-soares" class="md-nav__link">
+    Entrevista 1 - Luana Ribeiro Soares
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#entrevista-2-maria-eduarda-mendonca" class="md-nav__link">
+    Entrevista 2 - Maria Eduarda Mendonça
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#problemas-encontrados" class="md-nav__link">
+    Problemas encontrados
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#gravacao-da-entrevista" class="md-nav__link">
+    Gravação da entrevista
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conclusao" class="md-nav__link">
+    Conclusão
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias" class="md-nav__link">
+    Referências
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    Histórico de versão
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_1_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4_1_2" id="__nav_4_1_2_label" tabindex="0">
+          Storyboard
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_4_1_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_4_1_2">
+          <span class="md-nav__icon md-icon"></span>
+          Storyboard
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../nivel1/storyboards/" class="md-nav__link">
+        Storyboard
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../nivel1/PlanejamentodaAvalia%C3%A7%C3%A3odoStoryboard/" class="md-nav__link">
+        Planejamento da Avaliação do Storyboard
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../nivel1/planejamento-relatos-story/" class="md-nav__link">
+        Planejamento dos Resultados da Avaliação do Storyboard
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../avaliacao-storyboard/" class="md-nav__link">
+        Relato dos resultados do Storyboard
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4_2" id="__nav_4_2_label" tabindex="0">
+          Nível 2
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_4_2">
+          <span class="md-nav__icon md-icon"></span>
+          Nível 2
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_2_1" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4_2_1" id="__nav_4_2_1_label" tabindex="0">
+          Protótipo de papel
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_4_2_1_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_4_2_1">
+          <span class="md-nav__icon md-icon"></span>
+          Protótipo de papel
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../planejamento-ava-prototipo-papel/" class="md-nav__link">
+        Planejamento da Avaliação do Protótipo de Papel
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../planejamento-relato-prototipo-papel/" class="md-nav__link">
+        Planejamento do Relato dos Resultados do Protótipo de Papel
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../nivel3/relatos-pro-papel/" class="md-nav__link">
+        Relato dos resultados do Protótipo de Papel
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4_3" id="__nav_4_3_label" tabindex="0">
+          Nível 3
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_4_3">
+          <span class="md-nav__icon md-icon"></span>
+          Nível 3
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_3_1" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4_3_1" id="__nav_4_3_1_label" tabindex="0">
+          Protótipo de alta fidelidade
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_4_3_1_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_4_3_1">
+          <span class="md-nav__icon md-icon"></span>
+          Protótipo de alta fidelidade
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../nivel3/planejamento-avaliacao-prototipo-alta-fid/" class="md-nav__link">
+        Planejamento da Avaliação do Protótipo de Alta Fideliade
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../nivel3/planejamento-relato-prototipo-alta-fid/" class="md-nav__link">
+        Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../nivel3/Relato-resultados-avalia%C3%A7%C3%A3o-de-alta/" class="md-nav__link">
+        Relato dos resultados da avaliação Protótipo de Alta Fidelidade
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+          Verificação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Verificação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacoes/modelo-padrao/" class="md-nav__link">
+        Modelo Padrão
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacoes/aspectosEtic-verificacao/" class="md-nav__link">
+        Aspectos Éticos
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacoes/guia-estilo/" class="md-nav__link">
+        Guia de Estilo
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacoes/metas-usabilidade-verificacao/" class="md-nav__link">
+        Metas de usabilidade
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacoes/perfil-usuario/" class="md-nav__link">
+        Perfil do Usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacoes/personas/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacoes/verificacao_analise_de_tarefas/" class="md-nav__link">
+        Análise de tarefas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacoes/planejamento-analise-tarefas/" class="md-nav__link">
+        Planejamento da avaliação da análise de tarefas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacoes/planejamento-resultado-analise-tarefas/" class="md-nav__link">
+        Planejamento do relato dos resultado da análise de tarefas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacoes/principios-gerais/" class="md-nav__link">
+        Princípios Gerais de Projeto
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacoes/caracteristicas-da-plataforma/" class="md-nav__link">
+        Características da plataforma
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacoes/plan-avalia%C3%A7%C3%A3o-storyboard/" class="md-nav__link">
+        Planejamento da Avaliação do Storyboard
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacoes/planejamento_relato_storyboartd_verificacao/" class="md-nav__link">
+        Planejamento do Relato dos resultados do storyboard
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacoes/resultdosStoryboard/" class="md-nav__link">
+        Relato dos resultados dos storyboards
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacoes/planAvaliaProtPapel-verificacao/" class="md-nav__link">
+        Planejamento da Avaliação do Protótipo de Papel
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacoes/planejamento-resultados-prototipo-papel/" class="md-nav__link">
+        Planejamento do Relato dos Resultados do Prototípo em Papel
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacoes/ResdoProtPapel/" class="md-nav__link">
+        Relato dos resultados do Protótipo em Papel
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacoes/planAvaliaProtAltaFid-verificacao/" class="md-nav__link">
+        Planejamento da Avaliação do Protótipo de Alta Fidelidade
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacoes/planRelatoResultadosProtAltaFid/" class="md-nav__link">
+        Planejamento do Relato dos resultados do Protótipo de Alta Fidelidade
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+          Atas das Reuniões
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Atas das Reuniões
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../atas-das-reunioes/reuniao1/" class="md-nav__link">
+        Reunião 1 - 15/11/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../atas-das-reunioes/reuniao2/" class="md-nav__link">
+        Reunião 2 - 17/11/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../atas-das-reunioes/reuniao3/" class="md-nav__link">
+        Reunião 3 - 29/11/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../atas-das-reunioes/reuniao4/" class="md-nav__link">
+        Reunião 4 - 06/12/2022
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+          Apresentações
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_7">
+          <span class="md-nav__icon md-icon"></span>
+          Apresentações
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../apresentacoes/etapa1/" class="md-nav__link">
+        Etapa 1 - 23/11/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../apresentacoes/etapa2/" class="md-nav__link">
+        Etapa 2 - 07/12/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../apresentacoes/etapa3/" class="md-nav__link">
+        Etapa 3 - 12/12/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../apresentacoes/etapa4/" class="md-nav__link">
+        Etapa 4 - 14/12/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../apresentacoes/etapa5/" class="md-nav__link">
+        Etapa 5 - 21/12/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../apresentacoes/etapa6/" class="md-nav__link">
+        Etapa 6 - 18/01/2023
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../apresentacoes/etapa7/" class="md-nav__link">
+        Etapa 7 - 11/01/2023
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../apresentacoes/etapa8/" class="md-nav__link">
+        Etapa 8 - 25/01/2023
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega-final/etapafinal/" class="md-nav__link">
+        Etapa Final - 01/02/2023
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+          Apresentação Final
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_8">
+          <span class="md-nav__icon md-icon"></span>
+          Apresentação Final
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega-final/entrega-final/" class="md-nav__link">
+        Entrega Final
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega-final/etapafinal/" class="md-nav__link">
+        Etapa Final - 01/02/2023
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#objetivo" class="md-nav__link">
+    Objetivo
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    Metodologia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#participantes" class="md-nav__link">
+    Participantes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dados-obtidos" class="md-nav__link">
+    Dados obtidos
+  </a>
+  
+    <nav class="md-nav" aria-label="Dados obtidos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#entrevista-1-luana-ribeiro-soares" class="md-nav__link">
+    Entrevista 1 - Luana Ribeiro Soares
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#entrevista-2-maria-eduarda-mendonca" class="md-nav__link">
+    Entrevista 2 - Maria Eduarda Mendonça
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#problemas-encontrados" class="md-nav__link">
+    Problemas encontrados
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#gravacao-da-entrevista" class="md-nav__link">
+    Gravação da entrevista
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conclusao" class="md-nav__link">
+    Conclusão
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias" class="md-nav__link">
+    Referências
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    Histórico de versão
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+
+<h1 id="analises-de-tarefas">Análises de Tarefas</h1>
+<h2 id="introducao">Introdução</h2>
+<p align="justify">Após concluir a etapa do planejamento da avaliação da Análise de Tarefas, podemos realizar a avaliação de fato. Nessa avaliação o grupo avaliou as análises de tarefas levantadas, sendo a Análise Hierárquica de Tarefas e a Árvore de Tarefas Concorrentes para levantar a qualidade do artefato disponível e possíveis melhoras e modificações a serem feitas.</p>
+<p align="justify">De acordo com o Framework DECIDE, este artefato faz referência a letra E desse framework, que significa a avaliação.</p>
+
+<h2 id="objetivo">Objetivo</h2>
+<p align="justify">O objetivo desse documento é relatar de que forma a avaliação da análise de tarefas foi realizada e relatar todos os resultados encontrados a partir das entrevistas com os participantes.</p>
+
+<h2 id="metodologia">Metodologia</h2>
+<p align="justify">A metodologia utilizada para a realização avaliação foi pela entrevista, método pertencente aos métodos de investigação. Diante outras responsabilidades dos membros do grupo, apenas um entrevistador participou das entrevistas e ficou responsável pela gravação e posterior coleta dos dados.</p>
+<p align="justify">Durante a entrevista, foram feitas perguntas conceituais que tivessem relação com o sistema em questão, logo após, foi explicado e apresentado os diagramas de Análise Hierárquica de Tarefas e Árvore de Tarefas Concorrentes desenvolvidos pelo grupo.</p>
+
+<h2 id="participantes">Participantes</h2>
+<p align="justify">Foi encontrada duas voluntárias, que aceitam fazer a entrevista e que se encaixassem no perfil de usuário definido anteriormente para o sistema. A entrevista teve apenas dois participantes, o entrevistador e o entrevistado. O local de realização da entrevista 01 foi feita pessoalmente na fga e o audio da entrevista foi gravado. O local da entrevista 02 foi no meets mas não consegui salvar a gravação e acabou sendo perdida. </p>
+
+<h2 id="dados-obtidos">Dados obtidos</h2>
+<p align="justify">Os dados obtidos nas entrevistas foram transcritos para a tabela 1 e 2.</p>
+
+<h3 id="entrevista-1-luana-ribeiro-soares">Entrevista 1 - Luana Ribeiro Soares</h3>
+<table>
+<thead>
+<tr>
+<th align="center">Número</th>
+<th align="center">Perguntas</th>
+<th align="center">Opções de resposta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">1</td>
+<td align="center">Qual a sua idade?</td>
+<td align="center">19 anos</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="center">Qual o seu nível de formação acadêmica atual?</td>
+<td align="center">[x] Graduação </br> [ ] Mestrado </br>[ ] Dutorado</td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td align="center">Com qual frequência você costuama ler livros?</td>
+<td align="center">[x] Muita </br> [ ] Média </br>[ ] Pouca</td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td align="center">Você sente a nescessidade de catalogar os livros que já leu?</td>
+<td align="center">[x] Muita </br> [ ] Média </br>[ ] Pouca</td>
+</tr>
+<tr>
+<td align="center">5</td>
+<td align="center">Ao realizar a tarefa de "adicionar uma frase que goste", qual foi sua maior dificuldade ao executá-la?</td>
+<td align="center">No aplicativo na hora de colocar é preciso acessar uma area espécifica, que não é ensinada e é preciso procurar.</td>
+</tr>
+<tr>
+<td align="center">6</td>
+<td align="center">Ao realizar a tarefa de "adicionar um livro lido", qual foi sua maior dificuldade ao executá-la?</td>
+<td align="center">encontrar o livro, não encontrei a edição que gostaria, foi dificil fazer a atividade.</td>
+</tr>
+<tr>
+<td align="center">7</td>
+<td align="center">Ao realizar uma tarefa de "fazer uma avaliação sobre um livro lido", qual foi sua maior dificuldade ao executá-la?</td>
+<td align="center">não salvar as alterações feitas e ter que refazer a avaliação.</td>
+</tr>
+<tr>
+<td align="center">8</td>
+<td align="center">Ao realizar uma tarefa de "fazer cadastro/login", qual foi sua maior dificuldade ao executá-la?</td>
+<td align="center">não teve dificuldade.</td>
+</tr>
+<tr>
+<td align="center">9</td>
+<td align="center">O sistema forneceu ajuda/orientação a você durante suas tarefas?</td>
+<td align="center">[ ] Sim </br> [ ] Não </br>[x] Mais ou Menos</td>
+</tr>
+<tr>
+<td align="center">10</td>
+<td align="center">O sistema é intuitivo em sua utilização?</td>
+<td align="center">[ ] Sim </br> [ ] Não </br>[x] Mais ou Menos</td>
+</tr>
+<tr>
+<td align="center">11</td>
+<td align="center">Você possui controle total do site e de suas ferramentas?</td>
+<td align="center">[ ] Sim </br> [ ] Não </br>[x] Mais ou Menos</td>
+</tr>
+<tr>
+<td align="center">12</td>
+<td align="center">Qual o nível de dificuldade em encontrar os livros no site?</td>
+<td align="center">[ ] Muita </br> [x] Média </br>[ ] Pouca</td>
+</tr>
+<tr>
+<td align="center">13</td>
+<td align="center">O sistema disponibilizou acessiblidade suficiente para você durante as tarefas?</td>
+<td align="center">[ ] Sim </br> [ ] Não </br>[ ] Mais ou Menos</td>
+</tr>
+<tr>
+<td align="center">14</td>
+<td align="center">Quais as piores características do site?</td>
+<td align="center">trava um pouco ao escrever sobre os livros e ai é preciso refazer a atividade.</td>
+</tr>
+<tr>
+<td align="center">15</td>
+<td align="center">Quais as melhores características do site?</td>
+<td align="center">poder compartilhar a parte do livro que esta e poder comentar isso com outras pessoas que tambem estão lendo o mesmo livro.</td>
+</tr>
+<tr>
+<td align="center">16</td>
+<td align="center">O que você acha que deveria ser melhorado no site em relação as tarefas feitas?</td>
+<td align="center">abranger mais livros, o site ser mais intuitivo.</td>
+</tr>
+<tr>
+<td align="center">17</td>
+<td align="center">O que você acha que deveria ser melhorado no site em um aspecto geral?</td>
+<td align="center">estetica desagradavel, login automatico.</td>
+</tr>
+</tbody>
+</table>
+<figcaption align='center'>
+    Tabela 1: Perguntas realizadas durante a entrevista com respectivas respostas.
+</figcaption>
+
+<h3 id="entrevista-2-maria-eduarda-mendonca">Entrevista 2 - Maria Eduarda Mendonça</h3>
+<table>
+<thead>
+<tr>
+<th align="center">Número</th>
+<th align="center">Perguntas</th>
+<th align="center">Opções de resposta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">1</td>
+<td align="center">Qual a sua idade?</td>
+<td align="center">21 anos</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="center">Qual o seu nível de formação acadêmica atual?</td>
+<td align="center">[x] Graduação </br> [ ] Mestrado </br>[ ] Dutorado</td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td align="center">Com qual frequência você costuama ler livros?</td>
+<td align="center">[ ] Muita </br> [x] Média </br>[ ] Pouca</td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td align="center">Você sente a nescessidade de catalogar os livros que já leu?</td>
+<td align="center">[x] Muita </br> [ ] Média </br>[ ] Pouca</td>
+</tr>
+<tr>
+<td align="center">5</td>
+<td align="center">Ao realizar a tarefa de "adicionar uma frase que goste", qual foi sua maior dificuldade ao executá-la?</td>
+<td align="center">Escolher uma frase que faça sentido com o aplicativo e com a pessoa ao mesmo tempo.</td>
+</tr>
+<tr>
+<td align="center">6</td>
+<td align="center">Ao realizar a tarefa de "adicionar um livro lido", qual foi sua maior dificuldade ao executá-la?</td>
+<td align="center">Não teve nenhuma dificuldade.</td>
+</tr>
+<tr>
+<td align="center">7</td>
+<td align="center">Ao realizar uma tarefa de "fazer uma avaliação sobre um livro lido", qual foi sua maior dificuldade ao executá-la?</td>
+<td align="center">Não teve dificuldade.</td>
+</tr>
+<tr>
+<td align="center">8</td>
+<td align="center">Ao realizar uma tarefa de "fazer cadastro/login", qual foi sua maior dificuldade ao executá-la?</td>
+<td align="center">Não teve nenhuma.</td>
+</tr>
+<tr>
+<td align="center">9</td>
+<td align="center">O sistema forneceu ajuda/orientação a você durante suas tarefas?</td>
+<td align="center">[ ] Sim </br> [x] Não </br>[ ] Mais ou Menos</td>
+</tr>
+<tr>
+<td align="center">10</td>
+<td align="center">O sistema é intuitivo em sua utilização?</td>
+<td align="center">[x] Sim </br> [ ] Não </br>[ ] Mais ou Menos</td>
+</tr>
+<tr>
+<td align="center">11</td>
+<td align="center">Você possui controle total do site e de suas ferramentas?</td>
+<td align="center">[ ] Sim </br> [ ] Não </br>[x] Mais ou Menos</td>
+</tr>
+<tr>
+<td align="center">12</td>
+<td align="center">Qual o nível de dificuldade em encontrar os livros no site?</td>
+<td align="center">[ ] Muita </br> [x] Média </br>[ ] Pouca</td>
+</tr>
+<tr>
+<td align="center">13</td>
+<td align="center">O sistema disponibilizou acessiblidade suficiente para você durante as tarefas?</td>
+<td align="center">[ ] Sim </br> [ ] Não </br>[ ] Mais ou Menos</td>
+</tr>
+<tr>
+<td align="center">14</td>
+<td align="center">Quais as piores características do site?</td>
+<td align="center">Demora ao pesquisar o nome do livro.</td>
+</tr>
+<tr>
+<td align="center">15</td>
+<td align="center">Quais as melhores características do site?</td>
+<td align="center">poder compartilhar o que pensa sobre um livro que esta lendo.</td>
+</tr>
+<tr>
+<td align="center">16</td>
+<td align="center">O que você acha que deveria ser melhorado no site em relação as tarefas feitas?</td>
+<td align="center">Pesquisa mais rapida com auto complete.</td>
+</tr>
+<tr>
+<td align="center">17</td>
+<td align="center">O que você acha que deveria ser melhorado no site em um aspecto geral?</td>
+<td align="center">Não precisa melhorar nada.</td>
+</tr>
+</tbody>
+</table>
+<figcaption align='center'>
+    Tabela 2: Perguntas realizadas durante a entrevista com respectivas respostas.
+</figcaption>
+
+<p align="justify">Após as perguntas, foi apresentado os digramas de Análise Hierárquica de Tarefas e a Árvore de Tarefas Concorrentes para a entrevistada com o objetivo de analisar se essa concordava com as tarefas, objetivos e operações que foram levantados para o projeto. A entrevistada 02 concordou com todas as tarefas e a entrevistada 01 questionou apenas a figura 5 da Árvore de Tarefas Concorrentes.</p>
+
+<h2 id="problemas-encontrados">Problemas encontrados</h2>
+<p align="justify">Um problema encontrado foi a figura 5 da Árvore de Tarefas Concorrentes. De acordo com a entrevistada, ficou confuso a descrição de uma atividade dando a entender que uma pessoa que não leu determinado livro pode fazer a avaliação.</p>
+
+<h2 id="gravacao-da-entrevista">Gravação da entrevista</h2>
+<p><audio controls autoplay muted>
+  <source src="./assets/entrevista01.mp3" type="audio/mp3">
+</audio></p>
+<h2 id="conclusao">Conclusão</h2>
+<p align="justify">Conclui-se que é necessário fazer algumas alterações e melhorias no artefato Análise de tarefas, tanto no diagrama de Análise Hierárquica de Tarefas quanto na Árvore de Tarefas Concorrentes, detalhando mais a figura 5 que é referênte a "Avaliar um livro lido". Além disso, é necessário refazer a figura 2 referente a "cadastro e login", pois foi citado em aula que não seria interresante o desenvolvimento de tal analise.</p>
+
+<h2 id="referencias">Referências</h2>
+<blockquote>
+<p>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.</p>
+</blockquote>
+<h2 id="historico-de-versao">Histórico de versão</h2>
+<table>
+<thead>
+<tr>
+<th>Versão</th>
+<th>Data</th>
+<th>Descrição</th>
+<th>Autor(es)</th>
+<th>Revisor(es)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.0</td>
+<td>13/12/2022</td>
+<td>Criação do documento do planejamento do resultado das análise de tarefas</td>
+<td>Hellen Fernanda</td>
+<td>João Pedro</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>14/12/2022</td>
+<td>Finalização da page</td>
+<td>Hellen Fernanda</td>
+<td>João Pedro</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2022 Grupo 1
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.tabs"], "search": "../../../assets/javascripts/workers/search.db81ec45.min.js", "translations": {"clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "search.result.more.one": "Mais 1 nesta p\u00e1gina", "search.result.more.other": "Mais # nesta p\u00e1gina", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.placeholder": "Digite para iniciar a busca", "search.result.term.missing": "Ausente", "select.version": "Selecione a vers\u00e3o"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.a00a7c5e.min.js"></script>
+      
+    
+  </body>
+</html>
