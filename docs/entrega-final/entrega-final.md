@@ -40,6 +40,28 @@
 
 <figcaption align="center">Tabela 1: Informações dos artefatos. (Fonte: Autores, 2022)</figcaption>
 
+## Facilidades e Dificuldades do Projeto
+
+### Caio Vitor :
+* Facilidades: O projeto foi de legal de fazer pois complementou o que eu tinha aprendido em mds, e isso foi muito importante pois consegui criar uma base mais forte ainda
+* Dificuldades: Tive algumas dificuldades no projeto principalmente na etapa de prototipação com o Figma. pois não tinha contexto algum de como utilizar a ferramenta, mas consegui ser auxiliado pelos outros membros do nosso projeto.
+
+### Hellen Fernanda
+* Facilidades: foi tranquilo achar conteudos relacionados e artefatos já desenvolvido, dando uma base sólida na hora da produção dos artefatos do nosso grupo. Além disso, o grupo foi bastante compreensivo e não houve atritos na maioria das reuniões.
+* Dificuldades: minha maior dificuldade foi consiliar o tempo necessário para produção do trabalho e das gravações com meu dia a dia.
+
+### Lucas Lopes
+* Facilidade: Particularmente, tive bastante facilidade em entender a estrutura do projeto e suas entregas, o que me ajudou a manter um processo contínuo de desenvolvimento. Também, tive aptidão com artefatos que envolviam design em si pois tenho bastante afinidade com o assunto e me indentifico muito com o desenvolvimento front-end.
+* Dificuldade: Acredito que minha maior dificuldade foi conciliar as outras disciplinas com as constantes entregas deste projeto, o que tornou o processo um pouco cansativo e desgastante, de certa forma. Além disso, tive um pouco de dificuldade em absorver a estrutura e elementos necessários nos planejamentos.
+
+### Lucas Lopes
+* Facilidade: Particularmente, tive bastante facilidade em entender a estrutura do projeto e suas entregas, o que me ajudou a manter um processo contínuo de desenvolvimento. Também, tive aptidão com artefatos que envolviam design em si pois tenho bastante afinidade com o assunto e me indentifico muito com o desenvolvimento front-end.
+* Dificuldade: Acredito que minha maior dificuldade foi conciliar as outras disciplinas com as constantes entregas deste projeto, o que tornou o processo um pouco cansativo e desgastante, de certa forma. Além disso, tive um pouco de dificuldade em absorver a estrutura e elementos necessários nos planejamentos. 
+
+### Wildemberg Sales:
+* Facilidades: O projeto correu de forma tranquila, sem problemas para realizar os artefatos, conseguimos entregar sempre nas datas previstas, conseguimos corrigir rapidamente nossos artefatos quando apresentavam problemas;
+* Dificuldades: Obtive dificuldades na hora de realizar a verificação dos artefatos que me foram definidos por não saber o quão bom estava minha verificação, tive alguns problemas na hora de realizar a mesclagem das questões de usabilidade de Sharp com as Heurísticas de Nielsen, mas foram supridas depois de entender a estrutura;
+
 ## Conclusão
 <p align="justify">Ao executar o projeto da disciplica, os autores obtiveram os conhecimentos e técnicas de cada tópico da Interação Humano-Computador, destacando as principais teorias de fundamento, métodos e técnicas utilizadas para a concepção e desenvolvimento de sistemas e avaliação de uso, neste caso, utilizando o site Skoob.</p>
 
@@ -48,3 +70,4 @@
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 31/01/2023 | Criação da página | Lucas Lopes | Philipe de Sousa |
 | 1.1 | 01/02/2023 | Inclusão da conclusão | Lucas Lopes | Philipe de Sousa |
+| 1.2 | 02/02/2023 | Adiconando facilidade e dificuldades | Wildemberg Sales | Philipe de Sousa|
