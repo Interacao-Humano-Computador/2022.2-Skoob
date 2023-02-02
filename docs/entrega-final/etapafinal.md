@@ -32,8 +32,10 @@ Esta página é destinada à apresentação da Etapa Final do projeto de Intera�
 
 ### Gravação
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PYXiTkjg2jM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 31/01/2023 | Criação da página | Lucas Lopes | Caio Vitor |
+| 1.1 | 01/02/2023 | Adição da gravação | Wildemberg Sales | Caio Vitor |
