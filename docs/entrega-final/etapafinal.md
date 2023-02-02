@@ -1,7 +1,7 @@
 # Etapa Final - 01/02
 
 ## Introdução
-Esta página é destinada à apresentação da Etapa Final do projeto de Interação Humano-Computador. Essa etapa foca na apresentação de todos os artefatos e conclusão do projeto. A gravação da apresentação ocorreu no dia 01/02/2023 às 20:XX.
+Esta página é destinada à apresentação da Etapa Final do projeto de Interação Humano-Computador. Essa etapa foca na apresentação de todos os artefatos e conclusão do projeto. A gravação da apresentação ocorreu no dia 01/02/2023 às 21:49.
 
 ## Entregas
 <ol>
