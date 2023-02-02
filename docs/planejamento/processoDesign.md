@@ -110,9 +110,9 @@ Deborah Mayhew (1999) propôs um ciclo de vida que tem uma visão holística, es
 ### 4. Justificativa da Escolha do Processo de Design
 
 <p align="justify">
-De acordo com os modelos estudados e analisados, o Ciclo de Mayhew foi avaliado como o mais adequado para a condução do projeto por seus artefatos serem mais simples e completos e acreditando que a ideia clara do ciclo seja mais interativa e conexa pode ser justificada pela escolha do grupo.
+De acordo com os modelos estudados e analisados, o Ciclo de Mayhew foi avaliado como o mais adequado para a condução do projeto por seus artefatos serem mais detalhados e completos e acreditando que a ideia clara do ciclo seja mais interativa e conexa pode ser justificada pela escolha do grupo.
 
-Dentre os modelos que foram apresentados nesta pagina, o que mais se adequea para fazer a intervenção neste caso é o ciclo de Mayhew, devido seus artefados serem mais simples e completos, deixando um claro objetivo do que precisa ser feito e as etapas e passos bem definidos para que se alancece isto.
+Dentre os modelos que foram apresentados nesta página, o que mais se adequa para fazer a intervenção neste caso é o ciclo de Mayhew, devido seus artefados serem mais simples e completos, deixando um claro objetivo do que precisa ser feito e as etapas e passos bem definidos para que se alcance isto.
 </p>
 
 ### 5. Bibliografia
